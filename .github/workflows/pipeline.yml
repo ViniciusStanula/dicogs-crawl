@@ -91,7 +91,7 @@ jobs:
           MB_CONTACT: ${{ secrets.MB_CONTACT }}
         run: |
           python enrich_discogs.py \
-            --main-only \
+            --max-versions 50 \
             --max-minutes 320
 
       - name: Commit enriched data
