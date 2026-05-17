@@ -1,0 +1,105 @@
+name: Music Data Pipeline
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:         # manual trigger
+
+jobs:
+  crawl:
+    name: Phase 1 — Crawl MusicBrainz
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Restore API cache
+        uses: actions/cache@v4
+        with:
+          path: cache/
+          key: api-cache-${{ hashFiles('cache/**') }}
+          restore-keys: api-cache-
+
+      - name: Restore crawl output
+        uses: actions/cache@v4
+        with:
+          path: mb_data.json
+          key: mb-data-${{ github.run_id }}
+          restore-keys: mb-data-
+
+      - name: Run crawler
+        env:
+          MB_CONTACT: ${{ secrets.MB_CONTACT }}
+        run: |
+          python crawl_musicbrainz.py \
+            --genres "all" \
+            --min-score 70 \
+            --max-minutes 320
+
+      - name: Commit crawl data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add mb_data.json
+          git diff --cached --quiet || git commit -m "chore: update mb_data.json [skip ci]"
+          git push
+
+  enrich:
+    name: Phase 2 — Enrich Discogs
+    runs-on: ubuntu-latest
+    needs: crawl
+    timeout-minutes: 350
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}   # get latest commit (includes crawl data)
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Restore API cache
+        uses: actions/cache@v4
+        with:
+          path: cache/
+          key: api-cache-${{ hashFiles('cache/**') }}
+          restore-keys: api-cache-
+
+      - name: Restore enriched output
+        uses: actions/cache@v4
+        with:
+          path: |
+            enriched_data.json
+            covers/
+          key: enriched-${{ github.run_id }}
+          restore-keys: enriched-
+
+      - name: Run enrichment
+        env:
+          DISCOGS_KEY: ${{ secrets.DISCOGS_KEY }}
+          DISCOGS_SECRET: ${{ secrets.DISCOGS_SECRET }}
+          MB_CONTACT: ${{ secrets.MB_CONTACT }}
+        run: |
+          python enrich_discogs.py \
+            --main-only \
+            --max-minutes 320
+
+      - name: Commit enriched data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add enriched_data.json covers/
+          git diff --cached --quiet || git commit -m "chore: update enriched_data.json [skip ci]"
+          git push
