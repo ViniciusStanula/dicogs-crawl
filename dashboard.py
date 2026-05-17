@@ -7,6 +7,7 @@ Usage:
 """
 
 import base64
+import html
 import json
 from pathlib import Path
 
@@ -442,22 +443,27 @@ with tab_alb:
     else:
         html_rows = []
         for i, row in top_albums.iterrows():
-            rc   = rank_cls(i)
-            b64  = img_b64(row["cover"])
+            rc    = rank_cls(i)
+            b64   = img_b64(row["cover"])
+            ext   = Path(row["cover"]).suffix.lstrip(".") or "jpeg" if row["cover"] else "jpeg"
+            mime  = "png" if ext == "png" else "jpeg"
             img_html = (
-                f'<img class="cover-thumb" src="data:image/jpeg;base64,{b64}">'
+                f'<img class="cover-thumb" src="data:image/{mime};base64,{b64}">'
                 if b64 else
                 '<div class="cover-placeholder">♪</div>'
             )
-            year = str(int(row["year"])) if row["year"] else "—"
+            year  = str(int(row["year"])) if pd.notna(row["year"]) else "—"
+            title = html.escape(row["title"])
+            artist = html.escape(row["artist"])
+            sub   = html.escape(row["sub_genre"])
             html_rows.append(f"""
             <div class="album-row">
                 <div class="rank {rc}">#{i + 1}</div>
                 {img_html}
                 <div class="album-info">
-                    <div class="album-title">{row['title']}</div>
-                    <div class="album-artist">{row['artist']}</div>
-                    <span class="album-sub">{row['sub_genre']}</span>
+                    <div class="album-title">{title}</div>
+                    <div class="album-artist">{artist}</div>
+                    <span class="album-sub">{sub}</span>
                 </div>
                 <div class="album-stats">
                     <div class="stars">{stars(row['rating'])}</div>
@@ -487,12 +493,14 @@ with tab_art:
             rc       = rank_cls(i)
             bar_pct  = int(row["consistency"] / max_c * 100) if max_c else 0
             std_str  = f"±{row['std_rating']:.2f}" if row["std_rating"] else "±0.00"
+            artist_e = html.escape(row["artist"])
+            sub_e    = html.escape(row["sub_genre"])
             html_rows.append(f"""
             <div class="artist-row">
                 <div class="rank {rc}">#{i + 1}</div>
                 <div style="flex:1;min-width:0">
-                    <div class="artist-name">{row['artist']}</div>
-                    <div class="artist-sub">{row['sub_genre']} · {int(row['albums'])} albums · {std_str} variance</div>
+                    <div class="artist-name">{artist_e}</div>
+                    <div class="artist-sub">{sub_e} · {int(row['albums'])} albums · {std_str} variance</div>
                     <div class="consistency-bar-bg">
                         <div class="consistency-bar-fill" style="width:{bar_pct}%"></div>
                     </div>
