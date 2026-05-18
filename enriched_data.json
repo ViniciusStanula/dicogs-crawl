@@ -5354,5 +5354,5869 @@
         "cover_path": "covers/0aeae71f-acf7-4e72-b8bc-1923bba5ea63.jpeg"
       }
     ]
+  },
+  {
+    "mbid": "3d2b98e5-556f-4451-a3ff-c50ea18d57cb",
+    "name": "Aerosmith",
+    "genre": "rock",
+    "sub_genre": "hard rock",
+    "albums": [
+      {
+        "title": "Aerosmith",
+        "year": 1973,
+        "mb_rgid": "8a58cc1a-be0d-3b1b-8d0d-aa8f467a59da",
+        "match_strategy": "url_rel",
+        "discogs_id": 1022210,
+        "discogs_reviews": 2925,
+        "discogs_rating": 4.05,
+        "cover_path": "covers/8a58cc1a-be0d-3b1b-8d0d-aa8f467a59da.jpeg"
+      },
+      {
+        "title": "Get Your Wings",
+        "year": 1974,
+        "mb_rgid": "29346fb6-69c8-3f12-90c3-9d6cbce18259",
+        "match_strategy": "url_rel",
+        "discogs_id": 1512406,
+        "discogs_reviews": 2317,
+        "discogs_rating": 4.08,
+        "cover_path": "covers/29346fb6-69c8-3f12-90c3-9d6cbce18259.jpeg"
+      },
+      {
+        "title": "Toys in the Attic",
+        "year": 1975,
+        "mb_rgid": "d03bb6b1-d7b4-38ea-974e-847cbb31dca4",
+        "match_strategy": "url_rel",
+        "discogs_id": 6790493,
+        "discogs_reviews": 5313,
+        "discogs_rating": 4.17,
+        "cover_path": "covers/d03bb6b1-d7b4-38ea-974e-847cbb31dca4.jpeg"
+      },
+      {
+        "title": "Rocks",
+        "year": 1976,
+        "mb_rgid": "775d9a2d-effc-35c8-b80a-f9a4e4206d27",
+        "match_strategy": "url_rel",
+        "discogs_id": 380484,
+        "discogs_reviews": 4047,
+        "discogs_rating": 4.13,
+        "cover_path": "covers/775d9a2d-effc-35c8-b80a-f9a4e4206d27.jpeg"
+      },
+      {
+        "title": "Draw the Line",
+        "year": 1977,
+        "mb_rgid": "8c064b13-6668-3d6c-a508-1e5d671a207d",
+        "match_strategy": "url_rel",
+        "discogs_id": 1362671,
+        "discogs_reviews": 2234,
+        "discogs_rating": 3.85,
+        "cover_path": "covers/8c064b13-6668-3d6c-a508-1e5d671a207d.jpeg"
+      },
+      {
+        "title": "Night in the Ruts",
+        "year": 1979,
+        "mb_rgid": "5aad45b5-1b5c-3764-9386-dd3efcc6a16d",
+        "match_strategy": "url_rel",
+        "discogs_id": 8349226,
+        "discogs_reviews": 1618,
+        "discogs_rating": 3.73,
+        "cover_path": "covers/5aad45b5-1b5c-3764-9386-dd3efcc6a16d.jpeg"
+      },
+      {
+        "title": "Rock in a Hard Place",
+        "year": 1982,
+        "mb_rgid": "1b1fddf5-4faa-3da6-a36b-b512f3e92046",
+        "match_strategy": "url_rel",
+        "discogs_id": 11275348,
+        "discogs_reviews": 1063,
+        "discogs_rating": 3.64,
+        "cover_path": "covers/1b1fddf5-4faa-3da6-a36b-b512f3e92046.jpeg"
+      },
+      {
+        "title": "Done With Mirrors",
+        "year": 1985,
+        "mb_rgid": "c4e9623e-19c6-34ab-8fce-4e8a4f4d3f76",
+        "match_strategy": "url_rel",
+        "discogs_id": 395648,
+        "discogs_reviews": 1426,
+        "discogs_rating": 3.62,
+        "cover_path": "covers/c4e9623e-19c6-34ab-8fce-4e8a4f4d3f76.jpeg"
+      },
+      {
+        "title": "Permanent Vacation",
+        "year": 1987,
+        "mb_rgid": "c522e905-3986-3f09-89f3-5d8bb09cc93e",
+        "match_strategy": "url_rel",
+        "discogs_id": 370526,
+        "discogs_reviews": 2750,
+        "discogs_rating": 4.03,
+        "cover_path": "covers/c522e905-3986-3f09-89f3-5d8bb09cc93e.jpeg"
+      },
+      {
+        "title": "Pump",
+        "year": 1989,
+        "mb_rgid": "8f174877-ffc4-39b9-b247-a39fff4097a1",
+        "match_strategy": "url_rel",
+        "discogs_id": 6223561,
+        "discogs_reviews": 3383,
+        "discogs_rating": 4.16,
+        "cover_path": "covers/8f174877-ffc4-39b9-b247-a39fff4097a1.jpeg"
+      },
+      {
+        "title": "Get a Grip",
+        "year": 1993,
+        "mb_rgid": "73c6a7b0-1dc2-3ddc-a720-c29505271711",
+        "match_strategy": "url_rel",
+        "discogs_id": 3780373,
+        "discogs_reviews": 2896,
+        "discogs_rating": 4.22,
+        "cover_path": "covers/73c6a7b0-1dc2-3ddc-a720-c29505271711.jpeg"
+      },
+      {
+        "title": "Nine Lives",
+        "year": 1997,
+        "mb_rgid": "7b30dd01-ee8f-392c-862d-4598e46b83f8",
+        "match_strategy": "url_rel",
+        "discogs_id": 423821,
+        "discogs_reviews": 1440,
+        "discogs_rating": 3.97,
+        "cover_path": "covers/7b30dd01-ee8f-392c-862d-4598e46b83f8.jpeg"
+      },
+      {
+        "title": "Just Push Play",
+        "year": 2001,
+        "mb_rgid": "2fb275a3-1cd9-33b6-95e4-70fe3f092649",
+        "match_strategy": "url_rel",
+        "discogs_id": 370532,
+        "discogs_reviews": 928,
+        "discogs_rating": 3.69,
+        "cover_path": "covers/2fb275a3-1cd9-33b6-95e4-70fe3f092649.jpeg"
+      },
+      {
+        "title": "Honkin’ on Bobo",
+        "year": 2003,
+        "mb_rgid": "65ad56ff-dcef-378c-b172-4a92aedb6958",
+        "match_strategy": "url_rel",
+        "discogs_id": 2025154,
+        "discogs_reviews": 708,
+        "discogs_rating": 3.92,
+        "cover_path": "covers/65ad56ff-dcef-378c-b172-4a92aedb6958.jpeg"
+      },
+      {
+        "title": "Music From Another Dimension!",
+        "year": 2012,
+        "mb_rgid": "1ffa5a81-67c9-4e39-af6e-fcb4b101ddef",
+        "match_strategy": "url_rel",
+        "discogs_id": 4043444,
+        "discogs_reviews": 688,
+        "discogs_rating": 3.85,
+        "cover_path": "covers/1ffa5a81-67c9-4e39-af6e-fcb4b101ddef.jpeg"
+      }
+    ]
+  },
+  {
+    "mbid": "0bbbc496-c7b5-4b3f-bb6d-bd312827d6e5",
+    "name": "Roy Orbison",
+    "genre": "rock",
+    "sub_genre": "rockabilly",
+    "albums": [
+      {
+        "title": "At the Rock House",
+        "year": 1961,
+        "mb_rgid": "242df254-415d-4bb3-9492-e399741b8a7d",
+        "match_strategy": "search",
+        "discogs_id": 25401709,
+        "discogs_reviews": 3,
+        "discogs_rating": 5.0,
+        "cover_path": null
+      },
+      {
+        "title": "Lonely and Blue",
+        "year": 1961,
+        "mb_rgid": "d986242d-adc5-3148-951c-319c1c33b904",
+        "match_strategy": "url_rel",
+        "discogs_id": 5298384,
+        "discogs_reviews": 285,
+        "discogs_rating": 4.32,
+        "cover_path": "covers/d986242d-adc5-3148-951c-319c1c33b904.jpeg"
+      },
+      {
+        "title": "Crying",
+        "year": 1962,
+        "mb_rgid": "f2bbca17-ef62-3ff9-b938-2ff6ce284868",
+        "match_strategy": "url_rel",
+        "discogs_id": 3329903,
+        "discogs_reviews": 313,
+        "discogs_rating": 4.32,
+        "cover_path": "covers/f2bbca17-ef62-3ff9-b938-2ff6ce284868.jpeg"
+      },
+      {
+        "title": "In Dreams",
+        "year": 1963,
+        "mb_rgid": "0fffd8e9-d97e-3265-90fd-edc16106f4cf",
+        "match_strategy": "url_rel",
+        "discogs_id": 8916017,
+        "discogs_reviews": 333,
+        "discogs_rating": 4.3,
+        "cover_path": "covers/0fffd8e9-d97e-3265-90fd-edc16106f4cf.jpeg"
+      },
+      {
+        "title": "There Is Only One Roy Orbison",
+        "year": 1965,
+        "mb_rgid": "319a9ba8-4a45-4322-a47e-6dc366a77c7e",
+        "match_strategy": "url_rel",
+        "discogs_id": 2382685,
+        "discogs_reviews": 194,
+        "discogs_rating": 4.02,
+        "cover_path": "covers/319a9ba8-4a45-4322-a47e-6dc366a77c7e.jpeg"
+      },
+      {
+        "title": "The Orbison Way",
+        "year": 1966,
+        "mb_rgid": "7d01e78b-ce6a-4176-a563-0622c6ddf7d6",
+        "match_strategy": "search",
+        "discogs_id": 29259001,
+        "discogs_reviews": null,
+        "discogs_rating": null,
+        "cover_path": null
+      },
+      {
+        "title": "The Classic Roy Orbison",
+        "year": 1966,
+        "mb_rgid": "4e64aea1-87d8-498e-be63-a2099d3a9c9c",
+        "match_strategy": "url_rel",
+        "discogs_id": 2108386,
+        "discogs_reviews": 176,
+        "discogs_rating": 3.94,
+        "cover_path": "covers/4e64aea1-87d8-498e-be63-a2099d3a9c9c.jpeg"
+      },
+      {
+        "title": "Sings Don Gibson",
+        "year": 1967,
+        "mb_rgid": "7aff8c81-83a6-43cd-b92c-8c5b3c42920b",
+        "match_strategy": null,
+        "discogs_id": null,
+        "discogs_reviews": null,
+        "discogs_rating": null,
+        "cover_path": null
+      },
+      {
+        "title": "Cry Softly Lonely One",
+        "year": 1967,
+        "mb_rgid": "7617d0e3-6544-3b12-b7b2-e4925b640986",
+        "match_strategy": "search",
+        "discogs_id": 2449529,
+        "discogs_reviews": 14,
+        "discogs_rating": 4.14,
+        "cover_path": null
+      },
+      {
+        "title": "Live in Melbourne 1967 (Live: Melbourne Festival Hall, Australia January 1967)",
+        "year": 1967,
+        "mb_rgid": "1a2349cf-e036-42d0-98b8-56dd7c5fca7a",
+        "match_strategy": null,
+        "discogs_id": null,
+        "discogs_reviews": null,
+        "discogs_rating": null,
+        "cover_path": null
+      },
+      {
+        "title": "Roy Orbison’s Many Moods",
+        "year": 1969,
+        "mb_rgid": "f26ce7f9-af85-3937-bda0-90547cfad063",
+        "match_strategy": null,
+        "discogs_id": null,
+        "discogs_reviews": null,
+        "discogs_rating": null,
+        "cover_path": null
+      },
+      {
+        "title": "Hank Williams the Roy Orbison Way",
+        "year": 1970,
+        "mb_rgid": "29100dba-4e92-458f-81a6-2a65ca8fe9fa",
+        "match_strategy": "search",
+        "discogs_id": 14825702,
+        "discogs_reviews": null,
+        "discogs_rating": null,
+        "cover_path": null
+      },
+      {
+        "title": "Big O",
+        "year": 1970,
+        "mb_rgid": "2ef044f7-a5a8-47e9-9faf-e78bc200cbf2",
+        "match_strategy": "url_rel",
+        "discogs_id": 2935454,
+        "discogs_reviews": 69,
+        "discogs_rating": 3.99,
+        "cover_path": "covers/2ef044f7-a5a8-47e9-9faf-e78bc200cbf2.jpeg"
+      },
+      {
+        "title": "Roy Orbison Sings",
+        "year": 1972,
+        "mb_rgid": "035baa82-0632-48bd-93b5-5ce7b0cb00cc",
+        "match_strategy": "url_rel",
+        "discogs_id": 10941061,
+        "discogs_reviews": 48,
+        "discogs_rating": 3.92,
+        "cover_path": "covers/035baa82-0632-48bd-93b5-5ce7b0cb00cc.jpeg"
+      },
+      {
+        "title": "Memphis",
+        "year": 1972,
+        "mb_rgid": "eb3a1944-9cff-490f-b991-d059026ad71e",
+        "match_strategy": null,
+        "discogs_id": null,
+        "discogs_reviews": null,
+        "discogs_rating": null,
+        "cover_path": null
+      },
+      {
+        "title": "Milestones",
+        "year": 1973,
+        "mb_rgid": "fa9dd5af-f82c-4180-981d-a3cdb4993742",
+        "match_strategy": "url_rel",
+        "discogs_id": 4642367,
+        "discogs_reviews": 25,
+        "discogs_rating": 3.72,
+        "cover_path": "covers/fa9dd5af-f82c-4180-981d-a3cdb4993742.jpeg"
+      },
+      {
+        "title": "I’m Still In Love With You",
+        "year": 1975,
+        "mb_rgid": "d5107d0b-3f58-4a22-a3a9-fecd7dd6f6bc",
+        "match_strategy": null,
+        "discogs_id": null,
+        "discogs_reviews": null,
+        "discogs_rating": null,
+        "cover_path": null
+      },
+      {
+        "title": "Regeneration",
+        "year": 1976,
+        "mb_rgid": "ca5a4399-a93a-32eb-9775-632f00adb4ad",
+        "match_strategy": "url_rel",
+        "discogs_id": 12576103,
+        "discogs_reviews": 84,
+        "discogs_rating": 3.9,
+        "cover_path": "covers/ca5a4399-a93a-32eb-9775-632f00adb4ad.jpeg"
+      },
+      {
+        "title": "Laminar Flow",
+        "year": 1979,
+        "mb_rgid": "9c51f6bd-da7b-38e8-87f1-28e8994e10ba",
+        "match_strategy": "search",
+        "discogs_id": 13473033,
+        "discogs_reviews": 3,
+        "discogs_rating": 3.33,
+        "cover_path": null
+      },
+      {
+        "title": "Class of ’55: Memphis Rock & Roll Homecoming",
+        "year": 1986,
+        "mb_rgid": "51d7fe2f-b616-302d-9274-ace06d99b5ae",
+        "match_strategy": "url_rel",
+        "discogs_id": 11757384,
+        "discogs_reviews": 242,
+        "discogs_rating": 4.05,
+        "cover_path": "covers/51d7fe2f-b616-302d-9274-ace06d99b5ae.jpeg"
+      },
+      {
+        "title": "In Dreams: The Greatest Hits",
+        "year": 1987,
+        "mb_rgid": "1a9f0789-5edf-333e-953c-c09fce5e59ec",
+        "match_strategy": "url_rel",
+        "discogs_id": 1439477,
+        "discogs_reviews": 336,
+        "discogs_rating": 4.14,
+        "cover_path": "covers/1a9f0789-5edf-333e-953c-c09fce5e59ec.jpeg"
+      },
+      {
+        "title": "Mystery Girl",
+        "year": 1988,
+        "mb_rgid": "aeb579a3-c372-3d2d-a3ce-eab86c8311f0",
+        "match_strategy": "url_rel",
+        "discogs_id": 689570,
+        "discogs_reviews": 1974,
+        "discogs_rating": 4.1,
+        "cover_path": "covers/aeb579a3-c372-3d2d-a3ce-eab86c8311f0.jpeg"
+      },
+      {
+        "title": "Blue Blue Day",
+        "year": 1989,
+        "mb_rgid": "b4117a00-5a80-48b2-85e9-0270f0370e76",
+        "match_strategy": "search",
+        "discogs_id": 23460635,
+        "discogs_reviews": 1,
+        "discogs_rating": 5.0,
+        "cover_path": null
+      },
+      {
+        "title": "The Legend",
+        "year": 1989,
+        "mb_rgid": "afcd0a07-f851-4496-bbbd-456c8a5cf6da",
+        "match_strategy": "search",
+        "discogs_id": 7130302,
+        "discogs_reviews": 2,
+        "discogs_rating": 4.5,
+        "cover_path": null
+      }
+    ]
+  },
+  {
+    "mbid": "9a3bf45c-347d-4630-894d-7cf3e8e0b632",
+    "name": "Santana",
+    "genre": "rock",
+    "sub_genre": "psychedelic rock",
+    "albums": [
+      {
+        "title": "Santana",
+        "year": 1969,
+        "mb_rgid": "cbe55545-7a3e-3f8c-8c5f-33984a818e91",
+        "match_strategy": "url_rel",
+        "discogs_id": 737224,
+        "discogs_reviews": 4464,
+        "discogs_rating": 4.35,
+        "cover_path": "covers/cbe55545-7a3e-3f8c-8c5f-33984a818e91.jpeg"
+      },
+      {
+        "title": "Abraxas",
+        "year": 1970,
+        "mb_rgid": "43424c73-fc58-36b0-b9cf-f8b057ac0603",
+        "match_strategy": "url_rel",
+        "discogs_id": 6534046,
+        "discogs_reviews": 6643,
+        "discogs_rating": 4.41,
+        "cover_path": "covers/43424c73-fc58-36b0-b9cf-f8b057ac0603.jpeg"
+      },
+      {
+        "title": "Santana",
+        "year": 1971,
+        "mb_rgid": "6258df90-78c7-3395-8830-e7b4328a002c",
+        "match_strategy": "url_rel",
+        "discogs_id": 1064602,
+        "discogs_reviews": 3290,
+        "discogs_rating": 4.29,
+        "cover_path": "covers/6258df90-78c7-3395-8830-e7b4328a002c.jpeg"
+      },
+      {
+        "title": "Caravanserai",
+        "year": 1972,
+        "mb_rgid": "5dc38932-b507-3bcd-94a9-3b39c1d96526",
+        "match_strategy": "url_rel",
+        "discogs_id": 420299,
+        "discogs_reviews": 3142,
+        "discogs_rating": 4.22,
+        "cover_path": "covers/5dc38932-b507-3bcd-94a9-3b39c1d96526.jpeg"
+      },
+      {
+        "title": "Welcome",
+        "year": 1973,
+        "mb_rgid": "876c98fb-5404-3a66-8cbf-17d1e97d1c99",
+        "match_strategy": "url_rel",
+        "discogs_id": 1498796,
+        "discogs_reviews": 1576,
+        "discogs_rating": 3.93,
+        "cover_path": "covers/876c98fb-5404-3a66-8cbf-17d1e97d1c99.jpeg"
+      },
+      {
+        "title": "Borboletta",
+        "year": 1974,
+        "mb_rgid": "216bd1a1-6ea3-321d-8059-d1c994f7b593",
+        "match_strategy": "url_rel",
+        "discogs_id": 738201,
+        "discogs_reviews": 1713,
+        "discogs_rating": 4.02,
+        "cover_path": "covers/216bd1a1-6ea3-321d-8059-d1c994f7b593.jpeg"
+      },
+      {
+        "title": "Amigos",
+        "year": 1976,
+        "mb_rgid": "a283b3d8-0050-3681-93cf-a23dbc6570d8",
+        "match_strategy": "url_rel",
+        "discogs_id": 1058763,
+        "discogs_reviews": 2172,
+        "discogs_rating": 3.99,
+        "cover_path": "covers/a283b3d8-0050-3681-93cf-a23dbc6570d8.jpeg"
+      },
+      {
+        "title": "Festivál",
+        "year": 1976,
+        "mb_rgid": "d5f29850-40c4-33d2-b0d0-44eb96699b32",
+        "match_strategy": "url_rel",
+        "discogs_id": 8605784,
+        "discogs_reviews": 1458,
+        "discogs_rating": 3.83,
+        "cover_path": "covers/d5f29850-40c4-33d2-b0d0-44eb96699b32.jpeg"
+      },
+      {
+        "title": "Inner Secrets",
+        "year": 1978,
+        "mb_rgid": "1df691bb-c409-3389-9076-eaf09913696b",
+        "match_strategy": "url_rel",
+        "discogs_id": 1804737,
+        "discogs_reviews": 1974,
+        "discogs_rating": 3.85,
+        "cover_path": "covers/1df691bb-c409-3389-9076-eaf09913696b.jpeg"
+      },
+      {
+        "title": "Marathon",
+        "year": 1979,
+        "mb_rgid": "9723bd80-8106-3ef1-8e85-3ed1067a1fae",
+        "match_strategy": "url_rel",
+        "discogs_id": 1457525,
+        "discogs_reviews": 1383,
+        "discogs_rating": 3.8,
+        "cover_path": "covers/9723bd80-8106-3ef1-8e85-3ed1067a1fae.jpeg"
+      },
+      {
+        "title": "Zebop!",
+        "year": 1981,
+        "mb_rgid": "db3643f5-a930-324f-b2e0-2c736ce6311f",
+        "match_strategy": "url_rel",
+        "discogs_id": 1079527,
+        "discogs_reviews": 1496,
+        "discogs_rating": 3.86,
+        "cover_path": "covers/db3643f5-a930-324f-b2e0-2c736ce6311f.jpeg"
+      },
+      {
+        "title": "Shangó",
+        "year": 1982,
+        "mb_rgid": "3654ca27-635d-3740-99bd-ebba85f04f58",
+        "match_strategy": "url_rel",
+        "discogs_id": 4575591,
+        "discogs_reviews": 997,
+        "discogs_rating": 3.87,
+        "cover_path": "covers/3654ca27-635d-3740-99bd-ebba85f04f58.jpeg"
+      },
+      {
+        "title": "Beyond Appearances",
+        "year": 1985,
+        "mb_rgid": "74147aaa-dcb9-3401-919b-25a8bf7a7fa6",
+        "match_strategy": "url_rel",
+        "discogs_id": 2290254,
+        "discogs_reviews": 679,
+        "discogs_rating": 3.77,
+        "cover_path": "covers/74147aaa-dcb9-3401-919b-25a8bf7a7fa6.jpeg"
+      },
+      {
+        "title": "Freedom",
+        "year": 1987,
+        "mb_rgid": "233d959e-f8aa-3016-bea7-c8a7fa0dedab",
+        "match_strategy": "url_rel",
+        "discogs_id": 2290259,
+        "discogs_reviews": 653,
+        "discogs_rating": 3.77,
+        "cover_path": "covers/233d959e-f8aa-3016-bea7-c8a7fa0dedab.jpeg"
+      },
+      {
+        "title": "Spirits Dancing in the Flesh",
+        "year": 1990,
+        "mb_rgid": "536d1d19-f7ea-3c8c-9d5b-8cea6d4f606c",
+        "match_strategy": "url_rel",
+        "discogs_id": 898031,
+        "discogs_reviews": 290,
+        "discogs_rating": 3.88,
+        "cover_path": "covers/536d1d19-f7ea-3c8c-9d5b-8cea6d4f606c.jpeg"
+      },
+      {
+        "title": "Milagro",
+        "year": 1992,
+        "mb_rgid": "0e6c6c9b-bf10-3466-9efa-2694ec677584",
+        "match_strategy": "url_rel",
+        "discogs_id": 1925189,
+        "discogs_reviews": 284,
+        "discogs_rating": 3.98,
+        "cover_path": "covers/0e6c6c9b-bf10-3466-9efa-2694ec677584.jpeg"
+      },
+      {
+        "title": "Supernatural",
+        "year": 1999,
+        "mb_rgid": "70e23797-9da2-33bb-be6f-a85e7b581b69",
+        "match_strategy": "url_rel",
+        "discogs_id": 807636,
+        "discogs_reviews": 2695,
+        "discogs_rating": 4.26,
+        "cover_path": "covers/70e23797-9da2-33bb-be6f-a85e7b581b69.jpeg"
+      },
+      {
+        "title": "Shaman",
+        "year": 2002,
+        "mb_rgid": "61d34b6c-f1ff-3bf7-9e62-0bbde363a283",
+        "match_strategy": "url_rel",
+        "discogs_id": 393718,
+        "discogs_reviews": 752,
+        "discogs_rating": 3.93,
+        "cover_path": "covers/61d34b6c-f1ff-3bf7-9e62-0bbde363a283.jpeg"
+      },
+      {
+        "title": "All That I Am",
+        "year": 2005,
+        "mb_rgid": "f47c76c1-4cce-3fc8-9c08-bc94c07940fb",
+        "match_strategy": "url_rel",
+        "discogs_id": 556817,
+        "discogs_reviews": 273,
+        "discogs_rating": 3.72,
+        "cover_path": "covers/f47c76c1-4cce-3fc8-9c08-bc94c07940fb.jpeg"
+      },
+      {
+        "title": "Guitar Heaven: The Greatest Guitar Classics of All Time",
+        "year": 2010,
+        "mb_rgid": "34c100e7-7d88-47cf-b5c4-a2b28bb90f20",
+        "match_strategy": "url_rel",
+        "discogs_id": 2530945,
+        "discogs_reviews": 242,
+        "discogs_rating": 3.95,
+        "cover_path": "covers/34c100e7-7d88-47cf-b5c4-a2b28bb90f20.jpeg"
+      },
+      {
+        "title": "Shape Shifter",
+        "year": 2012,
+        "mb_rgid": "32be5103-cf9a-47d3-9cf4-e90c51efcde0",
+        "match_strategy": "url_rel",
+        "discogs_id": 3604037,
+        "discogs_reviews": 194,
+        "discogs_rating": 3.96,
+        "cover_path": "covers/32be5103-cf9a-47d3-9cf4-e90c51efcde0.jpeg"
+      },
+      {
+        "title": "Corazón",
+        "year": 2014,
+        "mb_rgid": "7dd591ea-e6b4-44dd-a08a-3d8b8114f78d",
+        "match_strategy": "url_rel",
+        "discogs_id": 5932652,
+        "discogs_reviews": 115,
+        "discogs_rating": 3.91,
+        "cover_path": "covers/7dd591ea-e6b4-44dd-a08a-3d8b8114f78d.jpeg"
+      },
+      {
+        "title": "Santana IV",
+        "year": 2016,
+        "mb_rgid": "6b34c665-c427-46f3-ab40-81d6eb8d7d74",
+        "match_strategy": "url_rel",
+        "discogs_id": 8381580,
+        "discogs_reviews": 550,
+        "discogs_rating": 4.29,
+        "cover_path": "covers/6b34c665-c427-46f3-ab40-81d6eb8d7d74.jpeg"
+      },
+      {
+        "title": "Power of Peace",
+        "year": 2017,
+        "mb_rgid": "de8a6b96-6845-484a-bb80-5e06cba974a5",
+        "match_strategy": "url_rel",
+        "discogs_id": 10621318,
+        "discogs_reviews": 146,
+        "discogs_rating": 4.17,
+        "cover_path": "covers/de8a6b96-6845-484a-bb80-5e06cba974a5.jpeg"
+      }
+    ]
+  },
+  {
+    "mbid": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+    "name": "King Crimson",
+    "genre": "rock",
+    "sub_genre": "progressive rock",
+    "albums": [
+      {
+        "title": "In the Court of the Crimson King",
+        "year": 1969,
+        "mb_rgid": "a50636b5-5233-3329-a7f3-dba3d0e00ef7",
+        "match_strategy": "url_rel",
+        "discogs_id": 2287669,
+        "discogs_reviews": 10214,
+        "discogs_rating": 4.64,
+        "cover_path": "covers/a50636b5-5233-3329-a7f3-dba3d0e00ef7.jpeg"
+      },
+      {
+        "title": "In the Wake of Poseidon",
+        "year": 1970,
+        "mb_rgid": "ef9dfb95-3217-3006-84e2-92037460eb27",
+        "match_strategy": "url_rel",
+        "discogs_id": 812575,
+        "discogs_reviews": 3141,
+        "discogs_rating": 4.37,
+        "cover_path": "covers/ef9dfb95-3217-3006-84e2-92037460eb27.jpeg"
+      },
+      {
+        "title": "Lizard",
+        "year": 1970,
+        "mb_rgid": "abe5a8ec-20c9-3d49-bb2d-4c371bf1ef25",
+        "match_strategy": "url_rel",
+        "discogs_id": 1156598,
+        "discogs_reviews": 2717,
+        "discogs_rating": 4.39,
+        "cover_path": "covers/abe5a8ec-20c9-3d49-bb2d-4c371bf1ef25.jpeg"
+      },
+      {
+        "title": "Islands",
+        "year": 1971,
+        "mb_rgid": "294ffbbb-75bb-3f65-b309-94a99fa3c194",
+        "match_strategy": "url_rel",
+        "discogs_id": 1578634,
+        "discogs_reviews": 2409,
+        "discogs_rating": 4.3,
+        "cover_path": "covers/294ffbbb-75bb-3f65-b309-94a99fa3c194.jpeg"
+      },
+      {
+        "title": "Larks’ Tongues in Aspic",
+        "year": 1973,
+        "mb_rgid": "6d655093-4a0b-32ca-8d0e-b497d6ac781d",
+        "match_strategy": "url_rel",
+        "discogs_id": 1634869,
+        "discogs_reviews": 3034,
+        "discogs_rating": 4.52,
+        "cover_path": "covers/6d655093-4a0b-32ca-8d0e-b497d6ac781d.jpeg"
+      },
+      {
+        "title": "Starless and Bible Black",
+        "year": 1974,
+        "mb_rgid": "e65ee097-180e-3116-8b68-599b177947b8",
+        "match_strategy": "url_rel",
+        "discogs_id": 9175978,
+        "discogs_reviews": 2408,
+        "discogs_rating": 4.4,
+        "cover_path": "covers/e65ee097-180e-3116-8b68-599b177947b8.jpeg"
+      },
+      {
+        "title": "Red",
+        "year": 1974,
+        "mb_rgid": "89bc97c8-921a-3758-8481-3b39c564e297",
+        "match_strategy": "url_rel",
+        "discogs_id": 702337,
+        "discogs_reviews": 3943,
+        "discogs_rating": 4.63,
+        "cover_path": "covers/89bc97c8-921a-3758-8481-3b39c564e297.jpeg"
+      },
+      {
+        "title": "Discipline",
+        "year": 1981,
+        "mb_rgid": "d498c31d-3b72-3748-a142-df0bf774a920",
+        "match_strategy": "url_rel",
+        "discogs_id": 172074,
+        "discogs_reviews": 3063,
+        "discogs_rating": 4.44,
+        "cover_path": "covers/d498c31d-3b72-3748-a142-df0bf774a920.jpeg"
+      },
+      {
+        "title": "Beat",
+        "year": 1982,
+        "mb_rgid": "d17dc291-f818-3803-9ac5-1c6cfb73d8d6",
+        "match_strategy": "url_rel",
+        "discogs_id": 7132876,
+        "discogs_reviews": 1674,
+        "discogs_rating": 4.14,
+        "cover_path": "covers/d17dc291-f818-3803-9ac5-1c6cfb73d8d6.jpeg"
+      },
+      {
+        "title": "Three of a Perfect Pair",
+        "year": 1984,
+        "mb_rgid": "939fde6a-e999-33a9-a7a0-7679aefe8bb0",
+        "match_strategy": "url_rel",
+        "discogs_id": 252769,
+        "discogs_reviews": 1806,
+        "discogs_rating": 4.17,
+        "cover_path": "covers/939fde6a-e999-33a9-a7a0-7679aefe8bb0.jpeg"
+      },
+      {
+        "title": "THRAK",
+        "year": 1995,
+        "mb_rgid": "e521e3fa-01d8-33d6-aec2-1b5584233e99",
+        "match_strategy": "url_rel",
+        "discogs_id": 402613,
+        "discogs_reviews": 1144,
+        "discogs_rating": 4.31,
+        "cover_path": "covers/e521e3fa-01d8-33d6-aec2-1b5584233e99.jpeg"
+      },
+      {
+        "title": "The ConstruKction of Light",
+        "year": 2000,
+        "mb_rgid": "dd7db5e6-4239-3967-aa13-1fa082471d09",
+        "match_strategy": "url_rel",
+        "discogs_id": 1200145,
+        "discogs_reviews": 724,
+        "discogs_rating": 4.2,
+        "cover_path": "covers/dd7db5e6-4239-3967-aa13-1fa082471d09.jpeg"
+      },
+      {
+        "title": "The Power to Believe",
+        "year": 2003,
+        "mb_rgid": "afaaef0d-eb28-3fbf-bf79-fe5454b660fb",
+        "match_strategy": "url_rel",
+        "discogs_id": 469866,
+        "discogs_reviews": 836,
+        "discogs_rating": 4.35,
+        "cover_path": "covers/afaaef0d-eb28-3fbf-bf79-fe5454b660fb.jpeg"
+      }
+    ]
+  },
+  {
+    "mbid": "a35237a0-4f47-40a6-b6f3-1e786db23402",
+    "name": "Rod Stewart",
+    "genre": "rock",
+    "sub_genre": "blues rock",
+    "albums": [
+      {
+        "title": "An Old Raincoat Won’t Ever Let You Down",
+        "year": 1969,
+        "mb_rgid": "37161fe5-9533-372b-8d0c-e3bc4c69d997",
+        "match_strategy": "url_rel",
+        "discogs_id": 11950577,
+        "discogs_reviews": 753,
+        "discogs_rating": 4.09,
+        "cover_path": "covers/37161fe5-9533-372b-8d0c-e3bc4c69d997.jpeg"
+      },
+      {
+        "title": "Gasoline Alley",
+        "year": 1970,
+        "mb_rgid": "a19460f8-19fa-3bd6-987a-799b32d701e2",
+        "match_strategy": "url_rel",
+        "discogs_id": 5040889,
+        "discogs_reviews": 1302,
+        "discogs_rating": 4.13,
+        "cover_path": "covers/a19460f8-19fa-3bd6-987a-799b32d701e2.jpeg"
+      },
+      {
+        "title": "Every Picture Tells a Story",
+        "year": 1971,
+        "mb_rgid": "d4e7be0c-6db3-372e-aee6-e048dbb9ac51",
+        "match_strategy": "url_rel",
+        "discogs_id": 1300866,
+        "discogs_reviews": 2823,
+        "discogs_rating": 4.14,
+        "cover_path": "covers/d4e7be0c-6db3-372e-aee6-e048dbb9ac51.jpeg"
+      },
+      {
+        "title": "Never a Dull Moment",
+        "year": 1972,
+        "mb_rgid": "9989d7f2-091e-3727-9e94-761f196d3060",
+        "match_strategy": "url_rel",
+        "discogs_id": 34454323,
+        "discogs_reviews": 1592,
+        "discogs_rating": 4.01,
+        "cover_path": "covers/9989d7f2-091e-3727-9e94-761f196d3060.jpeg"
+      },
+      {
+        "title": "Smiler",
+        "year": 1974,
+        "mb_rgid": "0a2f9749-5d72-3dc4-a26c-50d9d6aef133",
+        "match_strategy": "search",
+        "discogs_id": 18611047,
+        "discogs_reviews": 1,
+        "discogs_rating": 4.0,
+        "cover_path": null
+      },
+      {
+        "title": "Atlantic Crossing",
+        "year": 1975,
+        "mb_rgid": "86b4f6df-d9f3-36c9-84bc-72df785d16f6",
+        "match_strategy": "url_rel",
+        "discogs_id": 864428,
+        "discogs_reviews": 1837,
+        "discogs_rating": 3.81,
+        "cover_path": "covers/86b4f6df-d9f3-36c9-84bc-72df785d16f6.jpeg"
+      },
+      {
+        "title": "A Night on the Town",
+        "year": 1976,
+        "mb_rgid": "e477ebfb-d037-3540-9c45-0ee3c5dd1df9",
+        "match_strategy": "url_rel",
+        "discogs_id": 1367468,
+        "discogs_reviews": 1792,
+        "discogs_rating": 3.78,
+        "cover_path": "covers/e477ebfb-d037-3540-9c45-0ee3c5dd1df9.jpeg"
+      },
+      {
+        "title": "Foot Loose & Fancy Free",
+        "year": 1977,
+        "mb_rgid": "1eecf260-4016-3762-a8e9-e35446540c04",
+        "match_strategy": "url_rel",
+        "discogs_id": 6053132,
+        "discogs_reviews": 1732,
+        "discogs_rating": 3.79,
+        "cover_path": "covers/1eecf260-4016-3762-a8e9-e35446540c04.jpeg"
+      },
+      {
+        "title": "Blondes Have More Fun",
+        "year": 1978,
+        "mb_rgid": "3728ce92-fae9-3e9b-a7b7-3359dd7ac336",
+        "match_strategy": "url_rel",
+        "discogs_id": 1159160,
+        "discogs_reviews": 2218,
+        "discogs_rating": 3.7,
+        "cover_path": "covers/3728ce92-fae9-3e9b-a7b7-3359dd7ac336.jpeg"
+      },
+      {
+        "title": "Foolish Behaviour",
+        "year": 1980,
+        "mb_rgid": "b85e2cc1-9666-3b9a-9498-21fb38ab8b2f",
+        "match_strategy": "url_rel",
+        "discogs_id": 1368147,
+        "discogs_reviews": 1099,
+        "discogs_rating": 3.71,
+        "cover_path": "covers/b85e2cc1-9666-3b9a-9498-21fb38ab8b2f.jpeg"
+      },
+      {
+        "title": "Tonight I’m Yours",
+        "year": 1981,
+        "mb_rgid": "a9669b83-2269-3eeb-a6b8-afdafe3725ea",
+        "match_strategy": "url_rel",
+        "discogs_id": 13312850,
+        "discogs_reviews": 1191,
+        "discogs_rating": 3.72,
+        "cover_path": "covers/a9669b83-2269-3eeb-a6b8-afdafe3725ea.jpeg"
+      },
+      {
+        "title": "Body Wishes",
+        "year": 1983,
+        "mb_rgid": "cfece7f2-af84-3280-827e-b7f698a25e54",
+        "match_strategy": "url_rel",
+        "discogs_id": 1690738,
+        "discogs_reviews": 1087,
+        "discogs_rating": 3.68,
+        "cover_path": "covers/cfece7f2-af84-3280-827e-b7f698a25e54.jpeg"
+      },
+      {
+        "title": "Camouflage",
+        "year": 1984,
+        "mb_rgid": "d191b4e6-e566-3852-b929-24f95cef0aea",
+        "match_strategy": "url_rel",
+        "discogs_id": 1876492,
+        "discogs_reviews": 810,
+        "discogs_rating": 3.59,
+        "cover_path": "covers/d191b4e6-e566-3852-b929-24f95cef0aea.jpeg"
+      },
+      {
+        "title": "Every Beat of My Heart",
+        "year": 1986,
+        "mb_rgid": "5371165c-a1b5-31c7-8710-0fba48140636",
+        "match_strategy": "url_rel",
+        "discogs_id": 1402240,
+        "discogs_reviews": 832,
+        "discogs_rating": 3.72,
+        "cover_path": "covers/5371165c-a1b5-31c7-8710-0fba48140636.jpeg"
+      },
+      {
+        "title": "Out of Order",
+        "year": 1988,
+        "mb_rgid": "add8d3bc-ae31-31ef-8d8e-392891c2552f",
+        "match_strategy": "url_rel",
+        "discogs_id": 1126673,
+        "discogs_reviews": 744,
+        "discogs_rating": 3.84,
+        "cover_path": "covers/add8d3bc-ae31-31ef-8d8e-392891c2552f.jpeg"
+      },
+      {
+        "title": "In a Broken Dream",
+        "year": 1988,
+        "mb_rgid": "4857edb5-c0a9-46c8-bd2f-d732b772554b",
+        "match_strategy": "search",
+        "discogs_id": 9478969,
+        "discogs_reviews": null,
+        "discogs_rating": null,
+        "cover_path": null
+      },
+      {
+        "title": "Vagabond Heart",
+        "year": 1991,
+        "mb_rgid": "f57bc26d-2ce4-3286-b511-54408268e399",
+        "match_strategy": "url_rel",
+        "discogs_id": 1006311,
+        "discogs_reviews": 725,
+        "discogs_rating": 3.9,
+        "cover_path": "covers/f57bc26d-2ce4-3286-b511-54408268e399.jpeg"
+      },
+      {
+        "title": "A Spanner in the Works",
+        "year": 1995,
+        "mb_rgid": "570cac51-885e-3c57-96da-2ac7d7c51927",
+        "match_strategy": "url_rel",
+        "discogs_id": 453532,
+        "discogs_reviews": 196,
+        "discogs_rating": 3.88,
+        "cover_path": "covers/570cac51-885e-3c57-96da-2ac7d7c51927.jpeg"
+      },
+      {
+        "title": "When We Were the New Boys",
+        "year": 1998,
+        "mb_rgid": "de180ec3-63af-3d0c-bd91-09a9d0161984",
+        "match_strategy": "url_rel",
+        "discogs_id": 1468552,
+        "discogs_reviews": 198,
+        "discogs_rating": 3.8,
+        "cover_path": "covers/de180ec3-63af-3d0c-bd91-09a9d0161984.jpeg"
+      },
+      {
+        "title": "Human",
+        "year": 2001,
+        "mb_rgid": "41d6d311-d3e4-31a6-8fa5-e20bdbd684fc",
+        "match_strategy": "url_rel",
+        "discogs_id": 1811966,
+        "discogs_reviews": 133,
+        "discogs_rating": 3.72,
+        "cover_path": "covers/41d6d311-d3e4-31a6-8fa5-e20bdbd684fc.jpeg"
+      },
+      {
+        "title": "It Had to Be You… The Great American Songbook",
+        "year": 2002,
+        "mb_rgid": "4a28692f-37ab-39e8-97aa-a3f352f32010",
+        "match_strategy": "url_rel",
+        "discogs_id": 1862084,
+        "discogs_reviews": 285,
+        "discogs_rating": 3.91,
+        "cover_path": "covers/4a28692f-37ab-39e8-97aa-a3f352f32010.jpeg"
+      },
+      {
+        "title": "As Time Goes By… The Great American Songbook, Vol. II",
+        "year": 2003,
+        "mb_rgid": "aaa47f45-c443-3aca-bcdb-bb8e80d957c6",
+        "match_strategy": "url_rel",
+        "discogs_id": 4571096,
+        "discogs_reviews": 182,
+        "discogs_rating": 3.91,
+        "cover_path": "covers/aaa47f45-c443-3aca-bcdb-bb8e80d957c6.jpeg"
+      },
+      {
+        "title": "Stardust… The Great American Songbook, Volume Ⅲ",
+        "year": 2004,
+        "mb_rgid": "9b0b6f7e-841e-3e60-a375-d7d1548d1d80",
+        "match_strategy": "url_rel",
+        "discogs_id": 1860658,
+        "discogs_reviews": 205,
+        "discogs_rating": 3.85,
+        "cover_path": "covers/9b0b6f7e-841e-3e60-a375-d7d1548d1d80.jpeg"
+      },
+      {
+        "title": "Thanks for the Memory… The Great American Songbook, Volume Ⅳ",
+        "year": 2005,
+        "mb_rgid": "9cd86b7c-a96f-3247-a529-de75a4b94cf3",
+        "match_strategy": "url_rel",
+        "discogs_id": 6105994,
+        "discogs_reviews": 137,
+        "discogs_rating": 4.09,
+        "cover_path": "covers/9cd86b7c-a96f-3247-a529-de75a4b94cf3.jpeg"
+      },
+      {
+        "title": "Still the Same… Great Rock Classics of Our Time",
+        "year": 2006,
+        "mb_rgid": "cd397178-d500-3e35-89ce-a88a4f06f54b",
+        "match_strategy": "url_rel",
+        "discogs_id": 1466266,
+        "discogs_reviews": 194,
+        "discogs_rating": 4.07,
+        "cover_path": "covers/cd397178-d500-3e35-89ce-a88a4f06f54b.jpeg"
+      }
+    ]
+  },
+  {
+    "mbid": "c3cceeed-3332-4cf0-8c4c-bbde425147b6",
+    "name": "Scorpions",
+    "genre": "rock",
+    "sub_genre": "hard rock",
+    "albums": [
+      {
+        "title": "Lonesome Crow",
+        "year": 1972,
+        "mb_rgid": "0d2e284a-6e58-34a2-80bb-fee809a42755",
+        "match_strategy": "url_rel",
+        "discogs_id": 824708,
+        "discogs_reviews": 1375,
+        "discogs_rating": 4.19,
+        "cover_path": "covers/0d2e284a-6e58-34a2-80bb-fee809a42755.jpeg"
+      },
+      {
+        "title": "Fly to the Rainbow",
+        "year": 1974,
+        "mb_rgid": "e9689f98-3dae-3251-9426-24c6d2b041b4",
+        "match_strategy": "url_rel",
+        "discogs_id": 9588978,
+        "discogs_reviews": 1233,
+        "discogs_rating": 4.2,
+        "cover_path": "covers/e9689f98-3dae-3251-9426-24c6d2b041b4.jpeg"
+      },
+      {
+        "title": "In Trance",
+        "year": 1975,
+        "mb_rgid": "afad2caf-13ba-3d36-a0df-bddcc55ee10f",
+        "match_strategy": "url_rel",
+        "discogs_id": 8071138,
+        "discogs_reviews": 1400,
+        "discogs_rating": 4.29,
+        "cover_path": "covers/afad2caf-13ba-3d36-a0df-bddcc55ee10f.jpeg"
+      },
+      {
+        "title": "Virgin Killer",
+        "year": 1976,
+        "mb_rgid": "49688214-8984-3529-9f28-065262d5c845",
+        "match_strategy": "url_rel",
+        "discogs_id": 779046,
+        "discogs_reviews": 1720,
+        "discogs_rating": 4.19,
+        "cover_path": "covers/49688214-8984-3529-9f28-065262d5c845.jpeg"
+      },
+      {
+        "title": "Taken by Force",
+        "year": 1977,
+        "mb_rgid": "1f8fb857-a7bc-3924-ac96-33ae237b3d39",
+        "match_strategy": "url_rel",
+        "discogs_id": 467309,
+        "discogs_reviews": 1499,
+        "discogs_rating": 4.25,
+        "cover_path": "covers/1f8fb857-a7bc-3924-ac96-33ae237b3d39.jpeg"
+      },
+      {
+        "title": "Lovedrive",
+        "year": 1979,
+        "mb_rgid": "04fdc341-2253-3e8c-96a8-d83ed76ebe1b",
+        "match_strategy": "url_rel",
+        "discogs_id": 459081,
+        "discogs_reviews": 2635,
+        "discogs_rating": 4.27,
+        "cover_path": "covers/04fdc341-2253-3e8c-96a8-d83ed76ebe1b.jpeg"
+      },
+      {
+        "title": "Animal Magnetism",
+        "year": 1980,
+        "mb_rgid": "9b085c15-2b19-303c-a67c-0ba9fafb15ae",
+        "match_strategy": "url_rel",
+        "discogs_id": 579951,
+        "discogs_reviews": 2146,
+        "discogs_rating": 4.09,
+        "cover_path": "covers/9b085c15-2b19-303c-a67c-0ba9fafb15ae.jpeg"
+      },
+      {
+        "title": "Blackout",
+        "year": 1982,
+        "mb_rgid": "b00fbf7c-ebaf-3ec0-91d6-5eaad124d58f",
+        "match_strategy": "url_rel",
+        "discogs_id": 458175,
+        "discogs_reviews": 3205,
+        "discogs_rating": 4.25,
+        "cover_path": "covers/b00fbf7c-ebaf-3ec0-91d6-5eaad124d58f.jpeg"
+      },
+      {
+        "title": "Love at First Sting",
+        "year": 1984,
+        "mb_rgid": "f74b6e75-f11c-3230-a5f1-0305d623a0a6",
+        "match_strategy": "url_rel",
+        "discogs_id": 590329,
+        "discogs_reviews": 3616,
+        "discogs_rating": 4.28,
+        "cover_path": "covers/f74b6e75-f11c-3230-a5f1-0305d623a0a6.jpeg"
+      },
+      {
+        "title": "Savage Amusement",
+        "year": 1988,
+        "mb_rgid": "d21c7453-5687-3900-91fc-370666d9ed0a",
+        "match_strategy": "url_rel",
+        "discogs_id": 1423461,
+        "discogs_reviews": 1859,
+        "discogs_rating": 4.04,
+        "cover_path": "covers/d21c7453-5687-3900-91fc-370666d9ed0a.jpeg"
+      },
+      {
+        "title": "Crazy World",
+        "year": 1990,
+        "mb_rgid": "d8a27312-3b03-36a0-a184-49b032528c1d",
+        "match_strategy": "url_rel",
+        "discogs_id": 722162,
+        "discogs_reviews": 2058,
+        "discogs_rating": 4.07,
+        "cover_path": "covers/d8a27312-3b03-36a0-a184-49b032528c1d.jpeg"
+      },
+      {
+        "title": "Face the Heat",
+        "year": 1993,
+        "mb_rgid": "5f244b7f-bce6-3477-9ace-7c348c1651c7",
+        "match_strategy": "url_rel",
+        "discogs_id": 462818,
+        "discogs_reviews": 761,
+        "discogs_rating": 3.91,
+        "cover_path": "covers/5f244b7f-bce6-3477-9ace-7c348c1651c7.jpeg"
+      },
+      {
+        "title": "Pure Instinct",
+        "year": 1996,
+        "mb_rgid": "a2ad3b86-188a-30a1-acd0-1658722ea49f",
+        "match_strategy": "url_rel",
+        "discogs_id": 1645406,
+        "discogs_reviews": 420,
+        "discogs_rating": 3.95,
+        "cover_path": "covers/a2ad3b86-188a-30a1-acd0-1658722ea49f.jpeg"
+      },
+      {
+        "title": "Eye II Eye",
+        "year": 1999,
+        "mb_rgid": "27e2220b-5b09-382b-aa88-bc87a99b5e8d",
+        "match_strategy": "url_rel",
+        "discogs_id": 1941311,
+        "discogs_reviews": 271,
+        "discogs_rating": 3.66,
+        "cover_path": "covers/27e2220b-5b09-382b-aa88-bc87a99b5e8d.jpeg"
+      },
+      {
+        "title": "Moment of Glory",
+        "year": 2000,
+        "mb_rgid": "10a1108e-a8ec-41e4-b0fc-eb0dc65872db",
+        "match_strategy": "url_rel",
+        "discogs_id": 4475645,
+        "discogs_reviews": 296,
+        "discogs_rating": 3.95,
+        "cover_path": "covers/10a1108e-a8ec-41e4-b0fc-eb0dc65872db.jpeg"
+      },
+      {
+        "title": "Unbreakable",
+        "year": 2004,
+        "mb_rgid": "e3013c4c-93b0-3488-ab25-c77525b0378c",
+        "match_strategy": "url_rel",
+        "discogs_id": 1112543,
+        "discogs_reviews": 374,
+        "discogs_rating": 4.04,
+        "cover_path": "covers/e3013c4c-93b0-3488-ab25-c77525b0378c.jpeg"
+      },
+      {
+        "title": "Sting in the Tail",
+        "year": 2010,
+        "mb_rgid": "8f57c441-6bc5-409a-b52d-f15f8bde3046",
+        "match_strategy": "url_rel",
+        "discogs_id": 2836578,
+        "discogs_reviews": 763,
+        "discogs_rating": 4.15,
+        "cover_path": "covers/8f57c441-6bc5-409a-b52d-f15f8bde3046.jpeg"
+      },
+      {
+        "title": "Comeblack",
+        "year": 2011,
+        "mb_rgid": "5b6e3604-f546-4bd0-a00b-812909df4695",
+        "match_strategy": "url_rel",
+        "discogs_id": 3286567,
+        "discogs_reviews": 560,
+        "discogs_rating": 4.22,
+        "cover_path": "covers/5b6e3604-f546-4bd0-a00b-812909df4695.jpeg"
+      },
+      {
+        "title": "Return to Forever",
+        "year": 2015,
+        "mb_rgid": "28990334-3a38-4d6a-b837-0bff2e796b41",
+        "match_strategy": "url_rel",
+        "discogs_id": 6675956,
+        "discogs_reviews": 643,
+        "discogs_rating": 4.18,
+        "cover_path": "covers/28990334-3a38-4d6a-b837-0bff2e796b41.jpeg"
+      },
+      {
+        "title": "Rock Believer",
+        "year": 2022,
+        "mb_rgid": "493b9d60-af1e-4c9c-a0d5-e5c6efa440e8",
+        "match_strategy": "url_rel",
+        "discogs_id": 22286164,
+        "discogs_reviews": 981,
+        "discogs_rating": 4.37,
+        "cover_path": "covers/493b9d60-af1e-4c9c-a0d5-e5c6efa440e8.jpeg"
+      }
+    ]
+  },
+  {
+    "mbid": "592a3b6d-c42b-4567-99c9-ecf63bd66499",
+    "name": "Chuck Berry",
+    "genre": "rock",
+    "sub_genre": "blues rock",
+    "albums": [
+      {
+        "title": "After School Session",
+        "year": 1957,
+        "mb_rgid": "5afd7290-cd77-3a52-afac-01043240db5a",
+        "match_strategy": "url_rel",
+        "discogs_id": 7861840,
+        "discogs_reviews": 410,
+        "discogs_rating": 4.4,
+        "cover_path": "covers/5afd7290-cd77-3a52-afac-01043240db5a.jpeg"
+      },
+      {
+        "title": "One Dozen Berrys",
+        "year": 1958,
+        "mb_rgid": "9fe02f36-1afd-34b5-bc01-752c614371b4",
+        "match_strategy": "url_rel",
+        "discogs_id": 1958806,
+        "discogs_reviews": 363,
+        "discogs_rating": 4.31,
+        "cover_path": "covers/9fe02f36-1afd-34b5-bc01-752c614371b4.jpeg"
+      },
+      {
+        "title": "Chuck Berry Is on Top",
+        "year": 1959,
+        "mb_rgid": "15a8abc8-5b8d-3152-83b0-f5d791fbfd79",
+        "match_strategy": "url_rel",
+        "discogs_id": 7386430,
+        "discogs_reviews": 685,
+        "discogs_rating": 4.49,
+        "cover_path": "covers/15a8abc8-5b8d-3152-83b0-f5d791fbfd79.jpeg"
+      },
+      {
+        "title": "Rockin’ at the Hops",
+        "year": 1960,
+        "mb_rgid": "21cf4a07-223b-34af-920b-a79c28a1f74e",
+        "match_strategy": null,
+        "discogs_id": null,
+        "discogs_reviews": null,
+        "discogs_rating": null,
+        "cover_path": null
+      },
+      {
+        "title": "New Juke Box Hits",
+        "year": 1961,
+        "mb_rgid": "dade40cf-4107-35b4-b1b2-a908909cfba8",
+        "match_strategy": "search",
+        "discogs_id": 1958994,
+        "discogs_reviews": 30,
+        "discogs_rating": 4.03,
+        "cover_path": null
+      },
+      {
+        "title": "St. Louis to Liverpool",
+        "year": 1964,
+        "mb_rgid": "12fe4954-04d0-3b95-b961-b0dbd3518ac6",
+        "match_strategy": "url_rel",
+        "discogs_id": 8059384,
+        "discogs_reviews": 329,
+        "discogs_rating": 4.43,
+        "cover_path": "covers/12fe4954-04d0-3b95-b961-b0dbd3518ac6.jpeg"
+      },
+      {
+        "title": "Two Great Guitars",
+        "year": 1964,
+        "mb_rgid": "68e37d0a-da3a-4804-bc04-b1baca7607f7",
+        "match_strategy": "url_rel",
+        "discogs_id": 2432288,
+        "discogs_reviews": 222,
+        "discogs_rating": 4.13,
+        "cover_path": "covers/68e37d0a-da3a-4804-bc04-b1baca7607f7.jpeg"
+      },
+      {
+        "title": "Chuck Berry in London",
+        "year": 1965,
+        "mb_rgid": "6461234b-fad7-4414-a906-8e81c057d384",
+        "match_strategy": "url_rel",
+        "discogs_id": 10629944,
+        "discogs_reviews": 129,
+        "discogs_rating": 4.19,
+        "cover_path": "covers/6461234b-fad7-4414-a906-8e81c057d384.jpeg"
+      },
+      {
+        "title": "Fresh Berry’s",
+        "year": 1965,
+        "mb_rgid": "a31a00f8-4ff3-49a6-9b52-aeaefab96664",
+        "match_strategy": null,
+        "discogs_id": null,
+        "discogs_reviews": null,
+        "discogs_rating": null,
+        "cover_path": null
+      },
+      {
+        "title": "Chuck Berry in Memphis",
+        "year": 1967,
+        "mb_rgid": "30ec35a1-93d8-4955-8846-83ebd5273c20",
+        "match_strategy": "url_rel",
+        "discogs_id": 3578041,
+        "discogs_reviews": 109,
+        "discogs_rating": 4.01,
+        "cover_path": "covers/30ec35a1-93d8-4955-8846-83ebd5273c20.jpeg"
+      },
+      {
+        "title": "Chuck Berry’s Golden Hits",
+        "year": 1967,
+        "mb_rgid": "36140c41-c240-3bdd-85b0-44f0b7384aac",
+        "match_strategy": "url_rel",
+        "discogs_id": 7702428,
+        "discogs_reviews": 521,
+        "discogs_rating": 3.9,
+        "cover_path": "covers/36140c41-c240-3bdd-85b0-44f0b7384aac.jpeg"
+      },
+      {
+        "title": "From St. Louie to Frisco",
+        "year": 1968,
+        "mb_rgid": "161253d0-46f8-4e8c-bb38-3595e69c0fd1",
+        "match_strategy": "search",
+        "discogs_id": 35694073,
+        "discogs_reviews": null,
+        "discogs_rating": null,
+        "cover_path": null
+      },
+      {
+        "title": "Concerto in “B Goode”",
+        "year": 1969,
+        "mb_rgid": "a8b595a3-3127-36c4-9fad-bc52c1b99584",
+        "match_strategy": "url_rel",
+        "discogs_id": 3427302,
+        "discogs_reviews": 72,
+        "discogs_rating": 3.92,
+        "cover_path": "covers/a8b595a3-3127-36c4-9fad-bc52c1b99584.jpeg"
+      },
+      {
+        "title": "Back Home",
+        "year": 1970,
+        "mb_rgid": "c6bc8069-f2e5-4093-99bb-b5abc210ebe4",
+        "match_strategy": "search",
+        "discogs_id": 8061653,
+        "discogs_reviews": 10,
+        "discogs_rating": 3.9,
+        "cover_path": null
+      },
+      {
+        "title": "San Francisco Dues",
+        "year": 1971,
+        "mb_rgid": "e45a90bf-5ec2-4612-a028-21c752816de6",
+        "match_strategy": "search",
+        "discogs_id": 2714251,
+        "discogs_reviews": 41,
+        "discogs_rating": 4.02,
+        "cover_path": null
+      },
+      {
+        "title": "Bio",
+        "year": 1973,
+        "mb_rgid": "4247cefb-737f-4576-826d-8e5a30021714",
+        "match_strategy": "search",
+        "discogs_id": 8495446,
+        "discogs_reviews": 21,
+        "discogs_rating": 4.1,
+        "cover_path": null
+      },
+      {
+        "title": "Chuck Berry '75",
+        "year": 1975,
+        "mb_rgid": "90a39f03-13da-4043-8543-94f965f26896",
+        "match_strategy": "url_rel",
+        "discogs_id": 5199533,
+        "discogs_reviews": 70,
+        "discogs_rating": 3.8,
+        "cover_path": "covers/90a39f03-13da-4043-8543-94f965f26896.jpeg"
+      },
+      {
+        "title": "Rockit",
+        "year": 1979,
+        "mb_rgid": "cb07761a-cbf3-307e-a9da-5252a10c8321",
+        "match_strategy": "search",
+        "discogs_id": 11364557,
+        "discogs_reviews": 9,
+        "discogs_rating": 4.0,
+        "cover_path": null
+      },
+      {
+        "title": "In Concert",
+        "year": 1997,
+        "mb_rgid": "4cf1ade7-f5f2-4fe2-8de1-73cf7598832e",
+        "match_strategy": "search",
+        "discogs_id": 7930408,
+        "discogs_reviews": 2,
+        "discogs_rating": 4.0,
+        "cover_path": null
+      },
+      {
+        "title": "Icon",
+        "year": 2011,
+        "mb_rgid": "890676d5-f2d5-4e6a-932c-fa23cd32610b",
+        "match_strategy": "search",
+        "discogs_id": 5272588,
+        "discogs_reviews": 5,
+        "discogs_rating": 4.6,
+        "cover_path": null
+      },
+      {
+        "title": "Chuck",
+        "year": 2017,
+        "mb_rgid": "bcdddc95-613a-4494-ba82-1567ac9f9d7f",
+        "match_strategy": "url_rel",
+        "discogs_id": 10410322,
+        "discogs_reviews": 274,
+        "discogs_rating": 4.27,
+        "cover_path": "covers/bcdddc95-613a-4494-ba82-1567ac9f9d7f.jpeg"
+      },
+      {
+        "title": "Reelin' And Rockin' - 60 Essential Recordings",
+        "year": 2021,
+        "mb_rgid": "cf4c75d8-b926-4283-8c42-b3e09484ce78",
+        "match_strategy": "search",
+        "discogs_id": 18404965,
+        "discogs_reviews": null,
+        "discogs_rating": null,
+        "cover_path": null
+      }
+    ]
+  },
+  {
+    "mbid": "9efff43b-3b29-4082-824e-bc82f646f93d",
+    "name": "The Doors",
+    "genre": "rock",
+    "sub_genre": "psychedelic rock",
+    "albums": [
+      {
+        "title": "The Doors",
+        "year": 1967,
+        "mb_rgid": "8ebffd15-06c3-3b88-a761-ec18c5513287",
+        "match_strategy": "url_rel",
+        "discogs_id": 11821662,
+        "discogs_reviews": 10518,
+        "discogs_rating": 4.59,
+        "cover_path": "covers/8ebffd15-06c3-3b88-a761-ec18c5513287.jpeg"
+      },
+      {
+        "title": "Strange Days",
+        "year": 1967,
+        "mb_rgid": "9b1acd78-3d19-37bb-8ca0-5816d44da439",
+        "match_strategy": "url_rel",
+        "discogs_id": 13839806,
+        "discogs_reviews": 5957,
+        "discogs_rating": 4.51,
+        "cover_path": "covers/9b1acd78-3d19-37bb-8ca0-5816d44da439.jpeg"
+      },
+      {
+        "title": "Waiting for the Sun",
+        "year": 1968,
+        "mb_rgid": "fcd64234-7729-3697-b5db-e172b739ef40",
+        "match_strategy": "url_rel",
+        "discogs_id": 509488,
+        "discogs_reviews": 4678,
+        "discogs_rating": 4.36,
+        "cover_path": "covers/fcd64234-7729-3697-b5db-e172b739ef40.jpeg"
+      },
+      {
+        "title": "The Soft Parade",
+        "year": 1969,
+        "mb_rgid": "cf90c9a0-4831-3d30-a545-ed77308e807b",
+        "match_strategy": "url_rel",
+        "discogs_id": 7834127,
+        "discogs_reviews": 3677,
+        "discogs_rating": 4.23,
+        "cover_path": "covers/cf90c9a0-4831-3d30-a545-ed77308e807b.jpeg"
+      },
+      {
+        "title": "Morrison Hotel",
+        "year": 1970,
+        "mb_rgid": "deee6f92-2662-3095-8aea-6892b10b8265",
+        "match_strategy": "url_rel",
+        "discogs_id": 4289876,
+        "discogs_reviews": 6077,
+        "discogs_rating": 4.5,
+        "cover_path": "covers/deee6f92-2662-3095-8aea-6892b10b8265.jpeg"
+      },
+      {
+        "title": "L.A. Woman",
+        "year": 1971,
+        "mb_rgid": "7be633bd-d1f6-3d89-8939-803ae0ed0de8",
+        "match_strategy": "url_rel",
+        "discogs_id": 4622918,
+        "discogs_reviews": 8134,
+        "discogs_rating": 4.55,
+        "cover_path": "covers/7be633bd-d1f6-3d89-8939-803ae0ed0de8.jpeg"
+      },
+      {
+        "title": "Other Voices",
+        "year": 1971,
+        "mb_rgid": "15413e52-71db-3c31-9d6e-888cfb7c2561",
+        "match_strategy": "url_rel",
+        "discogs_id": 870281,
+        "discogs_reviews": 1041,
+        "discogs_rating": 3.61,
+        "cover_path": "covers/15413e52-71db-3c31-9d6e-888cfb7c2561.jpeg"
+      },
+      {
+        "title": "Full Circle",
+        "year": 1972,
+        "mb_rgid": "de421f76-b558-3ebd-9d6b-57a6c9c2b2ff",
+        "match_strategy": "url_rel",
+        "discogs_id": 1520552,
+        "discogs_reviews": 882,
+        "discogs_rating": 3.69,
+        "cover_path": "covers/de421f76-b558-3ebd-9d6b-57a6c9c2b2ff.jpeg"
+      },
+      {
+        "title": "An American Prayer",
+        "year": 1978,
+        "mb_rgid": "624782ae-cc06-3f55-87e4-3c3aeb4e5d59",
+        "match_strategy": "url_rel",
+        "discogs_id": 692394,
+        "discogs_reviews": 2119,
+        "discogs_rating": 4.28,
+        "cover_path": "covers/624782ae-cc06-3f55-87e4-3c3aeb4e5d59.jpeg"
+      }
+    ]
+  },
+  {
+    "mbid": "88f219d8-4140-4191-af4b-de81c7c587c4",
+    "name": "Nazareth",
+    "genre": "rock",
+    "sub_genre": "hard rock",
+    "albums": [
+      {
+        "title": "Nazareth",
+        "year": 1971,
+        "mb_rgid": "61fe7e06-0344-3197-bfc0-4d1fd57bce65",
+        "match_strategy": "url_rel",
+        "discogs_id": 4191504,
+        "discogs_reviews": 769,
+        "discogs_rating": 4.12,
+        "cover_path": "covers/61fe7e06-0344-3197-bfc0-4d1fd57bce65.jpeg"
+      },
+      {
+        "title": "Exercises",
+        "year": 1972,
+        "mb_rgid": "b927b247-1666-360a-91ba-3c5fafaead14",
+        "match_strategy": "url_rel",
+        "discogs_id": 2984004,
+        "discogs_reviews": 490,
+        "discogs_rating": 3.92,
+        "cover_path": "covers/b927b247-1666-360a-91ba-3c5fafaead14.jpeg"
+      },
+      {
+        "title": "Loud ’n’ Proud",
+        "year": 1973,
+        "mb_rgid": "012ced1a-45b5-3736-aaf8-35d6fad66fcc",
+        "match_strategy": "url_rel",
+        "discogs_id": 1327933,
+        "discogs_reviews": 1190,
+        "discogs_rating": 4.11,
+        "cover_path": "covers/012ced1a-45b5-3736-aaf8-35d6fad66fcc.jpeg"
+      },
+      {
+        "title": "Razamanaz",
+        "year": 1973,
+        "mb_rgid": "1c9736e1-a608-3deb-aa2d-b60d21f6e2ab",
+        "match_strategy": "url_rel",
+        "discogs_id": 2072423,
+        "discogs_reviews": 1192,
+        "discogs_rating": 4.19,
+        "cover_path": "covers/1c9736e1-a608-3deb-aa2d-b60d21f6e2ab.jpeg"
+      },
+      {
+        "title": "Rampant",
+        "year": 1974,
+        "mb_rgid": "3056bf8e-c292-35da-b006-fb719d753211",
+        "match_strategy": "url_rel",
+        "discogs_id": 2564562,
+        "discogs_reviews": 1075,
+        "discogs_rating": 4.03,
+        "cover_path": "covers/3056bf8e-c292-35da-b006-fb719d753211.jpeg"
+      },
+      {
+        "title": "Hair of the Dog",
+        "year": 1975,
+        "mb_rgid": "d3178fcf-56f6-3188-b921-f57d98876434",
+        "match_strategy": "url_rel",
+        "discogs_id": 1691062,
+        "discogs_reviews": 2132,
+        "discogs_rating": 4.22,
+        "cover_path": "covers/d3178fcf-56f6-3188-b921-f57d98876434.jpeg"
+      },
+      {
+        "title": "Close Enough for Rock ’n’ Roll",
+        "year": 1976,
+        "mb_rgid": "67d10906-4afd-373f-813c-428e7388c87b",
+        "match_strategy": "url_rel",
+        "discogs_id": 1730020,
+        "discogs_reviews": 921,
+        "discogs_rating": 4.06,
+        "cover_path": "covers/67d10906-4afd-373f-813c-428e7388c87b.jpeg"
+      },
+      {
+        "title": "Play ’n’ the Game",
+        "year": 1976,
+        "mb_rgid": "1bc8ecb3-008b-36bd-aa3b-3c9d7300fbb2",
+        "match_strategy": "url_rel",
+        "discogs_id": 681586,
+        "discogs_reviews": 675,
+        "discogs_rating": 3.96,
+        "cover_path": "covers/1bc8ecb3-008b-36bd-aa3b-3c9d7300fbb2.jpeg"
+      },
+      {
+        "title": "Expect No Mercy",
+        "year": 1977,
+        "mb_rgid": "ed5bfedd-6493-32fd-b118-ad81b0d2a994",
+        "match_strategy": "url_rel",
+        "discogs_id": 6280278,
+        "discogs_reviews": 970,
+        "discogs_rating": 4.02,
+        "cover_path": "covers/ed5bfedd-6493-32fd-b118-ad81b0d2a994.jpeg"
+      },
+      {
+        "title": "No Mean City",
+        "year": 1978,
+        "mb_rgid": "601b5e30-af94-3350-981c-3a7ccfe010ff",
+        "match_strategy": "url_rel",
+        "discogs_id": 1454388,
+        "discogs_reviews": 1042,
+        "discogs_rating": 4.03,
+        "cover_path": "covers/601b5e30-af94-3350-981c-3a7ccfe010ff.jpeg"
+      },
+      {
+        "title": "Malice in Wonderland",
+        "year": 1980,
+        "mb_rgid": "3057a94d-976a-3881-bbe0-0d460cdcd6cc",
+        "match_strategy": "url_rel",
+        "discogs_id": 1192004,
+        "discogs_reviews": 873,
+        "discogs_rating": 3.97,
+        "cover_path": "covers/3057a94d-976a-3881-bbe0-0d460cdcd6cc.jpeg"
+      },
+      {
+        "title": "The Fool Circle",
+        "year": 1980,
+        "mb_rgid": "6a0f4783-61f4-3798-8f2b-9bfe59f5182d",
+        "match_strategy": "url_rel",
+        "discogs_id": 1713850,
+        "discogs_reviews": 697,
+        "discogs_rating": 4.03,
+        "cover_path": "covers/6a0f4783-61f4-3798-8f2b-9bfe59f5182d.jpeg"
+      },
+      {
+        "title": "2 X S",
+        "year": 1982,
+        "mb_rgid": "1a8179ec-7a42-3e98-9bad-f0e1df15cb1d",
+        "match_strategy": "url_rel",
+        "discogs_id": 3927206,
+        "discogs_reviews": 594,
+        "discogs_rating": 4.06,
+        "cover_path": "covers/1a8179ec-7a42-3e98-9bad-f0e1df15cb1d.jpeg"
+      },
+      {
+        "title": "Sound Elixir",
+        "year": 1983,
+        "mb_rgid": "4b03c3c3-548d-3a17-acc3-37a4190a1c6c",
+        "match_strategy": "url_rel",
+        "discogs_id": 1106362,
+        "discogs_reviews": 438,
+        "discogs_rating": 3.91,
+        "cover_path": "covers/4b03c3c3-548d-3a17-acc3-37a4190a1c6c.jpeg"
+      },
+      {
+        "title": "The Catch",
+        "year": 1984,
+        "mb_rgid": "4cbdf8de-6f33-40c9-9f15-799c4d5e218b",
+        "match_strategy": "url_rel",
+        "discogs_id": 2258907,
+        "discogs_reviews": 302,
+        "discogs_rating": 3.82,
+        "cover_path": "covers/4cbdf8de-6f33-40c9-9f15-799c4d5e218b.jpeg"
+      },
+      {
+        "title": "Cinema",
+        "year": 1986,
+        "mb_rgid": "5ee64e49-30d1-3803-a871-f1b1159fde3c",
+        "match_strategy": "url_rel",
+        "discogs_id": 3549205,
+        "discogs_reviews": 291,
+        "discogs_rating": 4.12,
+        "cover_path": "covers/5ee64e49-30d1-3803-a871-f1b1159fde3c.jpeg"
+      },
+      {
+        "title": "Snakes ’n’ Ladders",
+        "year": 1989,
+        "mb_rgid": "1e8138bc-c614-3217-b0de-bc2e03b4c9dc",
+        "match_strategy": "url_rel",
+        "discogs_id": 3797263,
+        "discogs_reviews": 300,
+        "discogs_rating": 4.36,
+        "cover_path": "covers/1e8138bc-c614-3217-b0de-bc2e03b4c9dc.jpeg"
+      },
+      {
+        "title": "No Jive",
+        "year": 1991,
+        "mb_rgid": "8b8329d1-e33e-3de8-bbd8-8f150768a682",
+        "match_strategy": "url_rel",
+        "discogs_id": 2151033,
+        "discogs_reviews": 255,
+        "discogs_rating": 4.19,
+        "cover_path": "covers/8b8329d1-e33e-3de8-bbd8-8f150768a682.jpeg"
+      },
+      {
+        "title": "Move Me",
+        "year": 1994,
+        "mb_rgid": "1f4e4e7b-e8cf-3e13-b52c-ded4ac3bafc3",
+        "match_strategy": "url_rel",
+        "discogs_id": 4425703,
+        "discogs_reviews": 171,
+        "discogs_rating": 4.13,
+        "cover_path": "covers/1f4e4e7b-e8cf-3e13-b52c-ded4ac3bafc3.jpeg"
+      },
+      {
+        "title": "Boogaloo",
+        "year": 1998,
+        "mb_rgid": "5e344817-5e1d-3891-b62c-700996290041",
+        "match_strategy": "url_rel",
+        "discogs_id": 3827649,
+        "discogs_reviews": 138,
+        "discogs_rating": 4.07,
+        "cover_path": "covers/5e344817-5e1d-3891-b62c-700996290041.jpeg"
+      },
+      {
+        "title": "The Newz",
+        "year": 2008,
+        "mb_rgid": "93929d52-0504-377d-a005-c55e112eadcf",
+        "match_strategy": "url_rel",
+        "discogs_id": 4129857,
+        "discogs_reviews": 145,
+        "discogs_rating": 4.15,
+        "cover_path": "covers/93929d52-0504-377d-a005-c55e112eadcf.jpeg"
+      },
+      {
+        "title": "Big Dogz",
+        "year": 2011,
+        "mb_rgid": "f1264816-87ce-4dce-b4be-5c2f6374add8",
+        "match_strategy": "url_rel",
+        "discogs_id": 7171038,
+        "discogs_reviews": 133,
+        "discogs_rating": 3.96,
+        "cover_path": "covers/f1264816-87ce-4dce-b4be-5c2f6374add8.jpeg"
+      },
+      {
+        "title": "Rock ’n’ Roll Telephone",
+        "year": 2014,
+        "mb_rgid": "39dce2f2-fec8-4117-ad90-3d4b6e3bc41a",
+        "match_strategy": "url_rel",
+        "discogs_id": 5784706,
+        "discogs_reviews": 141,
+        "discogs_rating": 4.22,
+        "cover_path": "covers/39dce2f2-fec8-4117-ad90-3d4b6e3bc41a.jpeg"
+      },
+      {
+        "title": "Tattooed on My Brain",
+        "year": 2018,
+        "mb_rgid": "bd5d26aa-16ae-47ec-bd1d-2ed8b2eaa369",
+        "match_strategy": "url_rel",
+        "discogs_id": 13089378,
+        "discogs_reviews": 125,
+        "discogs_rating": 4.12,
+        "cover_path": "covers/bd5d26aa-16ae-47ec-bd1d-2ed8b2eaa369.jpeg"
+      },
+      {
+        "title": "Surviving the Law",
+        "year": 2022,
+        "mb_rgid": "ce388490-add0-43e9-ad22-d47cf53c749c",
+        "match_strategy": "url_rel",
+        "discogs_id": 22878395,
+        "discogs_reviews": 84,
+        "discogs_rating": 4.24,
+        "cover_path": "covers/ce388490-add0-43e9-ad22-d47cf53c749c.jpeg"
+      }
+    ]
+  },
+  {
+    "mbid": "c1d4f2ba-cf39-460c-9528-6b827d3417a1",
+    "name": "Yes",
+    "genre": "rock",
+    "sub_genre": "progressive rock",
+    "albums": [
+      {
+        "title": "Yes",
+        "year": 1969,
+        "mb_rgid": "d85fd220-b4a7-3d98-baf1-7a53a5e5e255",
+        "match_strategy": "url_rel",
+        "discogs_id": 9201144,
+        "discogs_reviews": 1649,
+        "discogs_rating": 4.18,
+        "cover_path": "covers/d85fd220-b4a7-3d98-baf1-7a53a5e5e255.jpeg"
+      },
+      {
+        "title": "Time and a Word",
+        "year": 1970,
+        "mb_rgid": "7ca63070-4b61-3569-9c1d-014a69f16f69",
+        "match_strategy": "url_rel",
+        "discogs_id": 704946,
+        "discogs_reviews": 1635,
+        "discogs_rating": 4.11,
+        "cover_path": "covers/7ca63070-4b61-3569-9c1d-014a69f16f69.jpeg"
+      },
+      {
+        "title": "The Yes Album",
+        "year": 1971,
+        "mb_rgid": "0fa03925-736c-3537-b0c6-201091543177",
+        "match_strategy": "url_rel",
+        "discogs_id": 12242060,
+        "discogs_reviews": 4038,
+        "discogs_rating": 4.41,
+        "cover_path": "covers/0fa03925-736c-3537-b0c6-201091543177.jpeg"
+      },
+      {
+        "title": "Fragile",
+        "year": 1971,
+        "mb_rgid": "b1176e7b-fa2e-3b28-959a-d8f55b5b6ccf",
+        "match_strategy": "url_rel",
+        "discogs_id": 462982,
+        "discogs_reviews": 5534,
+        "discogs_rating": 4.46,
+        "cover_path": "covers/b1176e7b-fa2e-3b28-959a-d8f55b5b6ccf.jpeg"
+      },
+      {
+        "title": "Close to the Edge",
+        "year": 1972,
+        "mb_rgid": "5a59b948-1961-32ff-80d9-e970c7d4ebe9",
+        "match_strategy": "url_rel",
+        "discogs_id": 431005,
+        "discogs_reviews": 5593,
+        "discogs_rating": 4.48,
+        "cover_path": "covers/5a59b948-1961-32ff-80d9-e970c7d4ebe9.jpeg"
+      },
+      {
+        "title": "Tales From Topographic Oceans",
+        "year": 1973,
+        "mb_rgid": "94862bd6-6a24-3774-b136-860059c6376e",
+        "match_strategy": "url_rel",
+        "discogs_id": 981938,
+        "discogs_reviews": 3230,
+        "discogs_rating": 4.08,
+        "cover_path": "covers/94862bd6-6a24-3774-b136-860059c6376e.jpeg"
+      },
+      {
+        "title": "Relayer",
+        "year": 1974,
+        "mb_rgid": "db835afa-72f9-39d0-ae1b-067836ec5152",
+        "match_strategy": "url_rel",
+        "discogs_id": 4506926,
+        "discogs_reviews": 3031,
+        "discogs_rating": 4.2,
+        "cover_path": "covers/db835afa-72f9-39d0-ae1b-067836ec5152.jpeg"
+      },
+      {
+        "title": "Going for the One",
+        "year": 1977,
+        "mb_rgid": "c51f0a03-b999-382d-a378-0e30d69ec0c2",
+        "match_strategy": "url_rel",
+        "discogs_id": 598277,
+        "discogs_reviews": 3334,
+        "discogs_rating": 4.03,
+        "cover_path": "covers/c51f0a03-b999-382d-a378-0e30d69ec0c2.jpeg"
+      },
+      {
+        "title": "Tormato",
+        "year": 1978,
+        "mb_rgid": "bc36d872-1398-3de0-b7f7-30d10714cce1",
+        "match_strategy": "url_rel",
+        "discogs_id": 1515773,
+        "discogs_reviews": 2871,
+        "discogs_rating": 3.74,
+        "cover_path": "covers/bc36d872-1398-3de0-b7f7-30d10714cce1.jpeg"
+      },
+      {
+        "title": "Drama",
+        "year": 1980,
+        "mb_rgid": "525095c6-4550-367e-b03c-1ad9efeaa986",
+        "match_strategy": "url_rel",
+        "discogs_id": 61131,
+        "discogs_reviews": 2401,
+        "discogs_rating": 4.06,
+        "cover_path": "covers/525095c6-4550-367e-b03c-1ad9efeaa986.jpeg"
+      },
+      {
+        "title": "90125",
+        "year": 1983,
+        "mb_rgid": "11267884-baaa-38e5-a11c-0a4907ec1b98",
+        "match_strategy": "url_rel",
+        "discogs_id": 1257022,
+        "discogs_reviews": 4795,
+        "discogs_rating": 4.13,
+        "cover_path": "covers/11267884-baaa-38e5-a11c-0a4907ec1b98.jpeg"
+      },
+      {
+        "title": "Big Generator",
+        "year": 1987,
+        "mb_rgid": "7ca40721-af57-3a2c-b47e-ecce74771fba",
+        "match_strategy": "url_rel",
+        "discogs_id": 850614,
+        "discogs_reviews": 2005,
+        "discogs_rating": 3.79,
+        "cover_path": "covers/7ca40721-af57-3a2c-b47e-ecce74771fba.jpeg"
+      },
+      {
+        "title": "Union",
+        "year": 1991,
+        "mb_rgid": "85b50921-cd91-3e7e-9225-98331d04f363",
+        "match_strategy": "url_rel",
+        "discogs_id": 16583640,
+        "discogs_reviews": 9,
+        "discogs_rating": 2.89,
+        "cover_path": "covers/85b50921-cd91-3e7e-9225-98331d04f363.jpeg"
+      },
+      {
+        "title": "Talk",
+        "year": 1994,
+        "mb_rgid": "873784dc-d158-3671-abc7-48e8b348b1c1",
+        "match_strategy": "url_rel",
+        "discogs_id": 1273971,
+        "discogs_reviews": 757,
+        "discogs_rating": 4.12,
+        "cover_path": "covers/873784dc-d158-3671-abc7-48e8b348b1c1.jpeg"
+      },
+      {
+        "title": "Open Your Eyes",
+        "year": 1997,
+        "mb_rgid": "094cfe23-5f29-36a7-8e20-fa61ffb01593",
+        "match_strategy": "url_rel",
+        "discogs_id": 1669986,
+        "discogs_reviews": 483,
+        "discogs_rating": 3.68,
+        "cover_path": "covers/094cfe23-5f29-36a7-8e20-fa61ffb01593.jpeg"
+      },
+      {
+        "title": "The Ladder",
+        "year": 1999,
+        "mb_rgid": "77c8a1b9-5702-3a49-a3ab-5c7142fd18dd",
+        "match_strategy": "url_rel",
+        "discogs_id": 2125083,
+        "discogs_reviews": 685,
+        "discogs_rating": 4.05,
+        "cover_path": "covers/77c8a1b9-5702-3a49-a3ab-5c7142fd18dd.jpeg"
+      },
+      {
+        "title": "Magnification",
+        "year": 2001,
+        "mb_rgid": "b4db0136-f2c7-44ce-b234-52e2ed8528e2",
+        "match_strategy": "url_rel",
+        "discogs_id": 1664023,
+        "discogs_reviews": 645,
+        "discogs_rating": 4.1,
+        "cover_path": "covers/b4db0136-f2c7-44ce-b234-52e2ed8528e2.jpeg"
+      },
+      {
+        "title": "Fly From Here",
+        "year": 2011,
+        "mb_rgid": "c68d404c-0582-440a-a96b-3d23d515c20f",
+        "match_strategy": "url_rel",
+        "discogs_id": 3005266,
+        "discogs_reviews": 455,
+        "discogs_rating": 4.17,
+        "cover_path": "covers/c68d404c-0582-440a-a96b-3d23d515c20f.jpeg"
+      },
+      {
+        "title": "Heaven & Earth",
+        "year": 2014,
+        "mb_rgid": "03503b5a-3044-43de-a22f-f6ce3c8e6c7c",
+        "match_strategy": "url_rel",
+        "discogs_id": 8565468,
+        "discogs_reviews": 293,
+        "discogs_rating": 3.62,
+        "cover_path": "covers/03503b5a-3044-43de-a22f-f6ce3c8e6c7c.jpeg"
+      },
+      {
+        "title": "Fly From Here: Return Trip",
+        "year": 2018,
+        "mb_rgid": "5e47c23f-84f8-4ba0-be4a-dcd10dd5640a",
+        "match_strategy": "url_rel",
+        "discogs_id": 12167434,
+        "discogs_reviews": 281,
+        "discogs_rating": 4.41,
+        "cover_path": "covers/5e47c23f-84f8-4ba0-be4a-dcd10dd5640a.jpeg"
+      },
+      {
+        "title": "The Quest",
+        "year": 2021,
+        "mb_rgid": "3c0947fc-6b33-42af-8ffd-db3e4d8a9dfb",
+        "match_strategy": "url_rel",
+        "discogs_id": 20432176,
+        "discogs_reviews": 423,
+        "discogs_rating": 4.01,
+        "cover_path": "covers/3c0947fc-6b33-42af-8ffd-db3e4d8a9dfb.jpeg"
+      },
+      {
+        "title": "Mirror to the Sky",
+        "year": 2023,
+        "mb_rgid": "354eac9c-977c-4f68-a50d-edf374e64b3d",
+        "match_strategy": "url_rel",
+        "discogs_id": 27124821,
+        "discogs_reviews": 300,
+        "discogs_rating": 4.19,
+        "cover_path": "covers/354eac9c-977c-4f68-a50d-edf374e64b3d.jpeg"
+      },
+      {
+        "title": "Aurora",
+        "year": 2026,
+        "mb_rgid": "96a132b5-1e90-4ac9-87cf-73d696fb7bc5",
+        "match_strategy": null,
+        "discogs_id": null,
+        "discogs_reviews": null,
+        "discogs_rating": null,
+        "cover_path": null
+      }
+    ]
+  },
+  {
+    "mbid": "5dcdb5eb-cb72-4e6e-9e63-b7bace604965",
+    "name": "Bon Jovi",
+    "genre": "rock",
+    "sub_genre": "hard rock",
+    "albums": [
+      {
+        "title": "Bon Jovi",
+        "year": 1984,
+        "mb_rgid": "d60113b0-ab11-3c61-b74b-160cb1ed5fc6",
+        "match_strategy": "url_rel",
+        "discogs_id": 2079831,
+        "discogs_reviews": 1806,
+        "discogs_rating": 4.09,
+        "cover_path": "covers/d60113b0-ab11-3c61-b74b-160cb1ed5fc6.jpeg"
+      },
+      {
+        "title": "7800° Fahrenheit",
+        "year": 1985,
+        "mb_rgid": "63d759cc-eec6-3db5-933c-3f210627806a",
+        "match_strategy": "url_rel",
+        "discogs_id": 3782687,
+        "discogs_reviews": 1356,
+        "discogs_rating": 3.83,
+        "cover_path": "covers/63d759cc-eec6-3db5-933c-3f210627806a.jpeg"
+      },
+      {
+        "title": "Slippery When Wet",
+        "year": 1986,
+        "mb_rgid": "f07346e6-c889-33b8-83c8-ad987d7b14f6",
+        "match_strategy": "url_rel",
+        "discogs_id": 5304551,
+        "discogs_reviews": 4655,
+        "discogs_rating": 4.2,
+        "cover_path": "covers/f07346e6-c889-33b8-83c8-ad987d7b14f6.jpeg"
+      },
+      {
+        "title": "New Jersey",
+        "year": 1988,
+        "mb_rgid": "aa1ba758-0a80-3734-9bf8-4f554822b153",
+        "match_strategy": "url_rel",
+        "discogs_id": 1598425,
+        "discogs_reviews": 2724,
+        "discogs_rating": 4.11,
+        "cover_path": "covers/aa1ba758-0a80-3734-9bf8-4f554822b153.jpeg"
+      },
+      {
+        "title": "Keep the Faith",
+        "year": 1992,
+        "mb_rgid": "0e2ccac6-fd7b-3b8e-8dfe-07b56b61cb29",
+        "match_strategy": "url_rel",
+        "discogs_id": 1537372,
+        "discogs_reviews": 1478,
+        "discogs_rating": 4.12,
+        "cover_path": "covers/0e2ccac6-fd7b-3b8e-8dfe-07b56b61cb29.jpeg"
+      },
+      {
+        "title": "These Days",
+        "year": 1995,
+        "mb_rgid": "0dd13464-edfd-3466-bb16-f63ca268ab37",
+        "match_strategy": "url_rel",
+        "discogs_id": 2337135,
+        "discogs_reviews": 991,
+        "discogs_rating": 4.07,
+        "cover_path": "covers/0dd13464-edfd-3466-bb16-f63ca268ab37.jpeg"
+      },
+      {
+        "title": "Crush",
+        "year": 2000,
+        "mb_rgid": "6024045a-2d30-3ab5-8eb2-b6e5f61a78d3",
+        "match_strategy": "url_rel",
+        "discogs_id": 2098766,
+        "discogs_reviews": 836,
+        "discogs_rating": 3.85,
+        "cover_path": "covers/6024045a-2d30-3ab5-8eb2-b6e5f61a78d3.jpeg"
+      },
+      {
+        "title": "Bounce",
+        "year": 2002,
+        "mb_rgid": "df345e43-0e8b-35d4-9a67-616d3a073d24",
+        "match_strategy": "url_rel",
+        "discogs_id": 368217,
+        "discogs_reviews": 587,
+        "discogs_rating": 3.81,
+        "cover_path": "covers/df345e43-0e8b-35d4-9a67-616d3a073d24.jpeg"
+      },
+      {
+        "title": "Have a Nice Day",
+        "year": 2005,
+        "mb_rgid": "e2838c6e-a8b4-3a8e-9877-8d32faf33a9f",
+        "match_strategy": "url_rel",
+        "discogs_id": 2677088,
+        "discogs_reviews": 549,
+        "discogs_rating": 3.92,
+        "cover_path": "covers/e2838c6e-a8b4-3a8e-9877-8d32faf33a9f.jpeg"
+      },
+      {
+        "title": "Lost Highway",
+        "year": 2007,
+        "mb_rgid": "9105c0d4-eeaf-3c7e-9f68-278860b08c01",
+        "match_strategy": "url_rel",
+        "discogs_id": 998690,
+        "discogs_reviews": 472,
+        "discogs_rating": 3.99,
+        "cover_path": "covers/9105c0d4-eeaf-3c7e-9f68-278860b08c01.jpeg"
+      },
+      {
+        "title": "The Circle",
+        "year": 2009,
+        "mb_rgid": "a5651aef-e3bf-46dd-86f1-cf3091e4a388",
+        "match_strategy": "url_rel",
+        "discogs_id": 2002703,
+        "discogs_reviews": 338,
+        "discogs_rating": 3.8,
+        "cover_path": "covers/a5651aef-e3bf-46dd-86f1-cf3091e4a388.jpeg"
+      },
+      {
+        "title": "What About Now",
+        "year": 2013,
+        "mb_rgid": "e02f8bbd-27a1-4d93-aced-ad32dd51d6bf",
+        "match_strategy": "url_rel",
+        "discogs_id": 4375967,
+        "discogs_reviews": 261,
+        "discogs_rating": 3.8,
+        "cover_path": "covers/e02f8bbd-27a1-4d93-aced-ad32dd51d6bf.jpeg"
+      },
+      {
+        "title": "Burning Bridges",
+        "year": 2015,
+        "mb_rgid": "73a6c7ae-0fd3-49dd-9a3a-d843ace27612",
+        "match_strategy": "url_rel",
+        "discogs_id": 7376490,
+        "discogs_reviews": 158,
+        "discogs_rating": 3.69,
+        "cover_path": "covers/73a6c7ae-0fd3-49dd-9a3a-d843ace27612.jpeg"
+      },
+      {
+        "title": "This House Is Not for Sale",
+        "year": 2016,
+        "mb_rgid": "fd527e07-7928-4b28-89f2-965bdbfc04ae",
+        "match_strategy": "url_rel",
+        "discogs_id": 9290753,
+        "discogs_reviews": 399,
+        "discogs_rating": 3.86,
+        "cover_path": "covers/fd527e07-7928-4b28-89f2-965bdbfc04ae.jpeg"
+      },
+      {
+        "title": "2020",
+        "year": 2020,
+        "mb_rgid": "3c6fe7fd-0d0f-4e11-a217-8f0304f0b319",
+        "match_strategy": "url_rel",
+        "discogs_id": 16021555,
+        "discogs_reviews": 268,
+        "discogs_rating": 4.04,
+        "cover_path": "covers/3c6fe7fd-0d0f-4e11-a217-8f0304f0b319.jpeg"
+      },
+      {
+        "title": "Forever",
+        "year": 2024,
+        "mb_rgid": "90cc8a89-a76c-44aa-9d5a-f163daa2710e",
+        "match_strategy": "url_rel",
+        "discogs_id": 30927798,
+        "discogs_reviews": 320,
+        "discogs_rating": 4.34,
+        "cover_path": "covers/90cc8a89-a76c-44aa-9d5a-f163daa2710e.jpeg"
+      }
+    ]
+  },
+  {
+    "mbid": "f1548c5b-329e-4036-921c-02213a04b525",
+    "name": "Uriah Heep",
+    "genre": "rock",
+    "sub_genre": "hard rock",
+    "albums": [
+      {
+        "title": "…Very ’eavy …Very ’umble",
+        "year": 1970,
+        "mb_rgid": "7486e67b-89f9-372b-8624-9cb11fd44773",
+        "match_strategy": "url_rel",
+        "discogs_id": 22641746,
+        "discogs_reviews": 1935,
+        "discogs_rating": 4.23,
+        "cover_path": "covers/7486e67b-89f9-372b-8624-9cb11fd44773.jpeg"
+      },
+      {
+        "title": "Salisbury",
+        "year": 1971,
+        "mb_rgid": "62d88709-b653-3c37-b7f1-52974ea05010",
+        "match_strategy": "url_rel",
+        "discogs_id": 2680007,
+        "discogs_reviews": 1995,
+        "discogs_rating": 4.27,
+        "cover_path": "covers/62d88709-b653-3c37-b7f1-52974ea05010.jpeg"
+      },
+      {
+        "title": "Look at Yourself",
+        "year": 1971,
+        "mb_rgid": "99100318-0642-3138-9023-6e5d681a2b7e",
+        "match_strategy": "url_rel",
+        "discogs_id": 5289043,
+        "discogs_reviews": 2101,
+        "discogs_rating": 4.33,
+        "cover_path": "covers/99100318-0642-3138-9023-6e5d681a2b7e.jpeg"
+      },
+      {
+        "title": "Demons and Wizards",
+        "year": 1972,
+        "mb_rgid": "19f95cb8-6ffc-307f-a474-369103dd1b82",
+        "match_strategy": "url_rel",
+        "discogs_id": 9331057,
+        "discogs_reviews": 2504,
+        "discogs_rating": 4.31,
+        "cover_path": "covers/19f95cb8-6ffc-307f-a474-369103dd1b82.jpeg"
+      },
+      {
+        "title": "The Magician’s Birthday",
+        "year": 1972,
+        "mb_rgid": "35453797-1c54-383d-bbb1-4d12dfa5e74e",
+        "match_strategy": "url_rel",
+        "discogs_id": 520204,
+        "discogs_reviews": 2153,
+        "discogs_rating": 4.21,
+        "cover_path": "covers/35453797-1c54-383d-bbb1-4d12dfa5e74e.jpeg"
+      },
+      {
+        "title": "Sweet Freedom",
+        "year": 1973,
+        "mb_rgid": "5d94cee4-0756-3fc0-9673-718dd6921a44",
+        "match_strategy": "url_rel",
+        "discogs_id": 1918693,
+        "discogs_reviews": 1373,
+        "discogs_rating": 4.05,
+        "cover_path": "covers/5d94cee4-0756-3fc0-9673-718dd6921a44.jpeg"
+      },
+      {
+        "title": "Wonderworld",
+        "year": 1974,
+        "mb_rgid": "eb02333a-88dc-3f5e-851b-99c0dd7c97bc",
+        "match_strategy": "url_rel",
+        "discogs_id": 33393254,
+        "discogs_reviews": 1231,
+        "discogs_rating": 3.88,
+        "cover_path": "covers/eb02333a-88dc-3f5e-851b-99c0dd7c97bc.jpeg"
+      },
+      {
+        "title": "Return to Fantasy",
+        "year": 1975,
+        "mb_rgid": "ef753054-4db6-3a62-a86f-b1948a6d32fa",
+        "match_strategy": "url_rel",
+        "discogs_id": 1421928,
+        "discogs_reviews": 1173,
+        "discogs_rating": 3.96,
+        "cover_path": "covers/ef753054-4db6-3a62-a86f-b1948a6d32fa.jpeg"
+      },
+      {
+        "title": "High and Mighty",
+        "year": 1976,
+        "mb_rgid": "265b3998-4596-3405-902b-86aa449f8f33",
+        "match_strategy": "url_rel",
+        "discogs_id": 644877,
+        "discogs_reviews": 848,
+        "discogs_rating": 3.85,
+        "cover_path": "covers/265b3998-4596-3405-902b-86aa449f8f33.jpeg"
+      },
+      {
+        "title": "Firefly",
+        "year": 1977,
+        "mb_rgid": "8c9c245c-8cd0-368a-aa7f-af8a95780dfc",
+        "match_strategy": "url_rel",
+        "discogs_id": 2216667,
+        "discogs_reviews": 856,
+        "discogs_rating": 4.04,
+        "cover_path": "covers/8c9c245c-8cd0-368a-aa7f-af8a95780dfc.jpeg"
+      },
+      {
+        "title": "Innocent Victim",
+        "year": 1977,
+        "mb_rgid": "f0c44ac2-6467-33f2-b5d9-80e6718083a2",
+        "match_strategy": "url_rel",
+        "discogs_id": 1661765,
+        "discogs_reviews": 1164,
+        "discogs_rating": 3.98,
+        "cover_path": "covers/f0c44ac2-6467-33f2-b5d9-80e6718083a2.jpeg"
+      },
+      {
+        "title": "Fallen Angel",
+        "year": 1978,
+        "mb_rgid": "85b45baa-9854-39cf-b303-1799e700e62d",
+        "match_strategy": "url_rel",
+        "discogs_id": 2685535,
+        "discogs_reviews": 1021,
+        "discogs_rating": 3.91,
+        "cover_path": "covers/85b45baa-9854-39cf-b303-1799e700e62d.jpeg"
+      },
+      {
+        "title": "Conquest",
+        "year": 1980,
+        "mb_rgid": "4786dbab-8b07-33a5-8ab5-a668ed915b8a",
+        "match_strategy": "url_rel",
+        "discogs_id": 2332376,
+        "discogs_reviews": 554,
+        "discogs_rating": 3.71,
+        "cover_path": "covers/4786dbab-8b07-33a5-8ab5-a668ed915b8a.jpeg"
+      },
+      {
+        "title": "Abominog",
+        "year": 1982,
+        "mb_rgid": "b1c57669-8bb9-3897-a8c6-3d2f291116b6",
+        "match_strategy": "url_rel",
+        "discogs_id": 7533233,
+        "discogs_reviews": 800,
+        "discogs_rating": 3.9,
+        "cover_path": "covers/b1c57669-8bb9-3897-a8c6-3d2f291116b6.jpeg"
+      },
+      {
+        "title": "Head First",
+        "year": 1983,
+        "mb_rgid": "d7271a6a-1cb7-3a13-9d12-077f14e77e08",
+        "match_strategy": "url_rel",
+        "discogs_id": 6401329,
+        "discogs_reviews": 471,
+        "discogs_rating": 3.92,
+        "cover_path": "covers/d7271a6a-1cb7-3a13-9d12-077f14e77e08.jpeg"
+      },
+      {
+        "title": "Equator",
+        "year": 1985,
+        "mb_rgid": "2e08c703-922c-32e5-adec-1d7e9c4ce15f",
+        "match_strategy": "url_rel",
+        "discogs_id": 413412,
+        "discogs_reviews": 359,
+        "discogs_rating": 3.66,
+        "cover_path": "covers/2e08c703-922c-32e5-adec-1d7e9c4ce15f.jpeg"
+      },
+      {
+        "title": "Raging Silence",
+        "year": 1989,
+        "mb_rgid": "9c4eb4be-9a2c-3fd5-b02a-39ae37421d66",
+        "match_strategy": "url_rel",
+        "discogs_id": 3568517,
+        "discogs_reviews": 309,
+        "discogs_rating": 3.79,
+        "cover_path": "covers/9c4eb4be-9a2c-3fd5-b02a-39ae37421d66.jpeg"
+      },
+      {
+        "title": "Different World",
+        "year": 1991,
+        "mb_rgid": "b758605b-912c-387f-9adc-fbfc42ed3000",
+        "match_strategy": "url_rel",
+        "discogs_id": 3617232,
+        "discogs_reviews": 229,
+        "discogs_rating": 3.58,
+        "cover_path": "covers/b758605b-912c-387f-9adc-fbfc42ed3000.jpeg"
+      },
+      {
+        "title": "Sea of Light",
+        "year": 1995,
+        "mb_rgid": "01d6762d-007e-3258-bc6d-1d58ce7b48e9",
+        "match_strategy": "url_rel",
+        "discogs_id": 1866216,
+        "discogs_reviews": 237,
+        "discogs_rating": 4.14,
+        "cover_path": "covers/01d6762d-007e-3258-bc6d-1d58ce7b48e9.jpeg"
+      },
+      {
+        "title": "Sonic Origami",
+        "year": 1998,
+        "mb_rgid": "ba0a82c4-809e-36e1-b3e0-6fe10737e80a",
+        "match_strategy": "url_rel",
+        "discogs_id": 1137866,
+        "discogs_reviews": 208,
+        "discogs_rating": 4.03,
+        "cover_path": "covers/ba0a82c4-809e-36e1-b3e0-6fe10737e80a.jpeg"
+      },
+      {
+        "title": "Wake the Sleeper",
+        "year": 2008,
+        "mb_rgid": "71c0eb44-d72c-3e43-a664-87f24f3852f8",
+        "match_strategy": "url_rel",
+        "discogs_id": 1583457,
+        "discogs_reviews": 228,
+        "discogs_rating": 4.07,
+        "cover_path": "covers/71c0eb44-d72c-3e43-a664-87f24f3852f8.jpeg"
+      },
+      {
+        "title": "Into the Wild",
+        "year": 2011,
+        "mb_rgid": "8cc539b4-9d61-4b4c-993c-65834bfd49b2",
+        "match_strategy": "url_rel",
+        "discogs_id": 3215947,
+        "discogs_reviews": 164,
+        "discogs_rating": 4.2,
+        "cover_path": "covers/8cc539b4-9d61-4b4c-993c-65834bfd49b2.jpeg"
+      },
+      {
+        "title": "Outsider",
+        "year": 2014,
+        "mb_rgid": "2c585f01-3b30-4e67-a760-533d9d151815",
+        "match_strategy": "url_rel",
+        "discogs_id": 11360482,
+        "discogs_reviews": 195,
+        "discogs_rating": 4.23,
+        "cover_path": "covers/2c585f01-3b30-4e67-a760-533d9d151815.jpeg"
+      },
+      {
+        "title": "David Byron Hits",
+        "year": 2017,
+        "mb_rgid": "fd384dbe-e118-4620-a28e-7098025f43a1",
+        "match_strategy": null,
+        "discogs_id": null,
+        "discogs_reviews": null,
+        "discogs_rating": null,
+        "cover_path": null
+      },
+      {
+        "title": "Living the Dream",
+        "year": 2018,
+        "mb_rgid": "0ff5ef80-321e-4d1d-ad90-001d3a8cf774",
+        "match_strategy": "url_rel",
+        "discogs_id": 12521917,
+        "discogs_reviews": 271,
+        "discogs_rating": 4.35,
+        "cover_path": "covers/0ff5ef80-321e-4d1d-ad90-001d3a8cf774.jpeg"
+      }
+    ]
+  },
+  {
+    "mbid": "a41ac10f-0a56-4672-9161-b83f9b223559",
+    "name": "Van Morrison",
+    "genre": "rock",
+    "sub_genre": "folk rock",
+    "albums": [
+      {
+        "title": "Blowin’ Your Mind!",
+        "year": 1967,
+        "mb_rgid": "c89a3194-d0bb-3089-a538-f0b782ca4395",
+        "match_strategy": "url_rel",
+        "discogs_id": 6483624,
+        "discogs_reviews": 641,
+        "discogs_rating": 4.23,
+        "cover_path": "covers/c89a3194-d0bb-3089-a538-f0b782ca4395.jpeg"
+      },
+      {
+        "title": "Astral Weeks",
+        "year": 1968,
+        "mb_rgid": "7d568f14-d86e-3584-97d0-c1824599de04",
+        "match_strategy": "url_rel",
+        "discogs_id": 3536289,
+        "discogs_reviews": 3332,
+        "discogs_rating": 4.54,
+        "cover_path": "covers/7d568f14-d86e-3584-97d0-c1824599de04.jpeg"
+      },
+      {
+        "title": "Moondance",
+        "year": 1970,
+        "mb_rgid": "16506432-d133-3b2f-a504-dc88966dad2a",
+        "match_strategy": "url_rel",
+        "discogs_id": 2319571,
+        "discogs_reviews": 3912,
+        "discogs_rating": 4.57,
+        "cover_path": "covers/16506432-d133-3b2f-a504-dc88966dad2a.jpeg"
+      },
+      {
+        "title": "His Band and the Street Choir",
+        "year": 1970,
+        "mb_rgid": "c27a909a-6d4c-37eb-8925-4c5e23a8022b",
+        "match_strategy": "url_rel",
+        "discogs_id": 4388407,
+        "discogs_reviews": 1475,
+        "discogs_rating": 4.28,
+        "cover_path": "covers/c27a909a-6d4c-37eb-8925-4c5e23a8022b.jpeg"
+      },
+      {
+        "title": "Tupelo Honey",
+        "year": 1971,
+        "mb_rgid": "c2c0e5e7-dc91-3e4e-b5bf-a26f06328926",
+        "match_strategy": "url_rel",
+        "discogs_id": 713507,
+        "discogs_reviews": 1621,
+        "discogs_rating": 4.27,
+        "cover_path": "covers/c2c0e5e7-dc91-3e4e-b5bf-a26f06328926.jpeg"
+      },
+      {
+        "title": "Saint Dominic’s Preview",
+        "year": 1972,
+        "mb_rgid": "a02e348c-cd4e-3686-b244-e9d0abc3ce0c",
+        "match_strategy": "url_rel",
+        "discogs_id": 3701617,
+        "discogs_reviews": 1209,
+        "discogs_rating": 4.32,
+        "cover_path": "covers/a02e348c-cd4e-3686-b244-e9d0abc3ce0c.jpeg"
+      },
+      {
+        "title": "Hard Nose the Highway",
+        "year": 1973,
+        "mb_rgid": "422c0773-a361-38c4-af18-6b0c5732b141",
+        "match_strategy": "url_rel",
+        "discogs_id": 2119782,
+        "discogs_reviews": 849,
+        "discogs_rating": 3.99,
+        "cover_path": "covers/422c0773-a361-38c4-af18-6b0c5732b141.jpeg"
+      },
+      {
+        "title": "Veedon Fleece",
+        "year": 1974,
+        "mb_rgid": "9657da29-8e8a-3de0-bbf3-0052309f3ff5",
+        "match_strategy": "url_rel",
+        "discogs_id": 9899240,
+        "discogs_reviews": 1477,
+        "discogs_rating": 4.46,
+        "cover_path": "covers/9657da29-8e8a-3de0-bbf3-0052309f3ff5.jpeg"
+      },
+      {
+        "title": "A Period of Transition",
+        "year": 1977,
+        "mb_rgid": "4a07abbe-f575-3e13-a7d5-59a45384eebf",
+        "match_strategy": "url_rel",
+        "discogs_id": 9735774,
+        "discogs_reviews": 738,
+        "discogs_rating": 3.79,
+        "cover_path": "covers/4a07abbe-f575-3e13-a7d5-59a45384eebf.jpeg"
+      },
+      {
+        "title": "Wavelength",
+        "year": 1978,
+        "mb_rgid": "cb5a7ce8-8ddd-3b0f-ae06-7f87629398d1",
+        "match_strategy": "url_rel",
+        "discogs_id": 1329657,
+        "discogs_reviews": 1146,
+        "discogs_rating": 3.84,
+        "cover_path": "covers/cb5a7ce8-8ddd-3b0f-ae06-7f87629398d1.jpeg"
+      },
+      {
+        "title": "Into the Music",
+        "year": 1979,
+        "mb_rgid": "d8d9f54f-7904-38e1-ac5f-a3b7447f5ae2",
+        "match_strategy": "url_rel",
+        "discogs_id": 2086939,
+        "discogs_reviews": 1179,
+        "discogs_rating": 4.15,
+        "cover_path": "covers/d8d9f54f-7904-38e1-ac5f-a3b7447f5ae2.jpeg"
+      },
+      {
+        "title": "Common One",
+        "year": 1980,
+        "mb_rgid": "01f46631-39d6-382d-8d45-ba1180feaa14",
+        "match_strategy": "url_rel",
+        "discogs_id": 708683,
+        "discogs_reviews": 847,
+        "discogs_rating": 4.09,
+        "cover_path": "covers/01f46631-39d6-382d-8d45-ba1180feaa14.jpeg"
+      },
+      {
+        "title": "Beautiful Vision",
+        "year": 1982,
+        "mb_rgid": "36680bcc-63dd-380e-9eb7-dc8613124d67",
+        "match_strategy": "url_rel",
+        "discogs_id": 1338348,
+        "discogs_reviews": 896,
+        "discogs_rating": 4.05,
+        "cover_path": "covers/36680bcc-63dd-380e-9eb7-dc8613124d67.jpeg"
+      },
+      {
+        "title": "Inarticulate Speech of the Heart",
+        "year": 1983,
+        "mb_rgid": "1fa971a3-4ed8-3aef-a12d-c00c8a56eecf",
+        "match_strategy": "url_rel",
+        "discogs_id": 1429033,
+        "discogs_reviews": 775,
+        "discogs_rating": 3.82,
+        "cover_path": "covers/1fa971a3-4ed8-3aef-a12d-c00c8a56eecf.jpeg"
+      },
+      {
+        "title": "A Sense of Wonder",
+        "year": 1984,
+        "mb_rgid": "0cefe375-8fb1-37e3-a85a-947ea008d575",
+        "match_strategy": "url_rel",
+        "discogs_id": 2085742,
+        "discogs_reviews": 591,
+        "discogs_rating": 3.79,
+        "cover_path": "covers/0cefe375-8fb1-37e3-a85a-947ea008d575.jpeg"
+      },
+      {
+        "title": "No Guru, No Method, No Teacher",
+        "year": 1986,
+        "mb_rgid": "c89b9642-6b26-3ca2-a1e4-55f306ad50c9",
+        "match_strategy": "url_rel",
+        "discogs_id": 14969735,
+        "discogs_reviews": 884,
+        "discogs_rating": 4.14,
+        "cover_path": "covers/c89b9642-6b26-3ca2-a1e4-55f306ad50c9.jpeg"
+      },
+      {
+        "title": "Poetic Champions Compose",
+        "year": 1987,
+        "mb_rgid": "e1c45fe1-d99f-3874-8a50-79de343e1c06",
+        "match_strategy": "url_rel",
+        "discogs_id": 376065,
+        "discogs_reviews": 735,
+        "discogs_rating": 4.21,
+        "cover_path": "covers/e1c45fe1-d99f-3874-8a50-79de343e1c06.jpeg"
+      },
+      {
+        "title": "Irish Heartbeat",
+        "year": 1988,
+        "mb_rgid": "24344dad-3fc0-39dc-b2f9-8220fe65718a",
+        "match_strategy": "url_rel",
+        "discogs_id": 1181957,
+        "discogs_reviews": 658,
+        "discogs_rating": 4.06,
+        "cover_path": "covers/24344dad-3fc0-39dc-b2f9-8220fe65718a.jpeg"
+      },
+      {
+        "title": "Avalon Sunset",
+        "year": 1989,
+        "mb_rgid": "73550711-af87-3816-871c-7211b87bb68e",
+        "match_strategy": "url_rel",
+        "discogs_id": 1454320,
+        "discogs_reviews": 864,
+        "discogs_rating": 4.15,
+        "cover_path": "covers/73550711-af87-3816-871c-7211b87bb68e.jpeg"
+      },
+      {
+        "title": "Enlightenment",
+        "year": 1990,
+        "mb_rgid": "02a1ac43-a1e4-34a6-bbdb-1a552c271f1e",
+        "match_strategy": "url_rel",
+        "discogs_id": 716638,
+        "discogs_reviews": 632,
+        "discogs_rating": 4.08,
+        "cover_path": "covers/02a1ac43-a1e4-34a6-bbdb-1a552c271f1e.jpeg"
+      },
+      {
+        "title": "Hymns to the Silence",
+        "year": 1991,
+        "mb_rgid": "ecb25d37-c12d-32a7-871c-573d0f5b39ed",
+        "match_strategy": "url_rel",
+        "discogs_id": 716655,
+        "discogs_reviews": 564,
+        "discogs_rating": 4.27,
+        "cover_path": "covers/ecb25d37-c12d-32a7-871c-573d0f5b39ed.jpeg"
+      },
+      {
+        "title": "Too Long in Exile",
+        "year": 1993,
+        "mb_rgid": "beebb887-c306-3f29-84c1-507ebb1271a1",
+        "match_strategy": "url_rel",
+        "discogs_id": 1002675,
+        "discogs_reviews": 412,
+        "discogs_rating": 4.14,
+        "cover_path": "covers/beebb887-c306-3f29-84c1-507ebb1271a1.jpeg"
+      },
+      {
+        "title": "Days Like This",
+        "year": 1995,
+        "mb_rgid": "defa7bc5-d4ee-36b8-a190-22b49067034c",
+        "match_strategy": "url_rel",
+        "discogs_id": 1006722,
+        "discogs_reviews": 381,
+        "discogs_rating": 4.1,
+        "cover_path": "covers/defa7bc5-d4ee-36b8-a190-22b49067034c.jpeg"
+      },
+      {
+        "title": "Tell Me Something: The Songs of Mose Allison",
+        "year": 1996,
+        "mb_rgid": "937284eb-7b9b-37b4-b6e4-d3639903a9ce",
+        "match_strategy": "url_rel",
+        "discogs_id": 3138219,
+        "discogs_reviews": 89,
+        "discogs_rating": 4.17,
+        "cover_path": "covers/937284eb-7b9b-37b4-b6e4-d3639903a9ce.jpeg"
+      },
+      {
+        "title": "The Healing Game",
+        "year": 1997,
+        "mb_rgid": "0fbbc213-48e1-3612-bc9d-151db8a2b18d",
+        "match_strategy": "url_rel",
+        "discogs_id": 716672,
+        "discogs_reviews": 642,
+        "discogs_rating": 4.29,
+        "cover_path": "covers/0fbbc213-48e1-3612-bc9d-151db8a2b18d.jpeg"
+      }
+    ]
+  },
+  {
+    "mbid": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
+    "name": "Black Sabbath",
+    "genre": "metal",
+    "sub_genre": "heavy metal",
+    "albums": [
+      {
+        "title": "Black Sabbath",
+        "year": 1970,
+        "mb_rgid": "826c9743-a3f0-3479-bf06-8df2e140ef1d",
+        "match_strategy": "url_rel",
+        "discogs_id": 462466,
+        "discogs_reviews": 8357,
+        "discogs_rating": 4.67,
+        "cover_path": "covers/826c9743-a3f0-3479-bf06-8df2e140ef1d.jpeg"
+      },
+      {
+        "title": "Paranoid",
+        "year": 1970,
+        "mb_rgid": "cc053745-c447-3566-8f27-bed5438c9133",
+        "match_strategy": "url_rel",
+        "discogs_id": 696772,
+        "discogs_reviews": 11732,
+        "discogs_rating": 4.66,
+        "cover_path": "covers/cc053745-c447-3566-8f27-bed5438c9133.jpeg"
+      },
+      {
+        "title": "Master of Reality",
+        "year": 1971,
+        "mb_rgid": "e51e9779-2edc-3b39-959c-299fdb5ed940",
+        "match_strategy": "url_rel",
+        "discogs_id": 590773,
+        "discogs_reviews": 6989,
+        "discogs_rating": 4.62,
+        "cover_path": "covers/e51e9779-2edc-3b39-959c-299fdb5ed940.jpeg"
+      },
+      {
+        "title": "Vol 4",
+        "year": 1972,
+        "mb_rgid": "8c292627-3459-3852-8ebc-226c12db175d",
+        "match_strategy": "url_rel",
+        "discogs_id": 975419,
+        "discogs_reviews": 5998,
+        "discogs_rating": 4.54,
+        "cover_path": "covers/8c292627-3459-3852-8ebc-226c12db175d.jpeg"
+      },
+      {
+        "title": "Sabbath Bloody Sabbath",
+        "year": 1973,
+        "mb_rgid": "dd9bd473-0232-3a12-b51e-742de1aca5ca",
+        "match_strategy": "url_rel",
+        "discogs_id": 2596401,
+        "discogs_reviews": 5481,
+        "discogs_rating": 4.53,
+        "cover_path": "covers/dd9bd473-0232-3a12-b51e-742de1aca5ca.jpeg"
+      },
+      {
+        "title": "Sabotage",
+        "year": 1975,
+        "mb_rgid": "8ef6fc58-d87a-46cf-ab9d-077291784ada",
+        "match_strategy": "url_rel",
+        "discogs_id": 1197031,
+        "discogs_reviews": 4312,
+        "discogs_rating": 4.47,
+        "cover_path": "covers/8ef6fc58-d87a-46cf-ab9d-077291784ada.jpeg"
+      },
+      {
+        "title": "Technical Ecstasy",
+        "year": 1976,
+        "mb_rgid": "de117377-2f09-3502-8959-e1eca1b583a8",
+        "match_strategy": "url_rel",
+        "discogs_id": 6366034,
+        "discogs_reviews": 2794,
+        "discogs_rating": 4.02,
+        "cover_path": "covers/de117377-2f09-3502-8959-e1eca1b583a8.jpeg"
+      },
+      {
+        "title": "Never Say Die!",
+        "year": 1978,
+        "mb_rgid": "eb8c8e6c-b554-31d3-bae0-1c4ea64336d0",
+        "match_strategy": "url_rel",
+        "discogs_id": 1163490,
+        "discogs_reviews": 2680,
+        "discogs_rating": 3.99,
+        "cover_path": "covers/eb8c8e6c-b554-31d3-bae0-1c4ea64336d0.jpeg"
+      },
+      {
+        "title": "Heaven and Hell",
+        "year": 1980,
+        "mb_rgid": "43ac82b5-eceb-3909-a153-3c00ea9c7b9a",
+        "match_strategy": "url_rel",
+        "discogs_id": 1660926,
+        "discogs_reviews": 5032,
+        "discogs_rating": 4.51,
+        "cover_path": "covers/43ac82b5-eceb-3909-a153-3c00ea9c7b9a.jpeg"
+      },
+      {
+        "title": "Mob Rules",
+        "year": 1981,
+        "mb_rgid": "35cb9c0a-3cce-3efd-ac19-014f4811620d",
+        "match_strategy": "url_rel",
+        "discogs_id": 3845626,
+        "discogs_reviews": 3417,
+        "discogs_rating": 4.38,
+        "cover_path": "covers/35cb9c0a-3cce-3efd-ac19-014f4811620d.jpeg"
+      },
+      {
+        "title": "Born Again",
+        "year": 1983,
+        "mb_rgid": "de7de788-0f31-338a-9d82-8a09108e429f",
+        "match_strategy": "url_rel",
+        "discogs_id": 2637933,
+        "discogs_reviews": 2606,
+        "discogs_rating": 4.06,
+        "cover_path": "covers/de7de788-0f31-338a-9d82-8a09108e429f.jpeg"
+      },
+      {
+        "title": "Seventh Star",
+        "year": 1986,
+        "mb_rgid": "9ff01b54-79d5-343b-9a52-242e5627d652",
+        "match_strategy": "url_rel",
+        "discogs_id": 2722532,
+        "discogs_reviews": 1696,
+        "discogs_rating": 3.96,
+        "cover_path": "covers/9ff01b54-79d5-343b-9a52-242e5627d652.jpeg"
+      },
+      {
+        "title": "The Eternal Idol",
+        "year": 1987,
+        "mb_rgid": "fb123ba6-4a78-3ed3-bee3-cf939fac6411",
+        "match_strategy": "url_rel",
+        "discogs_id": 2892059,
+        "discogs_reviews": 1770,
+        "discogs_rating": 4.11,
+        "cover_path": "covers/fb123ba6-4a78-3ed3-bee3-cf939fac6411.jpeg"
+      },
+      {
+        "title": "Headless Cross",
+        "year": 1989,
+        "mb_rgid": "230fa643-0fdf-34a4-b6e4-3cf8563dcf11",
+        "match_strategy": "url_rel",
+        "discogs_id": 3675859,
+        "discogs_reviews": 1653,
+        "discogs_rating": 4.34,
+        "cover_path": "covers/230fa643-0fdf-34a4-b6e4-3cf8563dcf11.jpeg"
+      },
+      {
+        "title": "TYR",
+        "year": 1990,
+        "mb_rgid": "00f64d57-aeaf-3925-ac5e-072fdcb7c3f6",
+        "match_strategy": "url_rel",
+        "discogs_id": 6279791,
+        "discogs_reviews": 1460,
+        "discogs_rating": 4.24,
+        "cover_path": "covers/00f64d57-aeaf-3925-ac5e-072fdcb7c3f6.jpeg"
+      },
+      {
+        "title": "Dehumanizer",
+        "year": 1992,
+        "mb_rgid": "0db80cc3-becc-3ee7-8abe-de42d368ca54",
+        "match_strategy": "url_rel",
+        "discogs_id": 554604,
+        "discogs_reviews": 1869,
+        "discogs_rating": 4.29,
+        "cover_path": "covers/0db80cc3-becc-3ee7-8abe-de42d368ca54.jpeg"
+      },
+      {
+        "title": "Cross Purposes",
+        "year": 1994,
+        "mb_rgid": "0a321887-9d3d-3600-90d1-67540a409177",
+        "match_strategy": "url_rel",
+        "discogs_id": 489322,
+        "discogs_reviews": 949,
+        "discogs_rating": 4.17,
+        "cover_path": "covers/0a321887-9d3d-3600-90d1-67540a409177.jpeg"
+      },
+      {
+        "title": "Forbidden",
+        "year": 1995,
+        "mb_rgid": "dcb2536b-a011-33d3-b364-a4e724e5a7a8",
+        "match_strategy": "url_rel",
+        "discogs_id": 2710580,
+        "discogs_reviews": 900,
+        "discogs_rating": 3.91,
+        "cover_path": "covers/dcb2536b-a011-33d3-b364-a4e724e5a7a8.jpeg"
+      },
+      {
+        "title": "13",
+        "year": 2013,
+        "mb_rgid": "5cbae3a0-6d55-497b-97b3-6c30a3264313",
+        "match_strategy": "url_rel",
+        "discogs_id": 4634814,
+        "discogs_reviews": 3654,
+        "discogs_rating": 4.27,
+        "cover_path": "covers/5cbae3a0-6d55-497b-97b3-6c30a3264313.jpeg"
+      }
+    ]
+  },
+  {
+    "mbid": "64b94289-9474-4d43-8c93-918ccc1920d1",
+    "name": "Billy Joel",
+    "genre": "pop",
+    "sub_genre": "pop",
+    "albums": [
+      {
+        "title": "Cold Spring Harbor",
+        "year": 1971,
+        "mb_rgid": "8b6980bf-7fb3-332f-a7df-6526d2bb2bc9",
+        "match_strategy": "url_rel",
+        "discogs_id": 1580441,
+        "discogs_reviews": 691,
+        "discogs_rating": 3.99,
+        "cover_path": "covers/8b6980bf-7fb3-332f-a7df-6526d2bb2bc9.jpeg"
+      },
+      {
+        "title": "Piano Man",
+        "year": 1973,
+        "mb_rgid": "7866f536-a9c7-32eb-8eed-bb49132432fa",
+        "match_strategy": "url_rel",
+        "discogs_id": 1674119,
+        "discogs_reviews": 2740,
+        "discogs_rating": 4.11,
+        "cover_path": "covers/7866f536-a9c7-32eb-8eed-bb49132432fa.jpeg"
+      },
+      {
+        "title": "Streetlife Serenade",
+        "year": 1974,
+        "mb_rgid": "89ff0095-2ef2-311f-80f2-48b16b85bf56",
+        "match_strategy": "url_rel",
+        "discogs_id": 1991423,
+        "discogs_reviews": 1145,
+        "discogs_rating": 3.81,
+        "cover_path": "covers/89ff0095-2ef2-311f-80f2-48b16b85bf56.jpeg"
+      },
+      {
+        "title": "Turnstiles",
+        "year": 1976,
+        "mb_rgid": "46a3a9dc-510e-3765-81dd-536ced41819a",
+        "match_strategy": "url_rel",
+        "discogs_id": 427787,
+        "discogs_reviews": 1599,
+        "discogs_rating": 4.03,
+        "cover_path": "covers/46a3a9dc-510e-3765-81dd-536ced41819a.jpeg"
+      },
+      {
+        "title": "The Stranger",
+        "year": 1977,
+        "mb_rgid": "735bcee6-6be6-3957-af15-d21ba2bd355b",
+        "match_strategy": "url_rel",
+        "discogs_id": 13114025,
+        "discogs_reviews": 6317,
+        "discogs_rating": 4.35,
+        "cover_path": "covers/735bcee6-6be6-3957-af15-d21ba2bd355b.jpeg"
+      },
+      {
+        "title": "52nd Street",
+        "year": 1978,
+        "mb_rgid": "54e6b4a1-7a6a-3ead-b032-0912cfd49a1e",
+        "match_strategy": "url_rel",
+        "discogs_id": 7403788,
+        "discogs_reviews": 4589,
+        "discogs_rating": 4.02,
+        "cover_path": "covers/54e6b4a1-7a6a-3ead-b032-0912cfd49a1e.jpeg"
+      },
+      {
+        "title": "Glass Houses",
+        "year": 1980,
+        "mb_rgid": "12a46ae7-fc7a-3a0e-84f6-8c9e476757ef",
+        "match_strategy": "url_rel",
+        "discogs_id": 790310,
+        "discogs_reviews": 4466,
+        "discogs_rating": 4.04,
+        "cover_path": "covers/12a46ae7-fc7a-3a0e-84f6-8c9e476757ef.jpeg"
+      },
+      {
+        "title": "The Nylon Curtain",
+        "year": 1982,
+        "mb_rgid": "b1424104-8403-3bce-8130-2ebee0053ddb",
+        "match_strategy": "url_rel",
+        "discogs_id": 1282593,
+        "discogs_reviews": 2158,
+        "discogs_rating": 3.89,
+        "cover_path": "covers/b1424104-8403-3bce-8130-2ebee0053ddb.jpeg"
+      },
+      {
+        "title": "An Innocent Man",
+        "year": 1983,
+        "mb_rgid": "63424e12-759d-3d3d-a14b-0f06101c0a28",
+        "match_strategy": "url_rel",
+        "discogs_id": 822425,
+        "discogs_reviews": 3883,
+        "discogs_rating": 4.02,
+        "cover_path": "covers/63424e12-759d-3d3d-a14b-0f06101c0a28.jpeg"
+      },
+      {
+        "title": "The Bridge",
+        "year": 1986,
+        "mb_rgid": "e09226c5-87f6-3f71-b199-d9d5797e714b",
+        "match_strategy": "url_rel",
+        "discogs_id": 1256010,
+        "discogs_reviews": 1613,
+        "discogs_rating": 3.75,
+        "cover_path": "covers/e09226c5-87f6-3f71-b199-d9d5797e714b.jpeg"
+      },
+      {
+        "title": "Storm Front",
+        "year": 1989,
+        "mb_rgid": "2b749a86-14bf-3b42-bdcf-3cc44d9bd338",
+        "match_strategy": "url_rel",
+        "discogs_id": 1961772,
+        "discogs_reviews": 1804,
+        "discogs_rating": 3.97,
+        "cover_path": "covers/2b749a86-14bf-3b42-bdcf-3cc44d9bd338.jpeg"
+      },
+      {
+        "title": "River of Dreams",
+        "year": 1993,
+        "mb_rgid": "166ca278-c030-388d-85d7-f8f963796d7f",
+        "match_strategy": "url_rel",
+        "discogs_id": 376833,
+        "discogs_reviews": 933,
+        "discogs_rating": 3.9,
+        "cover_path": "covers/166ca278-c030-388d-85d7-f8f963796d7f.jpeg"
+      },
+      {
+        "title": "Fantasies & Delusions",
+        "year": 2001,
+        "mb_rgid": "f3912e9c-d3a0-3d3d-9984-99f19844b8ec",
+        "match_strategy": "url_rel",
+        "discogs_id": 6521280,
+        "discogs_reviews": 94,
+        "discogs_rating": 4.07,
+        "cover_path": "covers/f3912e9c-d3a0-3d3d-9984-99f19844b8ec.jpeg"
+      },
+      {
+        "title": "And So It Goes: Songs of Folk & Lore",
+        "year": 2018,
+        "mb_rgid": "41283c41-4428-47c7-8d42-036384bedd64",
+        "match_strategy": null,
+        "discogs_id": null,
+        "discogs_reviews": null,
+        "discogs_rating": null,
+        "cover_path": null
+      }
+    ]
+  },
+  {
+    "mbid": "4dbf5678-7a31-406a-abbe-232f8ac2cd63",
+    "name": "Bryan Adams",
+    "genre": "rock",
+    "sub_genre": "hard rock",
+    "albums": [
+      {
+        "title": "Bryan Adams",
+        "year": 1980,
+        "mb_rgid": "c67d84d5-8032-36be-91e2-2db9af081a51",
+        "match_strategy": "url_rel",
+        "discogs_id": 1979464,
+        "discogs_reviews": 510,
+        "discogs_rating": 3.67,
+        "cover_path": "covers/c67d84d5-8032-36be-91e2-2db9af081a51.jpeg"
+      },
+      {
+        "title": "You Want It ▪ You Got It",
+        "year": 1981,
+        "mb_rgid": "a55ea7ed-c2af-3dd1-8093-515267896b29",
+        "match_strategy": "url_rel",
+        "discogs_id": 2079203,
+        "discogs_reviews": 707,
+        "discogs_rating": 3.71,
+        "cover_path": "covers/a55ea7ed-c2af-3dd1-8093-515267896b29.jpeg"
+      },
+      {
+        "title": "Cuts Like a Knife",
+        "year": 1983,
+        "mb_rgid": "fdec9411-dca9-3a83-b1c2-3d934a82f9be",
+        "match_strategy": "url_rel",
+        "discogs_id": 1567509,
+        "discogs_reviews": 1938,
+        "discogs_rating": 3.93,
+        "cover_path": "covers/fdec9411-dca9-3a83-b1c2-3d934a82f9be.jpeg"
+      },
+      {
+        "title": "Reckless",
+        "year": 1984,
+        "mb_rgid": "fe1d2bcd-cdb6-333b-b2c6-8389e5890f04",
+        "match_strategy": "url_rel",
+        "discogs_id": 1451593,
+        "discogs_reviews": 4169,
+        "discogs_rating": 4.13,
+        "cover_path": "covers/fe1d2bcd-cdb6-333b-b2c6-8389e5890f04.jpeg"
+      },
+      {
+        "title": "Into the Fire",
+        "year": 1987,
+        "mb_rgid": "21708a32-5788-34fa-b43d-8e548ae6d7f8",
+        "match_strategy": "url_rel",
+        "discogs_id": 1820568,
+        "discogs_reviews": 1581,
+        "discogs_rating": 3.75,
+        "cover_path": "covers/21708a32-5788-34fa-b43d-8e548ae6d7f8.jpeg"
+      },
+      {
+        "title": "Waking Up the Neighbours",
+        "year": 1991,
+        "mb_rgid": "52d74f79-9c92-385f-9b33-e96b5dfc19a7",
+        "match_strategy": "url_rel",
+        "discogs_id": 4583743,
+        "discogs_reviews": 1519,
+        "discogs_rating": 3.97,
+        "cover_path": "covers/52d74f79-9c92-385f-9b33-e96b5dfc19a7.jpeg"
+      },
+      {
+        "title": "18 Til I Die",
+        "year": 1996,
+        "mb_rgid": "3c9f34a8-c8a7-3b45-9ca4-fa0465e49e27",
+        "match_strategy": "url_rel",
+        "discogs_id": 478730,
+        "discogs_reviews": 561,
+        "discogs_rating": 3.83,
+        "cover_path": "covers/3c9f34a8-c8a7-3b45-9ca4-fa0465e49e27.jpeg"
+      },
+      {
+        "title": "On a Day Like Today",
+        "year": 1998,
+        "mb_rgid": "ab3ab82b-65d9-3018-94aa-16bf5d0c9dd3",
+        "match_strategy": "url_rel",
+        "discogs_id": 1639013,
+        "discogs_reviews": 344,
+        "discogs_rating": 3.84,
+        "cover_path": "covers/ab3ab82b-65d9-3018-94aa-16bf5d0c9dd3.jpeg"
+      },
+      {
+        "title": "Room Service",
+        "year": 2004,
+        "mb_rgid": "7bc30a72-6243-306a-92f5-20f2aa07e9a4",
+        "match_strategy": "url_rel",
+        "discogs_id": 1352143,
+        "discogs_reviews": 202,
+        "discogs_rating": 3.71,
+        "cover_path": "covers/7bc30a72-6243-306a-92f5-20f2aa07e9a4.jpeg"
+      },
+      {
+        "title": "11",
+        "year": 2008,
+        "mb_rgid": "3844a458-2f12-3793-8b5b-d496dbf69c46",
+        "match_strategy": "url_rel",
+        "discogs_id": 7156399,
+        "discogs_reviews": 185,
+        "discogs_rating": 3.82,
+        "cover_path": "covers/3844a458-2f12-3793-8b5b-d496dbf69c46.jpeg"
+      },
+      {
+        "title": "Tracks of My Years",
+        "year": 2014,
+        "mb_rgid": "fa9cee38-e559-4252-8cae-30d8c1470466",
+        "match_strategy": "url_rel",
+        "discogs_id": 6177784,
+        "discogs_reviews": 104,
+        "discogs_rating": 3.97,
+        "cover_path": "covers/fa9cee38-e559-4252-8cae-30d8c1470466.jpeg"
+      },
+      {
+        "title": "Get Up",
+        "year": 2015,
+        "mb_rgid": "f28cacf5-a686-4849-86b3-4406ef34be48",
+        "match_strategy": "url_rel",
+        "discogs_id": 7680290,
+        "discogs_reviews": 283,
+        "discogs_rating": 3.84,
+        "cover_path": "covers/f28cacf5-a686-4849-86b3-4406ef34be48.jpeg"
+      },
+      {
+        "title": "Shine a Light",
+        "year": 2019,
+        "mb_rgid": "4b47dcc4-a5ed-4dae-b8d8-7c0204a9128b",
+        "match_strategy": "url_rel",
+        "discogs_id": 13284523,
+        "discogs_reviews": 208,
+        "discogs_rating": 4.01,
+        "cover_path": "covers/4b47dcc4-a5ed-4dae-b8d8-7c0204a9128b.jpeg"
+      },
+      {
+        "title": "Bryan Adams: Classic",
+        "year": 2022,
+        "mb_rgid": "51d701a2-f7f3-4814-8d46-bc694f07d959",
+        "match_strategy": null,
+        "discogs_id": null,
+        "discogs_reviews": null,
+        "discogs_rating": null,
+        "cover_path": null
+      },
+      {
+        "title": "Pretty Woman: The Musical",
+        "year": 2022,
+        "mb_rgid": "9bd97196-200c-444c-b735-d54ec4ec698c",
+        "match_strategy": "url_rel",
+        "discogs_id": 22431394,
+        "discogs_reviews": 24,
+        "discogs_rating": 3.58,
+        "cover_path": "covers/9bd97196-200c-444c-b735-d54ec4ec698c.jpeg"
+      },
+      {
+        "title": "So Happy It Hurts",
+        "year": 2022,
+        "mb_rgid": "e2b6f024-f823-4521-bfab-82bab03961c8",
+        "match_strategy": "url_rel",
+        "discogs_id": 22457863,
+        "discogs_reviews": 218,
+        "discogs_rating": 4.38,
+        "cover_path": "covers/e2b6f024-f823-4521-bfab-82bab03961c8.jpeg"
+      },
+      {
+        "title": "Classic",
+        "year": 2022,
+        "mb_rgid": "77d9b11e-9d40-4b30-ac34-4422055cdbf7",
+        "match_strategy": "search",
+        "discogs_id": 26639804,
+        "discogs_reviews": 21,
+        "discogs_rating": 4.38,
+        "cover_path": null
+      },
+      {
+        "title": "Classic Pt. II",
+        "year": 2022,
+        "mb_rgid": "9895829d-c462-48c4-bc1e-3cc3bf3dfeaf",
+        "match_strategy": "search",
+        "discogs_id": 34991879,
+        "discogs_reviews": 1,
+        "discogs_rating": 5.0,
+        "cover_path": null
+      },
+      {
+        "title": "Roll With the Punches",
+        "year": 2025,
+        "mb_rgid": "efefe610-2e6c-461c-9404-2ad73db98db0",
+        "match_strategy": "url_rel",
+        "discogs_id": 35042405,
+        "discogs_reviews": 158,
+        "discogs_rating": 4.42,
+        "cover_path": "covers/efefe610-2e6c-461c-9404-2ad73db98db0.jpeg"
+      },
+      {
+        "title": "A Great Big Holiday Jam",
+        "year": 2025,
+        "mb_rgid": "529b0655-4a2e-4f6b-8c50-2268a54df9a3",
+        "match_strategy": "search",
+        "discogs_id": 35906296,
+        "discogs_reviews": 2,
+        "discogs_rating": 5.0,
+        "cover_path": null
+      }
+    ]
+  },
+  {
+    "mbid": "c0bf9e20-2872-4897-ad1f-0882b83272a0",
+    "name": "UFO",
+    "genre": "rock",
+    "sub_genre": "hard rock",
+    "albums": [
+      {
+        "title": "UFO 1",
+        "year": 1970,
+        "mb_rgid": "7a379967-efcc-392a-b45b-eac0db9a55b9",
+        "match_strategy": "url_rel",
+        "discogs_id": 1925951,
+        "discogs_reviews": 874,
+        "discogs_rating": 4.31,
+        "cover_path": "covers/7a379967-efcc-392a-b45b-eac0db9a55b9.jpeg"
+      },
+      {
+        "title": "UFO 2: Flying - One Hour Space Rock",
+        "year": 1971,
+        "mb_rgid": "7f708f0d-a6b8-3bf0-aeda-b1f827b6f1b4",
+        "match_strategy": "url_rel",
+        "discogs_id": 4974746,
+        "discogs_reviews": 1062,
+        "discogs_rating": 4.33,
+        "cover_path": "covers/7f708f0d-a6b8-3bf0-aeda-b1f827b6f1b4.jpeg"
+      },
+      {
+        "title": "Phenomenon",
+        "year": 1974,
+        "mb_rgid": "4c7412bc-cf90-33f9-a1ae-911bdcf2bc6f",
+        "match_strategy": "url_rel",
+        "discogs_id": 1784648,
+        "discogs_reviews": 1374,
+        "discogs_rating": 4.45,
+        "cover_path": "covers/4c7412bc-cf90-33f9-a1ae-911bdcf2bc6f.jpeg"
+      },
+      {
+        "title": "Force It",
+        "year": 1975,
+        "mb_rgid": "3e0d0569-42c9-34cd-b5c6-02b283b5f4e9",
+        "match_strategy": "url_rel",
+        "discogs_id": 11083454,
+        "discogs_reviews": 1212,
+        "discogs_rating": 4.32,
+        "cover_path": "covers/3e0d0569-42c9-34cd-b5c6-02b283b5f4e9.jpeg"
+      },
+      {
+        "title": "No Heavy Petting",
+        "year": 1976,
+        "mb_rgid": "da0bba7e-b5be-3244-a342-28d875059d2a",
+        "match_strategy": "url_rel",
+        "discogs_id": 7471873,
+        "discogs_reviews": 816,
+        "discogs_rating": 4.25,
+        "cover_path": "covers/da0bba7e-b5be-3244-a342-28d875059d2a.jpeg"
+      },
+      {
+        "title": "Lights Out",
+        "year": 1977,
+        "mb_rgid": "2d2751bb-7754-30fe-9942-39823a389458",
+        "match_strategy": "url_rel",
+        "discogs_id": 2137411,
+        "discogs_reviews": 1294,
+        "discogs_rating": 4.33,
+        "cover_path": "covers/2d2751bb-7754-30fe-9942-39823a389458.jpeg"
+      },
+      {
+        "title": "Obsession",
+        "year": 1978,
+        "mb_rgid": "eea11ea6-e44d-3f6d-8ee9-2c2f3ac8343d",
+        "match_strategy": "url_rel",
+        "discogs_id": 1950542,
+        "discogs_reviews": 1264,
+        "discogs_rating": 4.18,
+        "cover_path": "covers/eea11ea6-e44d-3f6d-8ee9-2c2f3ac8343d.jpeg"
+      },
+      {
+        "title": "No Place to Run",
+        "year": 1980,
+        "mb_rgid": "85ef2cad-541b-3122-81d3-c0cc2488a727",
+        "match_strategy": "url_rel",
+        "discogs_id": 1439935,
+        "discogs_reviews": 1056,
+        "discogs_rating": 4.0,
+        "cover_path": "covers/85ef2cad-541b-3122-81d3-c0cc2488a727.jpeg"
+      },
+      {
+        "title": "The Wild, the Willing and the Innocent",
+        "year": 1981,
+        "mb_rgid": "40ed8e14-53db-3b1f-a839-18622bf042c5",
+        "match_strategy": "url_rel",
+        "discogs_id": 7195062,
+        "discogs_reviews": 756,
+        "discogs_rating": 4.03,
+        "cover_path": "covers/40ed8e14-53db-3b1f-a839-18622bf042c5.jpeg"
+      },
+      {
+        "title": "Mechanix",
+        "year": 1982,
+        "mb_rgid": "0065e8d3-c839-3203-ae4d-569295a919cf",
+        "match_strategy": "url_rel",
+        "discogs_id": 1642037,
+        "discogs_reviews": 672,
+        "discogs_rating": 3.94,
+        "cover_path": "covers/0065e8d3-c839-3203-ae4d-569295a919cf.jpeg"
+      },
+      {
+        "title": "Making Contact",
+        "year": 1983,
+        "mb_rgid": "5d4ca7ae-ce84-3c36-bf51-7981e6f32eef",
+        "match_strategy": "url_rel",
+        "discogs_id": 1642010,
+        "discogs_reviews": 467,
+        "discogs_rating": 3.86,
+        "cover_path": "covers/5d4ca7ae-ce84-3c36-bf51-7981e6f32eef.jpeg"
+      },
+      {
+        "title": "Misdemeanor",
+        "year": 1985,
+        "mb_rgid": "3c1a080a-3f0b-353e-a844-02a995fd268f",
+        "match_strategy": "url_rel",
+        "discogs_id": 2137385,
+        "discogs_reviews": 384,
+        "discogs_rating": 3.8,
+        "cover_path": "covers/3c1a080a-3f0b-353e-a844-02a995fd268f.jpeg"
+      },
+      {
+        "title": "High Stakes & Dangerous Men",
+        "year": 1992,
+        "mb_rgid": "9d0fe147-caad-30fe-9688-141b247af746",
+        "match_strategy": "url_rel",
+        "discogs_id": 1957863,
+        "discogs_reviews": 155,
+        "discogs_rating": 4.07,
+        "cover_path": "covers/9d0fe147-caad-30fe-9688-141b247af746.jpeg"
+      },
+      {
+        "title": "Walk on Water",
+        "year": 1995,
+        "mb_rgid": "fedf0221-2924-3573-8d84-6307dee9dcad",
+        "match_strategy": "url_rel",
+        "discogs_id": 378371,
+        "discogs_reviews": 308,
+        "discogs_rating": 4.38,
+        "cover_path": "covers/fedf0221-2924-3573-8d84-6307dee9dcad.jpeg"
+      },
+      {
+        "title": "Covenant",
+        "year": 2000,
+        "mb_rgid": "e57f450f-8152-3489-a055-bc3fa3d54afe",
+        "match_strategy": "url_rel",
+        "discogs_id": 2033181,
+        "discogs_reviews": 160,
+        "discogs_rating": 4.1,
+        "cover_path": "covers/e57f450f-8152-3489-a055-bc3fa3d54afe.jpeg"
+      },
+      {
+        "title": "Sharks",
+        "year": 2002,
+        "mb_rgid": "b28ac6b6-7496-3698-b373-0b66ba49ea91",
+        "match_strategy": "url_rel",
+        "discogs_id": 3995830,
+        "discogs_reviews": 119,
+        "discogs_rating": 3.99,
+        "cover_path": "covers/b28ac6b6-7496-3698-b373-0b66ba49ea91.jpeg"
+      },
+      {
+        "title": "You Are Here",
+        "year": 2004,
+        "mb_rgid": "abd215dc-b892-3d8f-9812-cb54182453e1",
+        "match_strategy": "url_rel",
+        "discogs_id": 3616130,
+        "discogs_reviews": 159,
+        "discogs_rating": 4.03,
+        "cover_path": "covers/abd215dc-b892-3d8f-9812-cb54182453e1.jpeg"
+      },
+      {
+        "title": "The Monkey Puzzle",
+        "year": 2006,
+        "mb_rgid": "f0a38cd1-6f2f-3da6-aa31-5f4013dd646c",
+        "match_strategy": "url_rel",
+        "discogs_id": 2550946,
+        "discogs_reviews": 126,
+        "discogs_rating": 4.08,
+        "cover_path": "covers/f0a38cd1-6f2f-3da6-aa31-5f4013dd646c.jpeg"
+      },
+      {
+        "title": "The Visitor",
+        "year": 2009,
+        "mb_rgid": "34717636-e50c-41d4-a31d-c6a98d8e7472",
+        "match_strategy": "url_rel",
+        "discogs_id": 2619781,
+        "discogs_reviews": 157,
+        "discogs_rating": 4.06,
+        "cover_path": "covers/34717636-e50c-41d4-a31d-c6a98d8e7472.jpeg"
+      },
+      {
+        "title": "Seven Deadly",
+        "year": 2012,
+        "mb_rgid": "6ca58c4c-08e1-43bd-9c3e-85413663d7f6",
+        "match_strategy": "url_rel",
+        "discogs_id": 3945154,
+        "discogs_reviews": 138,
+        "discogs_rating": 4.06,
+        "cover_path": "covers/6ca58c4c-08e1-43bd-9c3e-85413663d7f6.jpeg"
+      },
+      {
+        "title": "A Conspiracy of Stars",
+        "year": 2015,
+        "mb_rgid": "4caaf0ab-53e7-4b54-b512-cf8a75a58829",
+        "match_strategy": "url_rel",
+        "discogs_id": 6715474,
+        "discogs_reviews": 154,
+        "discogs_rating": 4.11,
+        "cover_path": "covers/4caaf0ab-53e7-4b54-b512-cf8a75a58829.jpeg"
+      },
+      {
+        "title": "The Salentino Cuts",
+        "year": 2017,
+        "mb_rgid": "cc3ef0b3-4f00-4235-98c3-5a5426313198",
+        "match_strategy": "url_rel",
+        "discogs_id": 10972991,
+        "discogs_reviews": 86,
+        "discogs_rating": 4.05,
+        "cover_path": "covers/cc3ef0b3-4f00-4235-98c3-5a5426313198.jpeg"
+      }
+    ]
+  },
+  {
+    "mbid": "ee58c59f-8e7f-4430-b8ca-236c4d3745ae",
+    "name": "Alice Cooper",
+    "genre": "rock",
+    "sub_genre": "hard rock",
+    "albums": [
+      {
+        "title": "Welcome to My Nightmare",
+        "year": 1975,
+        "mb_rgid": "65b17904-31c4-303e-a6a2-7c2e750945c7",
+        "match_strategy": "url_rel",
+        "discogs_id": 2749414,
+        "discogs_reviews": 2413,
+        "discogs_rating": 4.29,
+        "cover_path": "covers/65b17904-31c4-303e-a6a2-7c2e750945c7.jpeg"
+      },
+      {
+        "title": "Alice Cooper Goes to Hell",
+        "year": 1976,
+        "mb_rgid": "c7a77e78-b431-348e-adb5-8d6dbe0a04b4",
+        "match_strategy": "url_rel",
+        "discogs_id": 777096,
+        "discogs_reviews": 1422,
+        "discogs_rating": 3.88,
+        "cover_path": "covers/c7a77e78-b431-348e-adb5-8d6dbe0a04b4.jpeg"
+      },
+      {
+        "title": "Lace and Whiskey",
+        "year": 1977,
+        "mb_rgid": "5b4fb998-0692-390b-955a-747160f12149",
+        "match_strategy": "url_rel",
+        "discogs_id": 4415062,
+        "discogs_reviews": 1084,
+        "discogs_rating": 3.77,
+        "cover_path": "covers/5b4fb998-0692-390b-955a-747160f12149.jpeg"
+      },
+      {
+        "title": "From the Inside",
+        "year": 1978,
+        "mb_rgid": "8417b731-6626-376f-b76f-f1ccc5b1e413",
+        "match_strategy": "url_rel",
+        "discogs_id": 5000991,
+        "discogs_reviews": 1627,
+        "discogs_rating": 3.95,
+        "cover_path": "covers/8417b731-6626-376f-b76f-f1ccc5b1e413.jpeg"
+      },
+      {
+        "title": "Flush the Fashion",
+        "year": 1980,
+        "mb_rgid": "6a13b651-7706-3682-8eae-8168e5604bae",
+        "match_strategy": "url_rel",
+        "discogs_id": 1939151,
+        "discogs_reviews": 1076,
+        "discogs_rating": 3.74,
+        "cover_path": "covers/6a13b651-7706-3682-8eae-8168e5604bae.jpeg"
+      },
+      {
+        "title": "Special Forces",
+        "year": 1981,
+        "mb_rgid": "595ac51e-1599-3043-899a-bfbd9be8c5a9",
+        "match_strategy": "url_rel",
+        "discogs_id": 2009680,
+        "discogs_reviews": 833,
+        "discogs_rating": 3.75,
+        "cover_path": "covers/595ac51e-1599-3043-899a-bfbd9be8c5a9.jpeg"
+      },
+      {
+        "title": "Zipper Catches Skin",
+        "year": 1982,
+        "mb_rgid": "855d5ec9-2123-37f2-9f75-0183ca74c5c4",
+        "match_strategy": "url_rel",
+        "discogs_id": 7230234,
+        "discogs_reviews": 597,
+        "discogs_rating": 3.65,
+        "cover_path": "covers/855d5ec9-2123-37f2-9f75-0183ca74c5c4.jpeg"
+      },
+      {
+        "title": "DaDa",
+        "year": 1983,
+        "mb_rgid": "cf29ea84-15df-33f4-a07f-93538a8d87ca",
+        "match_strategy": "url_rel",
+        "discogs_id": 2659509,
+        "discogs_reviews": 588,
+        "discogs_rating": 3.92,
+        "cover_path": "covers/cf29ea84-15df-33f4-a07f-93538a8d87ca.jpeg"
+      },
+      {
+        "title": "Constrictor",
+        "year": 1986,
+        "mb_rgid": "24c4fdde-4494-3837-a288-5b4fdbe966eb",
+        "match_strategy": "url_rel",
+        "discogs_id": 1552167,
+        "discogs_reviews": 1237,
+        "discogs_rating": 3.81,
+        "cover_path": "covers/24c4fdde-4494-3837-a288-5b4fdbe966eb.jpeg"
+      },
+      {
+        "title": "Raise Your Fist and Yell",
+        "year": 1987,
+        "mb_rgid": "741dd18e-ec06-3411-ba12-eff8481a3265",
+        "match_strategy": "url_rel",
+        "discogs_id": 2252016,
+        "discogs_reviews": 1004,
+        "discogs_rating": 3.94,
+        "cover_path": "covers/741dd18e-ec06-3411-ba12-eff8481a3265.jpeg"
+      },
+      {
+        "title": "Trash",
+        "year": 1989,
+        "mb_rgid": "323b33a8-199f-3aaf-8727-f809766e9882",
+        "match_strategy": "url_rel",
+        "discogs_id": 369598,
+        "discogs_reviews": 2663,
+        "discogs_rating": 4.18,
+        "cover_path": "covers/323b33a8-199f-3aaf-8727-f809766e9882.jpeg"
+      },
+      {
+        "title": "Hey Stoopid",
+        "year": 1991,
+        "mb_rgid": "b9543c2d-2482-3f09-b552-18728b124eb3",
+        "match_strategy": "url_rel",
+        "discogs_id": 618687,
+        "discogs_reviews": 1571,
+        "discogs_rating": 4.25,
+        "cover_path": "covers/b9543c2d-2482-3f09-b552-18728b124eb3.jpeg"
+      },
+      {
+        "title": "The Last Temptation",
+        "year": 1994,
+        "mb_rgid": "27b8892e-e772-3edf-8b3a-0aeddb455e96",
+        "match_strategy": "url_rel",
+        "discogs_id": 937715,
+        "discogs_reviews": 813,
+        "discogs_rating": 4.1,
+        "cover_path": "covers/27b8892e-e772-3edf-8b3a-0aeddb455e96.jpeg"
+      },
+      {
+        "title": "Brutal Planet",
+        "year": 2000,
+        "mb_rgid": "c280ab3d-96e0-30fc-a5ce-47c96e4fee98",
+        "match_strategy": "url_rel",
+        "discogs_id": 1676186,
+        "discogs_reviews": 662,
+        "discogs_rating": 4.22,
+        "cover_path": "covers/c280ab3d-96e0-30fc-a5ce-47c96e4fee98.jpeg"
+      },
+      {
+        "title": "Dragontown",
+        "year": 2001,
+        "mb_rgid": "e0d7a696-0e97-3382-99e1-b3c9de483f85",
+        "match_strategy": "url_rel",
+        "discogs_id": 1010019,
+        "discogs_reviews": 564,
+        "discogs_rating": 3.99,
+        "cover_path": "covers/e0d7a696-0e97-3382-99e1-b3c9de483f85.jpeg"
+      },
+      {
+        "title": "The Eyes of Alice Cooper",
+        "year": 2003,
+        "mb_rgid": "ea019edf-4a33-34d6-8f68-c069ff14fd99",
+        "match_strategy": "url_rel",
+        "discogs_id": 1501984,
+        "discogs_reviews": 469,
+        "discogs_rating": 4.0,
+        "cover_path": "covers/ea019edf-4a33-34d6-8f68-c069ff14fd99.jpeg"
+      },
+      {
+        "title": "Dirty Diamonds",
+        "year": 2005,
+        "mb_rgid": "500870c0-f0e7-3c13-9882-2ff51684e0c6",
+        "match_strategy": "url_rel",
+        "discogs_id": 900028,
+        "discogs_reviews": 508,
+        "discogs_rating": 4.15,
+        "cover_path": "covers/500870c0-f0e7-3c13-9882-2ff51684e0c6.jpeg"
+      },
+      {
+        "title": "Along Came a Spider",
+        "year": 2008,
+        "mb_rgid": "57a01829-f966-37e0-876a-422191e461f1",
+        "match_strategy": "url_rel",
+        "discogs_id": 12388511,
+        "discogs_reviews": 388,
+        "discogs_rating": 3.85,
+        "cover_path": "covers/57a01829-f966-37e0-876a-422191e461f1.jpeg"
+      },
+      {
+        "title": "Welcome 2 My Nightmare",
+        "year": 2011,
+        "mb_rgid": "37839a36-66b9-4a6d-908c-ff7ca0a0c9bd",
+        "match_strategy": "url_rel",
+        "discogs_id": 3622286,
+        "discogs_reviews": 519,
+        "discogs_rating": 4.03,
+        "cover_path": "covers/37839a36-66b9-4a6d-908c-ff7ca0a0c9bd.jpeg"
+      },
+      {
+        "title": "Pink Floyd’s Wish You Were Here Symphonic",
+        "year": 2016,
+        "mb_rgid": "6ade958b-c083-41c6-9534-1eb3ca7e83c5",
+        "match_strategy": "url_rel",
+        "discogs_id": 8179514,
+        "discogs_reviews": 115,
+        "discogs_rating": 4.27,
+        "cover_path": "covers/6ade958b-c083-41c6-9534-1eb3ca7e83c5.jpeg"
+      },
+      {
+        "title": "Paranormal",
+        "year": 2017,
+        "mb_rgid": "2ac14982-001d-42de-8ff3-dc49a46774c6",
+        "match_strategy": "url_rel",
+        "discogs_id": 10610503,
+        "discogs_reviews": 758,
+        "discogs_rating": 4.18,
+        "cover_path": "covers/2ac14982-001d-42de-8ff3-dc49a46774c6.jpeg"
+      },
+      {
+        "title": "Detroit Stories",
+        "year": 2021,
+        "mb_rgid": "5bc48d32-eaa9-4eea-8238-38c4039e40ec",
+        "match_strategy": "url_rel",
+        "discogs_id": 17595169,
+        "discogs_reviews": 700,
+        "discogs_rating": 4.33,
+        "cover_path": "covers/5bc48d32-eaa9-4eea-8238-38c4039e40ec.jpeg"
+      },
+      {
+        "title": "Road",
+        "year": 2023,
+        "mb_rgid": "20c9d62e-0f61-44a0-8e0e-1b70fa02573c",
+        "match_strategy": "url_rel",
+        "discogs_id": 28068070,
+        "discogs_reviews": 463,
+        "discogs_rating": 4.41,
+        "cover_path": "covers/20c9d62e-0f61-44a0-8e0e-1b70fa02573c.jpeg"
+      }
+    ]
+  },
+  {
+    "mbid": "6a726ac6-019e-455c-8bbb-571a77bed52e",
+    "name": "Thin Lizzy",
+    "genre": "rock",
+    "sub_genre": "hard rock",
+    "albums": [
+      {
+        "title": "Thin Lizzy",
+        "year": 1971,
+        "mb_rgid": "5644f7d6-9c27-3740-829f-47d4167c84ac",
+        "match_strategy": "url_rel",
+        "discogs_id": 1342704,
+        "discogs_reviews": 818,
+        "discogs_rating": 4.23,
+        "cover_path": "covers/5644f7d6-9c27-3740-829f-47d4167c84ac.jpeg"
+      },
+      {
+        "title": "Shades of a Blue Orphanage",
+        "year": 1972,
+        "mb_rgid": "d563a202-d242-3906-80fe-31e66fb948ba",
+        "match_strategy": "url_rel",
+        "discogs_id": 2345907,
+        "discogs_reviews": 683,
+        "discogs_rating": 4.02,
+        "cover_path": "covers/d563a202-d242-3906-80fe-31e66fb948ba.jpeg"
+      },
+      {
+        "title": "Vagabonds of the Western World",
+        "year": 1973,
+        "mb_rgid": "5ad79fbc-05c7-3e37-896b-23dfc553ef94",
+        "match_strategy": "url_rel",
+        "discogs_id": 37123773,
+        "discogs_reviews": 1137,
+        "discogs_rating": 4.38,
+        "cover_path": "covers/5ad79fbc-05c7-3e37-896b-23dfc553ef94.jpeg"
+      },
+      {
+        "title": "Nightlife",
+        "year": 1974,
+        "mb_rgid": "3e0381e9-56e2-36ea-8d7b-5b024be09594",
+        "match_strategy": "url_rel",
+        "discogs_id": 12741214,
+        "discogs_reviews": 927,
+        "discogs_rating": 4.22,
+        "cover_path": "covers/3e0381e9-56e2-36ea-8d7b-5b024be09594.jpeg"
+      },
+      {
+        "title": "Fighting",
+        "year": 1975,
+        "mb_rgid": "634a7c5f-b10b-3634-9261-eef34ad03eaf",
+        "match_strategy": "url_rel",
+        "discogs_id": 777107,
+        "discogs_reviews": 1184,
+        "discogs_rating": 4.24,
+        "cover_path": "covers/634a7c5f-b10b-3634-9261-eef34ad03eaf.jpeg"
+      },
+      {
+        "title": "Johnny the Fox",
+        "year": 1976,
+        "mb_rgid": "cdf7a087-0cd4-3eb3-aef9-4f8986325600",
+        "match_strategy": "url_rel",
+        "discogs_id": 35785930,
+        "discogs_reviews": 2172,
+        "discogs_rating": 4.28,
+        "cover_path": "covers/cdf7a087-0cd4-3eb3-aef9-4f8986325600.jpeg"
+      },
+      {
+        "title": "Jailbreak",
+        "year": 1976,
+        "mb_rgid": "d55dae0d-835d-3756-8805-196e41bacc2f",
+        "match_strategy": "url_rel",
+        "discogs_id": 19041889,
+        "discogs_reviews": 3138,
+        "discogs_rating": 4.44,
+        "cover_path": "covers/d55dae0d-835d-3756-8805-196e41bacc2f.jpeg"
+      },
+      {
+        "title": "Bad Reputation",
+        "year": 1977,
+        "mb_rgid": "58d9e7fb-3186-3fd6-b7f3-32784179c855",
+        "match_strategy": "url_rel",
+        "discogs_id": 9678871,
+        "discogs_reviews": 2011,
+        "discogs_rating": 4.29,
+        "cover_path": "covers/58d9e7fb-3186-3fd6-b7f3-32784179c855.jpeg"
+      },
+      {
+        "title": "Black Rose: A Rock Legend",
+        "year": 1979,
+        "mb_rgid": "0e50cfc6-0830-3e6b-a443-d39237b1d34c",
+        "match_strategy": "url_rel",
+        "discogs_id": 1768036,
+        "discogs_reviews": 2129,
+        "discogs_rating": 4.34,
+        "cover_path": "covers/0e50cfc6-0830-3e6b-a443-d39237b1d34c.jpeg"
+      },
+      {
+        "title": "Chinatown",
+        "year": 1980,
+        "mb_rgid": "0765ba50-a1d4-3fa7-a663-07fe12ea405a",
+        "match_strategy": "url_rel",
+        "discogs_id": 2627683,
+        "discogs_reviews": 1633,
+        "discogs_rating": 4.24,
+        "cover_path": "covers/0765ba50-a1d4-3fa7-a663-07fe12ea405a.jpeg"
+      },
+      {
+        "title": "Renegade",
+        "year": 1981,
+        "mb_rgid": "086cc7d5-455d-377f-8dfe-81360cee62ac",
+        "match_strategy": "url_rel",
+        "discogs_id": 1523425,
+        "discogs_reviews": 1395,
+        "discogs_rating": 4.16,
+        "cover_path": "covers/086cc7d5-455d-377f-8dfe-81360cee62ac.jpeg"
+      },
+      {
+        "title": "Thunder and Lightning",
+        "year": 1983,
+        "mb_rgid": "fe48fbb7-8462-3ff2-b50d-bf3ea6d7c2b4",
+        "match_strategy": "url_rel",
+        "discogs_id": 1521745,
+        "discogs_reviews": 1379,
+        "discogs_rating": 4.29,
+        "cover_path": "covers/fe48fbb7-8462-3ff2-b50d-bf3ea6d7c2b4.jpeg"
+      }
+    ]
+  },
+  {
+    "mbid": "f93dbc64-6f08-4033-bcc7-8a0bb4689849",
+    "name": "Tom Petty and the Heartbreakers",
+    "genre": "rock",
+    "sub_genre": "southern rock",
+    "albums": [
+      {
+        "title": "Tom Petty and the Heartbreakers",
+        "year": 1976,
+        "mb_rgid": "59cb1d59-e0c8-37f0-a2af-9bc8df64f6cd",
+        "match_strategy": "url_rel",
+        "discogs_id": 3178015,
+        "discogs_reviews": 1739,
+        "discogs_rating": 4.29,
+        "cover_path": "covers/59cb1d59-e0c8-37f0-a2af-9bc8df64f6cd.jpeg"
+      },
+      {
+        "title": "You’re Gonna Get It!",
+        "year": 1978,
+        "mb_rgid": "bafdb320-ed58-30f5-aba0-865dda905594",
+        "match_strategy": "url_rel",
+        "discogs_id": 15324007,
+        "discogs_reviews": 1385,
+        "discogs_rating": 4.08,
+        "cover_path": "covers/bafdb320-ed58-30f5-aba0-865dda905594.jpeg"
+      },
+      {
+        "title": "Damn the Torpedoes",
+        "year": 1979,
+        "mb_rgid": "871631b9-651c-3c2e-88ae-3a2491d9eb6b",
+        "match_strategy": "url_rel",
+        "discogs_id": 1024395,
+        "discogs_reviews": 3658,
+        "discogs_rating": 4.43,
+        "cover_path": "covers/871631b9-651c-3c2e-88ae-3a2491d9eb6b.jpeg"
+      },
+      {
+        "title": "Hard Promises",
+        "year": 1981,
+        "mb_rgid": "0f0eefa6-de67-3af9-8587-1e51c6768ace",
+        "match_strategy": "url_rel",
+        "discogs_id": 412419,
+        "discogs_reviews": 2263,
+        "discogs_rating": 4.16,
+        "cover_path": "covers/0f0eefa6-de67-3af9-8587-1e51c6768ace.jpeg"
+      },
+      {
+        "title": "Long After Dark",
+        "year": 1982,
+        "mb_rgid": "c66bed04-8035-379b-a72e-e526a4a764cf",
+        "match_strategy": "url_rel",
+        "discogs_id": 828266,
+        "discogs_reviews": 1781,
+        "discogs_rating": 4.1,
+        "cover_path": "covers/c66bed04-8035-379b-a72e-e526a4a764cf.jpeg"
+      },
+      {
+        "title": "Southern Accents",
+        "year": 1985,
+        "mb_rgid": "8ce9a914-7016-37e9-ad80-659a07bd4783",
+        "match_strategy": "url_rel",
+        "discogs_id": 407717,
+        "discogs_reviews": 1620,
+        "discogs_rating": 4.06,
+        "cover_path": "covers/8ce9a914-7016-37e9-ad80-659a07bd4783.jpeg"
+      },
+      {
+        "title": "Let Me Up (I’ve Had Enough)",
+        "year": 1987,
+        "mb_rgid": "481e8a61-e018-3f09-9f2e-273774d90688",
+        "match_strategy": "url_rel",
+        "discogs_id": 1579921,
+        "discogs_reviews": 871,
+        "discogs_rating": 3.92,
+        "cover_path": "covers/481e8a61-e018-3f09-9f2e-273774d90688.jpeg"
+      },
+      {
+        "title": "Into the Great Wide Open",
+        "year": 1991,
+        "mb_rgid": "84c5eeb2-5278-35cb-96d5-85297ca5d964",
+        "match_strategy": "url_rel",
+        "discogs_id": 930891,
+        "discogs_reviews": 2028,
+        "discogs_rating": 4.35,
+        "cover_path": "covers/84c5eeb2-5278-35cb-96d5-85297ca5d964.jpeg"
+      },
+      {
+        "title": "Echo",
+        "year": 1999,
+        "mb_rgid": "6ee82fe8-09ba-31b1-a6af-715e7428058a",
+        "match_strategy": "url_rel",
+        "discogs_id": 1969098,
+        "discogs_reviews": 765,
+        "discogs_rating": 4.3,
+        "cover_path": "covers/6ee82fe8-09ba-31b1-a6af-715e7428058a.jpeg"
+      },
+      {
+        "title": "The Last DJ",
+        "year": 2002,
+        "mb_rgid": "0eb944b6-917e-3040-ab90-47becbdc369a",
+        "match_strategy": "url_rel",
+        "discogs_id": 530996,
+        "discogs_reviews": 592,
+        "discogs_rating": 4.24,
+        "cover_path": "covers/0eb944b6-917e-3040-ab90-47becbdc369a.jpeg"
+      },
+      {
+        "title": "Mojo",
+        "year": 2010,
+        "mb_rgid": "75f6f410-73e6-485b-898d-6fdaea4c0266",
+        "match_strategy": "url_rel",
+        "discogs_id": 2378899,
+        "discogs_reviews": 776,
+        "discogs_rating": 4.34,
+        "cover_path": "covers/75f6f410-73e6-485b-898d-6fdaea4c0266.jpeg"
+      },
+      {
+        "title": "Hypnotic Eye",
+        "year": 2014,
+        "mb_rgid": "635898ec-81c7-4b28-90cf-e1ea9e83251b",
+        "match_strategy": "url_rel",
+        "discogs_id": 5936815,
+        "discogs_reviews": 914,
+        "discogs_rating": 4.33,
+        "cover_path": "covers/635898ec-81c7-4b28-90cf-e1ea9e83251b.jpeg"
+      }
+    ]
+  },
+  {
+    "mbid": "0c502791-4ee9-4c5f-9696-0602b721ff3b",
+    "name": "Electric Light Orchestra",
+    "genre": "rock",
+    "sub_genre": "progressive rock",
+    "albums": [
+      {
+        "title": "The Electric Light Orchestra",
+        "year": 1971,
+        "mb_rgid": "06c9ea56-a66c-37a1-866e-939100e73998",
+        "match_strategy": "url_rel",
+        "discogs_id": 4674451,
+        "discogs_reviews": 941,
+        "discogs_rating": 3.94,
+        "cover_path": "covers/06c9ea56-a66c-37a1-866e-939100e73998.jpeg"
+      },
+      {
+        "title": "Electric Light Orchestra II",
+        "year": 1973,
+        "mb_rgid": "a413adb4-919c-3a4d-b004-e8b1b39a38ad",
+        "match_strategy": "url_rel",
+        "discogs_id": 3838579,
+        "discogs_reviews": 1127,
+        "discogs_rating": 3.81,
+        "cover_path": "covers/a413adb4-919c-3a4d-b004-e8b1b39a38ad.jpeg"
+      },
+      {
+        "title": "On the Third Day",
+        "year": 1973,
+        "mb_rgid": "1f558f0f-9a51-44fe-8f20-d42c6490f916",
+        "match_strategy": "url_rel",
+        "discogs_id": 1493941,
+        "discogs_reviews": 1262,
+        "discogs_rating": 3.95,
+        "cover_path": "covers/1f558f0f-9a51-44fe-8f20-d42c6490f916.jpeg"
+      },
+      {
+        "title": "Eldorado: A Symphony by the Electric Light Orchestra",
+        "year": 1974,
+        "mb_rgid": "8c64bcf7-d73f-37c1-8a04-9b2f80a6d30f",
+        "match_strategy": "url_rel",
+        "discogs_id": 1307584,
+        "discogs_reviews": 2387,
+        "discogs_rating": 4.26,
+        "cover_path": "covers/8c64bcf7-d73f-37c1-8a04-9b2f80a6d30f.jpeg"
+      },
+      {
+        "title": "Face the Music",
+        "year": 1975,
+        "mb_rgid": "82ef108c-b246-39bc-8f99-65deac6c692b",
+        "match_strategy": "url_rel",
+        "discogs_id": 3787821,
+        "discogs_reviews": 2207,
+        "discogs_rating": 4.05,
+        "cover_path": "covers/82ef108c-b246-39bc-8f99-65deac6c692b.jpeg"
+      },
+      {
+        "title": "A New World Record",
+        "year": 1976,
+        "mb_rgid": "e3fb6403-71d2-3815-b85a-4f4edb18a556",
+        "match_strategy": "url_rel",
+        "discogs_id": 579282,
+        "discogs_reviews": 4532,
+        "discogs_rating": 4.13,
+        "cover_path": "covers/e3fb6403-71d2-3815-b85a-4f4edb18a556.jpeg"
+      },
+      {
+        "title": "Out of the Blue",
+        "year": 1977,
+        "mb_rgid": "a720436f-9c8e-439a-a147-18e83441edab",
+        "match_strategy": "url_rel",
+        "discogs_id": 601218,
+        "discogs_reviews": 5755,
+        "discogs_rating": 4.23,
+        "cover_path": "covers/a720436f-9c8e-439a-a147-18e83441edab.jpeg"
+      },
+      {
+        "title": "Discovery",
+        "year": 1979,
+        "mb_rgid": "e4f25e55-94d2-3037-a826-b3610490ea2d",
+        "match_strategy": "url_rel",
+        "discogs_id": 1620882,
+        "discogs_reviews": 4960,
+        "discogs_rating": 4.08,
+        "cover_path": "covers/e4f25e55-94d2-3037-a826-b3610490ea2d.jpeg"
+      },
+      {
+        "title": "Time",
+        "year": 1981,
+        "mb_rgid": "dc020487-5f78-3d97-b06e-5f7a3dbb2265",
+        "match_strategy": "url_rel",
+        "discogs_id": 10121355,
+        "discogs_reviews": 3885,
+        "discogs_rating": 4.22,
+        "cover_path": "covers/dc020487-5f78-3d97-b06e-5f7a3dbb2265.jpeg"
+      },
+      {
+        "title": "Secret Messages",
+        "year": 1983,
+        "mb_rgid": "2afe820d-6783-3eef-8527-eefd61e3a134",
+        "match_strategy": "url_rel",
+        "discogs_id": 1697681,
+        "discogs_reviews": 1737,
+        "discogs_rating": 4.06,
+        "cover_path": "covers/2afe820d-6783-3eef-8527-eefd61e3a134.jpeg"
+      },
+      {
+        "title": "Balance of Power",
+        "year": 1986,
+        "mb_rgid": "9e484c34-e248-374a-a438-d5fd1bffe1b9",
+        "match_strategy": "url_rel",
+        "discogs_id": 1194487,
+        "discogs_reviews": 1185,
+        "discogs_rating": 3.92,
+        "cover_path": "covers/9e484c34-e248-374a-a438-d5fd1bffe1b9.jpeg"
+      },
+      {
+        "title": "Zoom",
+        "year": 2001,
+        "mb_rgid": "46cd9bf8-6105-39c8-a4a6-c9af27ac13bf",
+        "match_strategy": "url_rel",
+        "discogs_id": 1303697,
+        "discogs_reviews": 518,
+        "discogs_rating": 4.2,
+        "cover_path": "covers/46cd9bf8-6105-39c8-a4a6-c9af27ac13bf.jpeg"
+      },
+      {
+        "title": "Alone in the Universe",
+        "year": 2015,
+        "mb_rgid": "66252478-bb2b-4069-ac4e-81f2a1e7c58b",
+        "match_strategy": "url_rel",
+        "discogs_id": 7724654,
+        "discogs_reviews": 886,
+        "discogs_rating": 4.14,
+        "cover_path": "covers/66252478-bb2b-4069-ac4e-81f2a1e7c58b.jpeg"
+      },
+      {
+        "title": "From out of Nowhere",
+        "year": 2019,
+        "mb_rgid": "6e99fef5-9f41-491f-a060-e43639186ef7",
+        "match_strategy": "url_rel",
+        "discogs_id": 14342431,
+        "discogs_reviews": 647,
+        "discogs_rating": 4.22,
+        "cover_path": "covers/6e99fef5-9f41-491f-a060-e43639186ef7.jpeg"
+      }
+    ]
+  },
+  {
+    "mbid": "72359492-22be-4ed9-aaa0-efa434fb2b01",
+    "name": "The Allman Brothers Band",
+    "genre": "rock",
+    "sub_genre": "blues rock",
+    "albums": [
+      {
+        "title": "The Allman Brothers Band",
+        "year": 1969,
+        "mb_rgid": "6aff3ef9-c1c1-333b-b61d-8c55ef08dcca",
+        "match_strategy": "url_rel",
+        "discogs_id": 25856089,
+        "discogs_reviews": 1826,
+        "discogs_rating": 4.45,
+        "cover_path": "covers/6aff3ef9-c1c1-333b-b61d-8c55ef08dcca.jpeg"
+      },
+      {
+        "title": "Idlewild South",
+        "year": 1970,
+        "mb_rgid": "a57a63f0-81be-37cf-9e5b-459ae81b7c93",
+        "match_strategy": "url_rel",
+        "discogs_id": 1452811,
+        "discogs_reviews": 1734,
+        "discogs_rating": 4.39,
+        "cover_path": "covers/a57a63f0-81be-37cf-9e5b-459ae81b7c93.jpeg"
+      },
+      {
+        "title": "Eat a Peach",
+        "year": 1972,
+        "mb_rgid": "0b1189ad-0bdf-34bc-89e4-ff05133ec51b",
+        "match_strategy": "url_rel",
+        "discogs_id": 1284784,
+        "discogs_reviews": 3293,
+        "discogs_rating": 4.41,
+        "cover_path": "covers/0b1189ad-0bdf-34bc-89e4-ff05133ec51b.jpeg"
+      },
+      {
+        "title": "Brothers and Sisters",
+        "year": 1973,
+        "mb_rgid": "e939fa86-d7bc-38a7-b6f9-d12fc3f9f22e",
+        "match_strategy": "url_rel",
+        "discogs_id": 3020121,
+        "discogs_reviews": 3723,
+        "discogs_rating": 4.23,
+        "cover_path": "covers/e939fa86-d7bc-38a7-b6f9-d12fc3f9f22e.jpeg"
+      },
+      {
+        "title": "Win, Lose or Draw",
+        "year": 1975,
+        "mb_rgid": "3c1cd3f6-798d-3739-abf3-1beb5d05ecf4",
+        "match_strategy": "url_rel",
+        "discogs_id": 1791623,
+        "discogs_reviews": 1282,
+        "discogs_rating": 3.76,
+        "cover_path": "covers/3c1cd3f6-798d-3739-abf3-1beb5d05ecf4.jpeg"
+      }
+    ]
+  },
+  {
+    "mbid": "9f870653-72b0-4c6d-8c59-439a95963e09",
+    "name": "Cheap Trick",
+    "genre": "rock",
+    "sub_genre": "hard rock",
+    "albums": [
+      {
+        "title": "In Color",
+        "year": 1977,
+        "mb_rgid": "56f8dc86-6243-3fdd-af13-3481c2521f47",
+        "match_strategy": "url_rel",
+        "discogs_id": 9657656,
+        "discogs_reviews": 1480,
+        "discogs_rating": 4.13,
+        "cover_path": "covers/56f8dc86-6243-3fdd-af13-3481c2521f47.jpeg"
+      },
+      {
+        "title": "Cheap Trick",
+        "year": 1977,
+        "mb_rgid": "30ebaf22-4e6d-3958-8150-744093195c74",
+        "match_strategy": "url_rel",
+        "discogs_id": 683180,
+        "discogs_reviews": 1140,
+        "discogs_rating": 4.25,
+        "cover_path": "covers/30ebaf22-4e6d-3958-8150-744093195c74.jpeg"
+      },
+      {
+        "title": "Heaven Tonight",
+        "year": 1978,
+        "mb_rgid": "fa4b314b-7881-3319-8c47-a6ffd5f88771",
+        "match_strategy": "url_rel",
+        "discogs_id": 738233,
+        "discogs_reviews": 1546,
+        "discogs_rating": 4.17,
+        "cover_path": "covers/fa4b314b-7881-3319-8c47-a6ffd5f88771.jpeg"
+      },
+      {
+        "title": "Dream Police",
+        "year": 1979,
+        "mb_rgid": "d9a71468-533a-3ba2-a41d-13c02f2c00ff",
+        "match_strategy": "url_rel",
+        "discogs_id": 10642292,
+        "discogs_reviews": 2241,
+        "discogs_rating": 3.94,
+        "cover_path": "covers/d9a71468-533a-3ba2-a41d-13c02f2c00ff.jpeg"
+      },
+      {
+        "title": "All Shook Up",
+        "year": 1980,
+        "mb_rgid": "94d1c71a-918f-3109-89aa-f994cbadc73e",
+        "match_strategy": "url_rel",
+        "discogs_id": 1760271,
+        "discogs_reviews": 933,
+        "discogs_rating": 3.82,
+        "cover_path": "covers/94d1c71a-918f-3109-89aa-f994cbadc73e.jpeg"
+      },
+      {
+        "title": "One on One",
+        "year": 1982,
+        "mb_rgid": "c49d0b02-88bb-39f3-a0b9-d41909777a19",
+        "match_strategy": "url_rel",
+        "discogs_id": 1760282,
+        "discogs_reviews": 660,
+        "discogs_rating": 3.82,
+        "cover_path": "covers/c49d0b02-88bb-39f3-a0b9-d41909777a19.jpeg"
+      },
+      {
+        "title": "Next Position Please",
+        "year": 1983,
+        "mb_rgid": "f535705e-c29e-3ef4-b938-4be2db8ef0f2",
+        "match_strategy": "url_rel",
+        "discogs_id": 2140555,
+        "discogs_reviews": 459,
+        "discogs_rating": 3.78,
+        "cover_path": "covers/f535705e-c29e-3ef4-b938-4be2db8ef0f2.jpeg"
+      },
+      {
+        "title": "Standing on the Edge",
+        "year": 1985,
+        "mb_rgid": "c84b16fd-f67e-3799-b805-c320fcba8f8f",
+        "match_strategy": "url_rel",
+        "discogs_id": 8755772,
+        "discogs_reviews": 447,
+        "discogs_rating": 3.7,
+        "cover_path": "covers/c84b16fd-f67e-3799-b805-c320fcba8f8f.jpeg"
+      },
+      {
+        "title": "The Doctor",
+        "year": 1986,
+        "mb_rgid": "0987cd62-3919-3864-af5d-8304ceca1482",
+        "match_strategy": "url_rel",
+        "discogs_id": 3984662,
+        "discogs_reviews": 209,
+        "discogs_rating": 3.5,
+        "cover_path": "covers/0987cd62-3919-3864-af5d-8304ceca1482.jpeg"
+      },
+      {
+        "title": "Lap of Luxury",
+        "year": 1988,
+        "mb_rgid": "6bd0fd2d-1682-3e5c-b2ae-99f8d5c70988",
+        "match_strategy": "url_rel",
+        "discogs_id": 877057,
+        "discogs_reviews": 717,
+        "discogs_rating": 3.87,
+        "cover_path": "covers/6bd0fd2d-1682-3e5c-b2ae-99f8d5c70988.jpeg"
+      },
+      {
+        "title": "Busted",
+        "year": 1990,
+        "mb_rgid": "bbd3a3d4-fad4-3ec5-8876-b7f8d34f340e",
+        "match_strategy": "url_rel",
+        "discogs_id": 2118442,
+        "discogs_reviews": 285,
+        "discogs_rating": 3.88,
+        "cover_path": "covers/bbd3a3d4-fad4-3ec5-8876-b7f8d34f340e.jpeg"
+      },
+      {
+        "title": "Woke Up With a Monster",
+        "year": 1994,
+        "mb_rgid": "a0b59a7b-ac87-3223-a110-c83c8f982584",
+        "match_strategy": "url_rel",
+        "discogs_id": 2350148,
+        "discogs_reviews": 233,
+        "discogs_rating": 4.04,
+        "cover_path": "covers/a0b59a7b-ac87-3223-a110-c83c8f982584.jpeg"
+      },
+      {
+        "title": "Cheap Trick",
+        "year": 1997,
+        "mb_rgid": "bad1771f-3a28-31e8-9ae2-19553886d114",
+        "match_strategy": "url_rel",
+        "discogs_id": 2350219,
+        "discogs_reviews": 181,
+        "discogs_rating": 4.06,
+        "cover_path": "covers/bad1771f-3a28-31e8-9ae2-19553886d114.jpeg"
+      },
+      {
+        "title": "Special One",
+        "year": 2003,
+        "mb_rgid": "6a4d9619-2c43-3f1d-a4b8-7c8ebab4437a",
+        "match_strategy": "url_rel",
+        "discogs_id": 2923754,
+        "discogs_reviews": 129,
+        "discogs_rating": 3.88,
+        "cover_path": "covers/6a4d9619-2c43-3f1d-a4b8-7c8ebab4437a.jpeg"
+      },
+      {
+        "title": "Rockford",
+        "year": 2006,
+        "mb_rgid": "866110f0-34f9-31fa-9eeb-cde4d647bcd0",
+        "match_strategy": "url_rel",
+        "discogs_id": 1185722,
+        "discogs_reviews": 139,
+        "discogs_rating": 4.17,
+        "cover_path": "covers/866110f0-34f9-31fa-9eeb-cde4d647bcd0.jpeg"
+      },
+      {
+        "title": "The Latest",
+        "year": 2009,
+        "mb_rgid": "3bef72cb-bd5f-46c8-a2f6-8234da13ba97",
+        "match_strategy": "url_rel",
+        "discogs_id": 2875602,
+        "discogs_reviews": 173,
+        "discogs_rating": 4.08,
+        "cover_path": "covers/3bef72cb-bd5f-46c8-a2f6-8234da13ba97.jpeg"
+      },
+      {
+        "title": "Bang, Zoom, Crazy… Hello",
+        "year": 2016,
+        "mb_rgid": "845190c5-55b9-454b-8e1f-075895d74f09",
+        "match_strategy": "url_rel",
+        "discogs_id": 8320609,
+        "discogs_reviews": 219,
+        "discogs_rating": 4.13,
+        "cover_path": "covers/845190c5-55b9-454b-8e1f-075895d74f09.jpeg"
+      },
+      {
+        "title": "We’re All Alright!",
+        "year": 2017,
+        "mb_rgid": "163544bc-e496-430b-9c0b-235556ef7801",
+        "match_strategy": "url_rel",
+        "discogs_id": 10515389,
+        "discogs_reviews": 198,
+        "discogs_rating": 4.23,
+        "cover_path": "covers/163544bc-e496-430b-9c0b-235556ef7801.jpeg"
+      },
+      {
+        "title": "Christmas Christmas",
+        "year": 2017,
+        "mb_rgid": "16737576-a6d1-44df-9819-b4a6e2b2fa0a",
+        "match_strategy": "url_rel",
+        "discogs_id": 11044246,
+        "discogs_reviews": 95,
+        "discogs_rating": 4.27,
+        "cover_path": "covers/16737576-a6d1-44df-9819-b4a6e2b2fa0a.jpeg"
+      },
+      {
+        "title": "In Another World",
+        "year": 2021,
+        "mb_rgid": "510055a4-f876-4e72-af55-43132de5af25",
+        "match_strategy": "url_rel",
+        "discogs_id": 18211177,
+        "discogs_reviews": 224,
+        "discogs_rating": 4.25,
+        "cover_path": "covers/510055a4-f876-4e72-af55-43132de5af25.jpeg"
+      },
+      {
+        "title": "All Washed Up",
+        "year": 2025,
+        "mb_rgid": "6429496c-1e8e-49e6-82c1-e8cc61d8b3e6",
+        "match_strategy": "url_rel",
+        "discogs_id": 35654845,
+        "discogs_reviews": 161,
+        "discogs_rating": 4.52,
+        "cover_path": "covers/6429496c-1e8e-49e6-82c1-e8cc61d8b3e6.jpeg"
+      }
+    ]
+  },
+  {
+    "mbid": "f46bd570-5768-462e-b84c-c7c993bbf47e",
+    "name": "Eagles",
+    "genre": "rock",
+    "sub_genre": "classic rock",
+    "albums": [
+      {
+        "title": "Eagles",
+        "year": 1972,
+        "mb_rgid": "23eafc30-3978-37fb-bfa0-8058aa1eb81a",
+        "match_strategy": "url_rel",
+        "discogs_id": 3079955,
+        "discogs_reviews": 2446,
+        "discogs_rating": 4.23,
+        "cover_path": "covers/23eafc30-3978-37fb-bfa0-8058aa1eb81a.jpeg"
+      },
+      {
+        "title": "Desperado",
+        "year": 1973,
+        "mb_rgid": "9e7b49bb-b4bd-3583-87ba-f516f793eff2",
+        "match_strategy": "url_rel",
+        "discogs_id": 2398669,
+        "discogs_reviews": 2618,
+        "discogs_rating": 4.18,
+        "cover_path": "covers/9e7b49bb-b4bd-3583-87ba-f516f793eff2.jpeg"
+      },
+      {
+        "title": "On the Border",
+        "year": 1974,
+        "mb_rgid": "425353d2-98b9-35a0-94d1-15f99f125994",
+        "match_strategy": "url_rel",
+        "discogs_id": 4401855,
+        "discogs_reviews": 2111,
+        "discogs_rating": 4.0,
+        "cover_path": "covers/425353d2-98b9-35a0-94d1-15f99f125994.jpeg"
+      },
+      {
+        "title": "One of These Nights",
+        "year": 1975,
+        "mb_rgid": "7f9ea3a4-5c4b-3082-a233-3462540e57e3",
+        "match_strategy": "url_rel",
+        "discogs_id": 4794397,
+        "discogs_reviews": 3523,
+        "discogs_rating": 4.15,
+        "cover_path": "covers/7f9ea3a4-5c4b-3082-a233-3462540e57e3.jpeg"
+      },
+      {
+        "title": "Hotel California",
+        "year": 1976,
+        "mb_rgid": "836f349a-0434-3e8b-a0bc-261f77a9f99c",
+        "match_strategy": "url_rel",
+        "discogs_id": 37047876,
+        "discogs_reviews": 11773,
+        "discogs_rating": 4.39,
+        "cover_path": "covers/836f349a-0434-3e8b-a0bc-261f77a9f99c.jpeg"
+      },
+      {
+        "title": "The Long Run",
+        "year": 1979,
+        "mb_rgid": "1a265de4-136d-3414-adf5-b0913ca2aa15",
+        "match_strategy": "url_rel",
+        "discogs_id": 8920713,
+        "discogs_reviews": 4591,
+        "discogs_rating": 4.03,
+        "cover_path": "covers/1a265de4-136d-3414-adf5-b0913ca2aa15.jpeg"
+      },
+      {
+        "title": "Long Road Out of Eden",
+        "year": 2007,
+        "mb_rgid": "82e10fc2-3863-39d8-b91e-8f59f0cb7a03",
+        "match_strategy": "url_rel",
+        "discogs_id": 8764474,
+        "discogs_reviews": 1218,
+        "discogs_rating": 4.13,
+        "cover_path": "covers/82e10fc2-3863-39d8-b91e-8f59f0cb7a03.jpeg"
+      }
+    ]
+  },
+  {
+    "mbid": "5d02f264-e225-41ff-83f7-d9b1f0b1874a",
+    "name": "Simon & Garfunkel",
+    "genre": "rock",
+    "sub_genre": "folk rock",
+    "albums": [
+      {
+        "title": "Wednesday Morning, 3 A.M.",
+        "year": 1964,
+        "mb_rgid": "6c21abaf-2962-3037-836f-842431587949",
+        "match_strategy": "url_rel",
+        "discogs_id": 1832655,
+        "discogs_reviews": 1419,
+        "discogs_rating": 3.93,
+        "cover_path": "covers/6c21abaf-2962-3037-836f-842431587949.jpeg"
+      },
+      {
+        "title": "Sounds of Silence",
+        "year": 1966,
+        "mb_rgid": "499a8142-b8a7-3ab1-a3db-641a41860afb",
+        "match_strategy": "url_rel",
+        "discogs_id": 6114749,
+        "discogs_reviews": 2593,
+        "discogs_rating": 4.17,
+        "cover_path": "covers/499a8142-b8a7-3ab1-a3db-641a41860afb.jpeg"
+      },
+      {
+        "title": "Parsley, Sage, Rosemary and Thyme",
+        "year": 1966,
+        "mb_rgid": "1e9428ef-9c74-3bb8-8b14-e53defab3b48",
+        "match_strategy": "url_rel",
+        "discogs_id": 1836118,
+        "discogs_reviews": 2832,
+        "discogs_rating": 4.17,
+        "cover_path": "covers/1e9428ef-9c74-3bb8-8b14-e53defab3b48.jpeg"
+      },
+      {
+        "title": "Bookends",
+        "year": 1968,
+        "mb_rgid": "f4a26672-dcd8-342d-ad09-2b612d91c9fb",
+        "match_strategy": "url_rel",
+        "discogs_id": 707930,
+        "discogs_reviews": 3255,
+        "discogs_rating": 4.2,
+        "cover_path": "covers/f4a26672-dcd8-342d-ad09-2b612d91c9fb.jpeg"
+      },
+      {
+        "title": "Bridge Over Troubled Water",
+        "year": 1970,
+        "mb_rgid": "c39f7f80-d42f-3669-9653-230f8e922083",
+        "match_strategy": "url_rel",
+        "discogs_id": 605328,
+        "discogs_reviews": 6154,
+        "discogs_rating": 4.2,
+        "cover_path": "covers/c39f7f80-d42f-3669-9653-230f8e922083.jpeg"
+      }
+    ]
+  },
+  {
+    "mbid": "9d1ebcfe-4c15-4d18-95d3-d919898638a1",
+    "name": "Lou Reed",
+    "genre": "rock",
+    "sub_genre": "glam rock",
+    "albums": [
+      {
+        "title": "Transformer",
+        "year": 1972,
+        "mb_rgid": "6c8345df-f822-33af-b64a-eff2e46941b9",
+        "match_strategy": "url_rel",
+        "discogs_id": 727363,
+        "discogs_reviews": 6121,
+        "discogs_rating": 4.52,
+        "cover_path": "covers/6c8345df-f822-33af-b64a-eff2e46941b9.jpeg"
+      },
+      {
+        "title": "Lou Reed",
+        "year": 1972,
+        "mb_rgid": "9ee88042-a19e-36dd-8123-0c99f6349d3b",
+        "match_strategy": "url_rel",
+        "discogs_id": 844527,
+        "discogs_reviews": 854,
+        "discogs_rating": 4.0,
+        "cover_path": "covers/9ee88042-a19e-36dd-8123-0c99f6349d3b.jpeg"
+      },
+      {
+        "title": "Berlin",
+        "year": 1973,
+        "mb_rgid": "c6190069-644f-3b41-92aa-1e771e451036",
+        "match_strategy": "url_rel",
+        "discogs_id": 4896252,
+        "discogs_reviews": 2486,
+        "discogs_rating": 4.34,
+        "cover_path": "covers/c6190069-644f-3b41-92aa-1e771e451036.jpeg"
+      },
+      {
+        "title": "Sally Can’t Dance",
+        "year": 1974,
+        "mb_rgid": "e4ba363a-c837-3a09-8838-23c3d84e1bf9",
+        "match_strategy": "url_rel",
+        "discogs_id": 1074988,
+        "discogs_reviews": 1222,
+        "discogs_rating": 3.96,
+        "cover_path": "covers/e4ba363a-c837-3a09-8838-23c3d84e1bf9.jpeg"
+      },
+      {
+        "title": "Metal Machine Music",
+        "year": 1975,
+        "mb_rgid": "865bba17-7198-369f-ac67-d9cd71f74683",
+        "match_strategy": "url_rel",
+        "discogs_id": 6122177,
+        "discogs_reviews": 881,
+        "discogs_rating": 3.89,
+        "cover_path": "covers/865bba17-7198-369f-ac67-d9cd71f74683.jpeg"
+      },
+      {
+        "title": "Coney Island Baby",
+        "year": 1975,
+        "mb_rgid": "c517ee05-356e-3944-b13f-8d505a4012cb",
+        "match_strategy": "url_rel",
+        "discogs_id": 777623,
+        "discogs_reviews": 1646,
+        "discogs_rating": 4.22,
+        "cover_path": "covers/c517ee05-356e-3944-b13f-8d505a4012cb.jpeg"
+      },
+      {
+        "title": "Rock and Roll Heart",
+        "year": 1976,
+        "mb_rgid": "79dbe4c9-5ebb-303a-86b9-64d214c5600c",
+        "match_strategy": "url_rel",
+        "discogs_id": 985999,
+        "discogs_reviews": 849,
+        "discogs_rating": 3.78,
+        "cover_path": "covers/79dbe4c9-5ebb-303a-86b9-64d214c5600c.jpeg"
+      },
+      {
+        "title": "Street Hassle",
+        "year": 1978,
+        "mb_rgid": "eee74a21-7c13-35fb-93a1-5ccca994383e",
+        "match_strategy": "url_rel",
+        "discogs_id": 1081405,
+        "discogs_reviews": 1045,
+        "discogs_rating": 4.05,
+        "cover_path": "covers/eee74a21-7c13-35fb-93a1-5ccca994383e.jpeg"
+      },
+      {
+        "title": "The Bells",
+        "year": 1979,
+        "mb_rgid": "aa1d5332-25d3-32e5-99e1-f52f5421cd45",
+        "match_strategy": "url_rel",
+        "discogs_id": 1873031,
+        "discogs_reviews": 687,
+        "discogs_rating": 3.73,
+        "cover_path": "covers/aa1d5332-25d3-32e5-99e1-f52f5421cd45.jpeg"
+      },
+      {
+        "title": "Growing Up in Public",
+        "year": 1980,
+        "mb_rgid": "21405612-346a-395a-8684-2bccfcf9b88e",
+        "match_strategy": "url_rel",
+        "discogs_id": 1056697,
+        "discogs_reviews": 494,
+        "discogs_rating": 3.66,
+        "cover_path": "covers/21405612-346a-395a-8684-2bccfcf9b88e.jpeg"
+      },
+      {
+        "title": "The Blue Mask",
+        "year": 1982,
+        "mb_rgid": "99f7c49e-cc46-3f29-95f1-93008fd9307e",
+        "match_strategy": "url_rel",
+        "discogs_id": 727362,
+        "discogs_reviews": 1244,
+        "discogs_rating": 4.14,
+        "cover_path": "covers/99f7c49e-cc46-3f29-95f1-93008fd9307e.jpeg"
+      },
+      {
+        "title": "Legendary Hearts",
+        "year": 1983,
+        "mb_rgid": "752ba621-0a8a-3ee0-ae10-5850d3f5c631",
+        "match_strategy": "url_rel",
+        "discogs_id": 1027293,
+        "discogs_reviews": 588,
+        "discogs_rating": 3.89,
+        "cover_path": "covers/752ba621-0a8a-3ee0-ae10-5850d3f5c631.jpeg"
+      },
+      {
+        "title": "New Sensations",
+        "year": 1984,
+        "mb_rgid": "63174695-db15-33e7-babc-c98e590a5e2d",
+        "match_strategy": "url_rel",
+        "discogs_id": 1228436,
+        "discogs_reviews": 928,
+        "discogs_rating": 3.87,
+        "cover_path": "covers/63174695-db15-33e7-babc-c98e590a5e2d.jpeg"
+      },
+      {
+        "title": "Mistrial",
+        "year": 1986,
+        "mb_rgid": "b8c43339-0001-3889-875c-aa9b314f6687",
+        "match_strategy": "url_rel",
+        "discogs_id": 1056944,
+        "discogs_reviews": 671,
+        "discogs_rating": 3.6,
+        "cover_path": "covers/b8c43339-0001-3889-875c-aa9b314f6687.jpeg"
+      },
+      {
+        "title": "New York",
+        "year": 1989,
+        "mb_rgid": "bf543d9f-f0de-3f46-87b4-f9cddf58806b",
+        "match_strategy": "url_rel",
+        "discogs_id": 1415493,
+        "discogs_reviews": 2777,
+        "discogs_rating": 4.37,
+        "cover_path": "covers/bf543d9f-f0de-3f46-87b4-f9cddf58806b.jpeg"
+      },
+      {
+        "title": "Songs for Drella",
+        "year": 1990,
+        "mb_rgid": "97d100a8-e42c-38ff-8ae5-eb31331fd82b",
+        "match_strategy": "url_rel",
+        "discogs_id": 2698870,
+        "discogs_reviews": 1452,
+        "discogs_rating": 4.3,
+        "cover_path": "covers/97d100a8-e42c-38ff-8ae5-eb31331fd82b.jpeg"
+      },
+      {
+        "title": "Magic and Loss",
+        "year": 1992,
+        "mb_rgid": "dc2c5ff6-b0a1-3fbf-8c70-91619cd59304",
+        "match_strategy": "url_rel",
+        "discogs_id": 2958387,
+        "discogs_reviews": 1082,
+        "discogs_rating": 4.1,
+        "cover_path": "covers/dc2c5ff6-b0a1-3fbf-8c70-91619cd59304.jpeg"
+      },
+      {
+        "title": "Set the Twilight Reeling",
+        "year": 1996,
+        "mb_rgid": "6e8ee4ff-ba4d-346d-b289-5b630c8c9ae4",
+        "match_strategy": "url_rel",
+        "discogs_id": 2232934,
+        "discogs_reviews": 671,
+        "discogs_rating": 4.18,
+        "cover_path": "covers/6e8ee4ff-ba4d-346d-b289-5b630c8c9ae4.jpeg"
+      },
+      {
+        "title": "Ecstasy",
+        "year": 2000,
+        "mb_rgid": "001c2db4-68d0-34ba-80e0-992628859eba",
+        "match_strategy": "url_rel",
+        "discogs_id": 1680853,
+        "discogs_reviews": 559,
+        "discogs_rating": 4.13,
+        "cover_path": "covers/001c2db4-68d0-34ba-80e0-992628859eba.jpeg"
+      },
+      {
+        "title": "The Raven",
+        "year": 2003,
+        "mb_rgid": "e288b7b4-1e64-32ca-b7ad-494e9b294415",
+        "match_strategy": "url_rel",
+        "discogs_id": 549459,
+        "discogs_reviews": 338,
+        "discogs_rating": 3.9,
+        "cover_path": "covers/e288b7b4-1e64-32ca-b7ad-494e9b294415.jpeg"
+      },
+      {
+        "title": "Hudson River Wind Meditations",
+        "year": 2007,
+        "mb_rgid": "8a317972-c157-3584-b44a-cd2cb138c14e",
+        "match_strategy": "url_rel",
+        "discogs_id": 1051337,
+        "discogs_reviews": 101,
+        "discogs_rating": 3.9,
+        "cover_path": "covers/8a317972-c157-3584-b44a-cd2cb138c14e.jpeg"
+      },
+      {
+        "title": "Lulu",
+        "year": 2011,
+        "mb_rgid": "38d1077e-c270-49a8-92ca-87e7eb8d9fe4",
+        "match_strategy": "url_rel",
+        "discogs_id": 3200497,
+        "discogs_reviews": 1094,
+        "discogs_rating": 3.43,
+        "cover_path": "covers/38d1077e-c270-49a8-92ca-87e7eb8d9fe4.jpeg"
+      }
+    ]
+  },
+  {
+    "mbid": "abd506e1-6f2b-4d6f-b937-92c267f6f88b",
+    "name": "Journey",
+    "genre": "rock",
+    "sub_genre": "hard rock",
+    "albums": [
+      {
+        "title": "Journey",
+        "year": 1975,
+        "mb_rgid": "32c89ed6-85fd-3f8c-aca9-d9dada759436",
+        "match_strategy": "url_rel",
+        "discogs_id": 598913,
+        "discogs_reviews": 833,
+        "discogs_rating": 4.09,
+        "cover_path": "covers/32c89ed6-85fd-3f8c-aca9-d9dada759436.jpeg"
+      },
+      {
+        "title": "Look Into the Future",
+        "year": 1976,
+        "mb_rgid": "8758c164-c107-3728-a9e0-05905c2ecdbb",
+        "match_strategy": "url_rel",
+        "discogs_id": 5902498,
+        "discogs_reviews": 746,
+        "discogs_rating": 3.94,
+        "cover_path": "covers/8758c164-c107-3728-a9e0-05905c2ecdbb.jpeg"
+      },
+      {
+        "title": "Next",
+        "year": 1977,
+        "mb_rgid": "1c0ee2ea-38b3-3092-9835-de60a2c11c42",
+        "match_strategy": "url_rel",
+        "discogs_id": 7355650,
+        "discogs_reviews": 608,
+        "discogs_rating": 3.96,
+        "cover_path": "covers/1c0ee2ea-38b3-3092-9835-de60a2c11c42.jpeg"
+      },
+      {
+        "title": "Infinity",
+        "year": 1978,
+        "mb_rgid": "0640fc0b-9713-3f17-8d4f-6c0365bfe5ba",
+        "match_strategy": "url_rel",
+        "discogs_id": 1306413,
+        "discogs_reviews": 1933,
+        "discogs_rating": 4.05,
+        "cover_path": "covers/0640fc0b-9713-3f17-8d4f-6c0365bfe5ba.jpeg"
+      },
+      {
+        "title": "Evolution",
+        "year": 1979,
+        "mb_rgid": "b94085f5-d3e9-3180-bce3-04707b5c4f42",
+        "match_strategy": "url_rel",
+        "discogs_id": 4277061,
+        "discogs_reviews": 1409,
+        "discogs_rating": 3.93,
+        "cover_path": "covers/b94085f5-d3e9-3180-bce3-04707b5c4f42.jpeg"
+      },
+      {
+        "title": "Departure",
+        "year": 1980,
+        "mb_rgid": "13480680-7ec8-35dd-9c6d-e4278ca6ee6c",
+        "match_strategy": "url_rel",
+        "discogs_id": 1763882,
+        "discogs_reviews": 1494,
+        "discogs_rating": 3.95,
+        "cover_path": "covers/13480680-7ec8-35dd-9c6d-e4278ca6ee6c.jpeg"
+      },
+      {
+        "title": "Escape",
+        "year": 1981,
+        "mb_rgid": "89ed7ed6-4292-3892-b0de-c9c27005c08d",
+        "match_strategy": "url_rel",
+        "discogs_id": 543205,
+        "discogs_reviews": 4135,
+        "discogs_rating": 4.19,
+        "cover_path": "covers/89ed7ed6-4292-3892-b0de-c9c27005c08d.jpeg"
+      },
+      {
+        "title": "Frontiers",
+        "year": 1983,
+        "mb_rgid": "13902eea-edc0-3399-894f-6a41436fa5d9",
+        "match_strategy": "url_rel",
+        "discogs_id": 1455421,
+        "discogs_reviews": 2837,
+        "discogs_rating": 4.15,
+        "cover_path": "covers/13902eea-edc0-3399-894f-6a41436fa5d9.jpeg"
+      },
+      {
+        "title": "Raised on Radio",
+        "year": 1986,
+        "mb_rgid": "804a2edb-4459-36ae-8620-8eb66bcd6c22",
+        "match_strategy": "url_rel",
+        "discogs_id": 1588707,
+        "discogs_reviews": 1352,
+        "discogs_rating": 4.05,
+        "cover_path": "covers/804a2edb-4459-36ae-8620-8eb66bcd6c22.jpeg"
+      },
+      {
+        "title": "Trial by Fire",
+        "year": 1996,
+        "mb_rgid": "6bfedbb0-34fb-37f2-97cf-b6dd1fcaef09",
+        "match_strategy": "url_rel",
+        "discogs_id": 5294762,
+        "discogs_reviews": 367,
+        "discogs_rating": 4.09,
+        "cover_path": "covers/6bfedbb0-34fb-37f2-97cf-b6dd1fcaef09.jpeg"
+      },
+      {
+        "title": "Arrival",
+        "year": 2000,
+        "mb_rgid": "e00ab11a-732b-397e-8bca-fd96c102d136",
+        "match_strategy": "url_rel",
+        "discogs_id": 2519747,
+        "discogs_reviews": 238,
+        "discogs_rating": 3.9,
+        "cover_path": "covers/e00ab11a-732b-397e-8bca-fd96c102d136.jpeg"
+      },
+      {
+        "title": "Generations",
+        "year": 2005,
+        "mb_rgid": "7f8cd8a4-c3f4-328d-8c51-bf40d12cd15e",
+        "match_strategy": "url_rel",
+        "discogs_id": 11424791,
+        "discogs_reviews": 113,
+        "discogs_rating": 3.73,
+        "cover_path": "covers/7f8cd8a4-c3f4-328d-8c51-bf40d12cd15e.jpeg"
+      },
+      {
+        "title": "Revelation",
+        "year": 2008,
+        "mb_rgid": "220d0e87-a27d-3d79-8769-65c289349c8a",
+        "match_strategy": "url_rel",
+        "discogs_id": 5050805,
+        "discogs_reviews": 218,
+        "discogs_rating": 4.13,
+        "cover_path": "covers/220d0e87-a27d-3d79-8769-65c289349c8a.jpeg"
+      },
+      {
+        "title": "Eclipse",
+        "year": 2011,
+        "mb_rgid": "b8c1e58d-d272-4206-90f4-cda9e830871e",
+        "match_strategy": "url_rel",
+        "discogs_id": 2924425,
+        "discogs_reviews": 250,
+        "discogs_rating": 3.93,
+        "cover_path": "covers/b8c1e58d-d272-4206-90f4-cda9e830871e.jpeg"
+      },
+      {
+        "title": "Freedom",
+        "year": 2022,
+        "mb_rgid": "040cf24c-4600-4e20-b10c-cb9614bc80f9",
+        "match_strategy": "url_rel",
+        "discogs_id": 23826272,
+        "discogs_reviews": 194,
+        "discogs_rating": 4.07,
+        "cover_path": "covers/040cf24c-4600-4e20-b10c-cb9614bc80f9.jpeg"
+      }
+    ]
+  },
+  {
+    "mbid": "a81259a0-a2f5-464b-866e-71220f2739f1",
+    "name": "ZZ Top",
+    "genre": "rock",
+    "sub_genre": "blues rock",
+    "albums": [
+      {
+        "title": "ZZ Top’s First Album",
+        "year": 1970,
+        "mb_rgid": "b9bc44a2-5666-3862-b7f7-209c3022d9f9",
+        "match_strategy": "url_rel",
+        "discogs_id": 2660452,
+        "discogs_reviews": 1623,
+        "discogs_rating": 4.33,
+        "cover_path": "covers/b9bc44a2-5666-3862-b7f7-209c3022d9f9.jpeg"
+      },
+      {
+        "title": "Rio Grande Mud",
+        "year": 1972,
+        "mb_rgid": "7f5c9df6-5626-3b5c-bef9-fc012bd04824",
+        "match_strategy": "url_rel",
+        "discogs_id": 1070986,
+        "discogs_reviews": 1445,
+        "discogs_rating": 4.26,
+        "cover_path": "covers/7f5c9df6-5626-3b5c-bef9-fc012bd04824.jpeg"
+      },
+      {
+        "title": "Tres hombres",
+        "year": 1973,
+        "mb_rgid": "3aee7fe4-813e-3f04-8280-8d25f066f143",
+        "match_strategy": "url_rel",
+        "discogs_id": 840158,
+        "discogs_reviews": 4305,
+        "discogs_rating": 4.39,
+        "cover_path": "covers/3aee7fe4-813e-3f04-8280-8d25f066f143.jpeg"
+      },
+      {
+        "title": "Fandango!",
+        "year": 1975,
+        "mb_rgid": "50196017-7002-378a-918b-653efd010c5e",
+        "match_strategy": "url_rel",
+        "discogs_id": 1210423,
+        "discogs_reviews": 2390,
+        "discogs_rating": 4.01,
+        "cover_path": "covers/50196017-7002-378a-918b-653efd010c5e.jpeg"
+      },
+      {
+        "title": "Tejas",
+        "year": 1976,
+        "mb_rgid": "6d8d4a77-3d5d-3f05-ab54-42890f26ba55",
+        "match_strategy": "url_rel",
+        "discogs_id": 1779482,
+        "discogs_reviews": 1655,
+        "discogs_rating": 4.13,
+        "cover_path": "covers/6d8d4a77-3d5d-3f05-ab54-42890f26ba55.jpeg"
+      },
+      {
+        "title": "Degüello",
+        "year": 1979,
+        "mb_rgid": "eb3680db-48e2-3397-9ff7-3a28c9ed3e64",
+        "match_strategy": "url_rel",
+        "discogs_id": 766667,
+        "discogs_reviews": 2643,
+        "discogs_rating": 4.24,
+        "cover_path": "covers/eb3680db-48e2-3397-9ff7-3a28c9ed3e64.jpeg"
+      },
+      {
+        "title": "El loco",
+        "year": 1981,
+        "mb_rgid": "4afdb4b3-5204-3624-a15c-081c3143c0ff",
+        "match_strategy": "url_rel",
+        "discogs_id": 4944475,
+        "discogs_reviews": 1750,
+        "discogs_rating": 3.93,
+        "cover_path": "covers/4afdb4b3-5204-3624-a15c-081c3143c0ff.jpeg"
+      },
+      {
+        "title": "Eliminator",
+        "year": 1983,
+        "mb_rgid": "c58b50f0-d7a4-322c-b281-d86ebe3b8acf",
+        "match_strategy": "url_rel",
+        "discogs_id": 8608241,
+        "discogs_reviews": 5900,
+        "discogs_rating": 4.22,
+        "cover_path": "covers/c58b50f0-d7a4-322c-b281-d86ebe3b8acf.jpeg"
+      },
+      {
+        "title": "Afterburner",
+        "year": 1985,
+        "mb_rgid": "a009b151-0186-3db8-9dda-e0c4af23afab",
+        "match_strategy": "url_rel",
+        "discogs_id": 4359534,
+        "discogs_reviews": 3961,
+        "discogs_rating": 3.98,
+        "cover_path": "covers/a009b151-0186-3db8-9dda-e0c4af23afab.jpeg"
+      },
+      {
+        "title": "Recycler",
+        "year": 1990,
+        "mb_rgid": "0db78744-4f5a-3c50-9d57-9b799bcf0de6",
+        "match_strategy": "url_rel",
+        "discogs_id": 8140245,
+        "discogs_reviews": 1448,
+        "discogs_rating": 3.96,
+        "cover_path": "covers/0db78744-4f5a-3c50-9d57-9b799bcf0de6.jpeg"
+      },
+      {
+        "title": "Antenna",
+        "year": 1993,
+        "mb_rgid": "00d9b03b-0d58-32bb-a271-fec858bd89c5",
+        "match_strategy": "url_rel",
+        "discogs_id": 1593230,
+        "discogs_reviews": 716,
+        "discogs_rating": 3.98,
+        "cover_path": "covers/00d9b03b-0d58-32bb-a271-fec858bd89c5.jpeg"
+      },
+      {
+        "title": "Rhythmeen",
+        "year": 1996,
+        "mb_rgid": "e1fffc30-79cb-39cb-a5ab-ff9d11022978",
+        "match_strategy": "url_rel",
+        "discogs_id": 806644,
+        "discogs_reviews": 467,
+        "discogs_rating": 3.99,
+        "cover_path": "covers/e1fffc30-79cb-39cb-a5ab-ff9d11022978.jpeg"
+      },
+      {
+        "title": "XXX",
+        "year": 1999,
+        "mb_rgid": "2a60f586-74c9-332f-ab2b-06a3622b8099",
+        "match_strategy": "url_rel",
+        "discogs_id": 947292,
+        "discogs_reviews": 326,
+        "discogs_rating": 3.85,
+        "cover_path": "covers/2a60f586-74c9-332f-ab2b-06a3622b8099.jpeg"
+      },
+      {
+        "title": "Mescalero",
+        "year": 2003,
+        "mb_rgid": "2037fa24-0878-3a86-8dec-d336563f5c26",
+        "match_strategy": "url_rel",
+        "discogs_id": 3024811,
+        "discogs_reviews": 270,
+        "discogs_rating": 4.0,
+        "cover_path": "covers/2037fa24-0878-3a86-8dec-d336563f5c26.jpeg"
+      },
+      {
+        "title": "La futura",
+        "year": 2012,
+        "mb_rgid": "6095c9dd-38e0-4332-9e55-b032fd61ec0f",
+        "match_strategy": "url_rel",
+        "discogs_id": 3866639,
+        "discogs_reviews": 736,
+        "discogs_rating": 4.13,
+        "cover_path": "covers/6095c9dd-38e0-4332-9e55-b032fd61ec0f.jpeg"
+      }
+    ]
+  },
+  {
+    "mbid": "e49f69da-17d5-4c5c-bac0-dadcb0e588f5",
+    "name": "Mark Knopfler",
+    "genre": "rock",
+    "sub_genre": "blues rock",
+    "albums": [
+      {
+        "title": "Neck and Neck",
+        "year": 1990,
+        "mb_rgid": "3f831051-75f4-3085-8d0f-8b94adbb3c5e",
+        "match_strategy": "url_rel",
+        "discogs_id": 2019648,
+        "discogs_reviews": 855,
+        "discogs_rating": 4.12,
+        "cover_path": "covers/3f831051-75f4-3085-8d0f-8b94adbb3c5e.jpeg"
+      },
+      {
+        "title": "Golden Heart",
+        "year": 1996,
+        "mb_rgid": "36d64288-e9ae-309b-864a-f9acdaca7387",
+        "match_strategy": "url_rel",
+        "discogs_id": 371889,
+        "discogs_reviews": 671,
+        "discogs_rating": 3.95,
+        "cover_path": "covers/36d64288-e9ae-309b-864a-f9acdaca7387.jpeg"
+      },
+      {
+        "title": "Sailing to Philadelphia",
+        "year": 2000,
+        "mb_rgid": "1820a724-b0c3-39ff-b1c1-e3dfdf3a18a6",
+        "match_strategy": "url_rel",
+        "discogs_id": 4301165,
+        "discogs_reviews": 1168,
+        "discogs_rating": 4.14,
+        "cover_path": "covers/1820a724-b0c3-39ff-b1c1-e3dfdf3a18a6.jpeg"
+      },
+      {
+        "title": "The Ragpicker’s Dream",
+        "year": 2002,
+        "mb_rgid": "9855c588-2fec-315a-93cd-c613752c9de2",
+        "match_strategy": "url_rel",
+        "discogs_id": 3023609,
+        "discogs_reviews": 598,
+        "discogs_rating": 4.02,
+        "cover_path": "covers/9855c588-2fec-315a-93cd-c613752c9de2.jpeg"
+      },
+      {
+        "title": "Shangri‐La",
+        "year": 2004,
+        "mb_rgid": "b21318ca-ba79-3d9a-aa46-ffc3b8a9b98a",
+        "match_strategy": "url_rel",
+        "discogs_id": 1210412,
+        "discogs_reviews": 719,
+        "discogs_rating": 4.23,
+        "cover_path": "covers/b21318ca-ba79-3d9a-aa46-ffc3b8a9b98a.jpeg"
+      },
+      {
+        "title": "All the Roadrunning",
+        "year": 2006,
+        "mb_rgid": "1b4d7819-4523-3ef6-beb4-dcc491e3e65c",
+        "match_strategy": "url_rel",
+        "discogs_id": 794929,
+        "discogs_reviews": 762,
+        "discogs_rating": 4.37,
+        "cover_path": "covers/1b4d7819-4523-3ef6-beb4-dcc491e3e65c.jpeg"
+      },
+      {
+        "title": "Kill to Get Crimson",
+        "year": 2007,
+        "mb_rgid": "73e7b1df-648c-3bca-88f1-db3b4622c23a",
+        "match_strategy": "url_rel",
+        "discogs_id": 3234289,
+        "discogs_reviews": 516,
+        "discogs_rating": 4.2,
+        "cover_path": "covers/73e7b1df-648c-3bca-88f1-db3b4622c23a.jpeg"
+      },
+      {
+        "title": "Get Lucky",
+        "year": 2009,
+        "mb_rgid": "bfe4edbb-3a4a-4193-91c7-ea5367d6c4fc",
+        "match_strategy": "url_rel",
+        "discogs_id": 1969946,
+        "discogs_reviews": 567,
+        "discogs_rating": 4.31,
+        "cover_path": "covers/bfe4edbb-3a4a-4193-91c7-ea5367d6c4fc.jpeg"
+      },
+      {
+        "title": "Privateering",
+        "year": 2012,
+        "mb_rgid": "f0dbf6b0-a259-4c3d-a6db-d8818c193024",
+        "match_strategy": "url_rel",
+        "discogs_id": 3892177,
+        "discogs_reviews": 881,
+        "discogs_rating": 4.36,
+        "cover_path": "covers/f0dbf6b0-a259-4c3d-a6db-d8818c193024.jpeg"
+      },
+      {
+        "title": "Tracker",
+        "year": 2015,
+        "mb_rgid": "1b7e182d-5c13-41cc-8ee6-780fba9da71b",
+        "match_strategy": "url_rel",
+        "discogs_id": 15949438,
+        "discogs_reviews": 859,
+        "discogs_rating": 4.38,
+        "cover_path": "covers/1b7e182d-5c13-41cc-8ee6-780fba9da71b.jpeg"
+      },
+      {
+        "title": "Down the Road Wherever",
+        "year": 2018,
+        "mb_rgid": "9f553358-71d1-4f0e-b182-b34ccdb1dfab",
+        "match_strategy": "url_rel",
+        "discogs_id": 12806941,
+        "discogs_reviews": 740,
+        "discogs_rating": 4.41,
+        "cover_path": "covers/9f553358-71d1-4f0e-b182-b34ccdb1dfab.jpeg"
+      },
+      {
+        "title": "One Deep River",
+        "year": 2024,
+        "mb_rgid": "3c55e230-8dd9-4852-8273-e837d2528419",
+        "match_strategy": "url_rel",
+        "discogs_id": 30365942,
+        "discogs_reviews": 645,
+        "discogs_rating": 4.51,
+        "cover_path": "covers/3c55e230-8dd9-4852-8273-e837d2528419.jpeg"
+      }
+    ]
+  },
+  {
+    "mbid": "109958eb-a335-4c5e-907e-597ff4c6af46",
+    "name": "Creedence Clearwater Revival",
+    "genre": "rock",
+    "sub_genre": "blues rock",
+    "albums": [
+      {
+        "title": "Creedence Clearwater Revival",
+        "year": 1968,
+        "mb_rgid": "871da799-a7f7-39df-8332-e246584458dd",
+        "match_strategy": "url_rel",
+        "discogs_id": 2754978,
+        "discogs_reviews": 2301,
+        "discogs_rating": 4.32,
+        "cover_path": "covers/871da799-a7f7-39df-8332-e246584458dd.jpeg"
+      },
+      {
+        "title": "Bayou Country",
+        "year": 1969,
+        "mb_rgid": "ef55850c-7b38-30fc-8f8d-d10f28784094",
+        "match_strategy": "url_rel",
+        "discogs_id": 680968,
+        "discogs_reviews": 3340,
+        "discogs_rating": 4.39,
+        "cover_path": "covers/ef55850c-7b38-30fc-8f8d-d10f28784094.jpeg"
+      },
+      {
+        "title": "Green River",
+        "year": 1969,
+        "mb_rgid": "6c08878c-d6a1-37b6-84c3-9566748545c1",
+        "match_strategy": "url_rel",
+        "discogs_id": 1132211,
+        "discogs_reviews": 3697,
+        "discogs_rating": 4.36,
+        "cover_path": "covers/6c08878c-d6a1-37b6-84c3-9566748545c1.jpeg"
+      },
+      {
+        "title": "Willy and the Poor Boys",
+        "year": 1969,
+        "mb_rgid": "5fdea541-32fc-3b17-b7c4-50b40f65203d",
+        "match_strategy": "url_rel",
+        "discogs_id": 1331703,
+        "discogs_reviews": 3417,
+        "discogs_rating": 4.38,
+        "cover_path": "covers/5fdea541-32fc-3b17-b7c4-50b40f65203d.jpeg"
+      },
+      {
+        "title": "Cosmo’s Factory",
+        "year": 1970,
+        "mb_rgid": "3a31800f-1916-3f4c-a7ae-26b783d00670",
+        "match_strategy": "url_rel",
+        "discogs_id": 1018597,
+        "discogs_reviews": 5355,
+        "discogs_rating": 4.44,
+        "cover_path": "covers/3a31800f-1916-3f4c-a7ae-26b783d00670.jpeg"
+      },
+      {
+        "title": "Pendulum",
+        "year": 1970,
+        "mb_rgid": "da556835-e464-3389-881f-362ef8f984b3",
+        "match_strategy": "url_rel",
+        "discogs_id": 573252,
+        "discogs_reviews": 2554,
+        "discogs_rating": 4.13,
+        "cover_path": "covers/da556835-e464-3389-881f-362ef8f984b3.jpeg"
+      },
+      {
+        "title": "Mardi Gras",
+        "year": 1972,
+        "mb_rgid": "b0732b50-1b4e-34a3-bd82-d23c8437d6ba",
+        "match_strategy": "url_rel",
+        "discogs_id": 1178161,
+        "discogs_reviews": 1309,
+        "discogs_rating": 3.79,
+        "cover_path": "covers/b0732b50-1b4e-34a3-bd82-d23c8437d6ba.jpeg"
+      }
+    ]
+  },
+  {
+    "mbid": "7249b899-8db8-43e7-9e6e-22f1e736024e",
+    "name": "Def Leppard",
+    "genre": "rock",
+    "sub_genre": "hard rock",
+    "albums": [
+      {
+        "title": "On Through the Night",
+        "year": 1980,
+        "mb_rgid": "23434a86-e665-3722-8dae-214f0fb97f3a",
+        "match_strategy": "url_rel",
+        "discogs_id": 5232039,
+        "discogs_reviews": 1845,
+        "discogs_rating": 4.06,
+        "cover_path": "covers/23434a86-e665-3722-8dae-214f0fb97f3a.jpeg"
+      },
+      {
+        "title": "High ’n’ Dry",
+        "year": 1981,
+        "mb_rgid": "419fa215-3740-3b1c-aa04-a209eab30789",
+        "match_strategy": "url_rel",
+        "discogs_id": 1166246,
+        "discogs_reviews": 2341,
+        "discogs_rating": 4.29,
+        "cover_path": "covers/419fa215-3740-3b1c-aa04-a209eab30789.jpeg"
+      },
+      {
+        "title": "Pyromania",
+        "year": 1983,
+        "mb_rgid": "d77df681-b779-3d6d-b66a-3bfd15985e3e",
+        "match_strategy": "url_rel",
+        "discogs_id": 831997,
+        "discogs_reviews": 4601,
+        "discogs_rating": 4.28,
+        "cover_path": "covers/d77df681-b779-3d6d-b66a-3bfd15985e3e.jpeg"
+      },
+      {
+        "title": "Hysteria",
+        "year": 1987,
+        "mb_rgid": "12fa3845-7c62-36e5-a8da-8be137155a72",
+        "match_strategy": "url_rel",
+        "discogs_id": 1514071,
+        "discogs_reviews": 4973,
+        "discogs_rating": 4.4,
+        "cover_path": "covers/12fa3845-7c62-36e5-a8da-8be137155a72.jpeg"
+      },
+      {
+        "title": "Adrenalize",
+        "year": 1992,
+        "mb_rgid": "5b930454-b937-3d49-b26c-e82c4eded9bc",
+        "match_strategy": "url_rel",
+        "discogs_id": 1535011,
+        "discogs_reviews": 1500,
+        "discogs_rating": 4.16,
+        "cover_path": "covers/5b930454-b937-3d49-b26c-e82c4eded9bc.jpeg"
+      },
+      {
+        "title": "Slang",
+        "year": 1996,
+        "mb_rgid": "d58266a8-e00c-3a64-b7e1-549e28f772ee",
+        "match_strategy": "url_rel",
+        "discogs_id": 1352454,
+        "discogs_reviews": 677,
+        "discogs_rating": 4.07,
+        "cover_path": "covers/d58266a8-e00c-3a64-b7e1-549e28f772ee.jpeg"
+      },
+      {
+        "title": "Euphoria",
+        "year": 1999,
+        "mb_rgid": "2dca8523-24e2-3a51-8bb4-038e979e689b",
+        "match_strategy": "url_rel",
+        "discogs_id": 2359402,
+        "discogs_reviews": 507,
+        "discogs_rating": 3.95,
+        "cover_path": "covers/2dca8523-24e2-3a51-8bb4-038e979e689b.jpeg"
+      },
+      {
+        "title": "X",
+        "year": 2002,
+        "mb_rgid": "233dec0f-611d-36c6-8675-90fb53707adb",
+        "match_strategy": "url_rel",
+        "discogs_id": 842525,
+        "discogs_reviews": 357,
+        "discogs_rating": 3.87,
+        "cover_path": "covers/233dec0f-611d-36c6-8675-90fb53707adb.jpeg"
+      },
+      {
+        "title": "Yeah!",
+        "year": 2006,
+        "mb_rgid": "5826c723-c45c-3640-80d6-ea176f45159b",
+        "match_strategy": "url_rel",
+        "discogs_id": 814539,
+        "discogs_reviews": 270,
+        "discogs_rating": 4.11,
+        "cover_path": "covers/5826c723-c45c-3640-80d6-ea176f45159b.jpeg"
+      },
+      {
+        "title": "Songs From the Sparkle Lounge",
+        "year": 2008,
+        "mb_rgid": "f8494f1a-caf3-37bd-9e36-05028306bfff",
+        "match_strategy": "url_rel",
+        "discogs_id": 1607757,
+        "discogs_reviews": 343,
+        "discogs_rating": 3.96,
+        "cover_path": "covers/f8494f1a-caf3-37bd-9e36-05028306bfff.jpeg"
+      },
+      {
+        "title": "Def Leppard",
+        "year": 2015,
+        "mb_rgid": "3ef1f2b2-4ff0-482d-8b42-c2c2ea6b144d",
+        "match_strategy": "url_rel",
+        "discogs_id": 7661694,
+        "discogs_reviews": 515,
+        "discogs_rating": 4.21,
+        "cover_path": "covers/3ef1f2b2-4ff0-482d-8b42-c2c2ea6b144d.jpeg"
+      },
+      {
+        "title": "Diamond Star Halos",
+        "year": 2022,
+        "mb_rgid": "7e4ae23f-0e18-4102-8d14-56b23f617573",
+        "match_strategy": "url_rel",
+        "discogs_id": 23371322,
+        "discogs_reviews": 603,
+        "discogs_rating": 4.34,
+        "cover_path": "covers/7e4ae23f-0e18-4102-8d14-56b23f617573.jpeg"
+      }
+    ]
+  },
+  {
+    "mbid": "2819834e-4e08-47b0-a2c4-b7672318e8f0",
+    "name": "The Byrds",
+    "genre": "rock",
+    "sub_genre": "folk rock",
+    "albums": [
+      {
+        "title": "Mr. Tambourine Man",
+        "year": 1965,
+        "mb_rgid": "2b83d3e4-d461-31d6-9e2a-c99b69421e28",
+        "match_strategy": "url_rel",
+        "discogs_id": 1456636,
+        "discogs_reviews": 1768,
+        "discogs_rating": 4.16,
+        "cover_path": "covers/2b83d3e4-d461-31d6-9e2a-c99b69421e28.jpeg"
+      },
+      {
+        "title": "Turn! Turn! Turn!",
+        "year": 1965,
+        "mb_rgid": "309d7e2e-d5a4-30ce-8b44-a3db97266cfc",
+        "match_strategy": "url_rel",
+        "discogs_id": 10201140,
+        "discogs_reviews": 1383,
+        "discogs_rating": 4.14,
+        "cover_path": "covers/309d7e2e-d5a4-30ce-8b44-a3db97266cfc.jpeg"
+      },
+      {
+        "title": "Fifth Dimension",
+        "year": 1966,
+        "mb_rgid": "8b98a364-6551-379f-89ea-c3fed4d5552f",
+        "match_strategy": "url_rel",
+        "discogs_id": 399668,
+        "discogs_reviews": 1673,
+        "discogs_rating": 4.25,
+        "cover_path": "covers/8b98a364-6551-379f-89ea-c3fed4d5552f.jpeg"
+      },
+      {
+        "title": "Younger Than Yesterday",
+        "year": 1967,
+        "mb_rgid": "4e4c1014-7c7b-397a-9c80-35b115a034fe",
+        "match_strategy": "url_rel",
+        "discogs_id": 1562820,
+        "discogs_reviews": 1653,
+        "discogs_rating": 4.32,
+        "cover_path": "covers/4e4c1014-7c7b-397a-9c80-35b115a034fe.jpeg"
+      },
+      {
+        "title": "The Notorious Byrd Brothers",
+        "year": 1968,
+        "mb_rgid": "5f8c3b00-bdfe-38ea-8a5d-61dc7e50882e",
+        "match_strategy": "url_rel",
+        "discogs_id": 1456661,
+        "discogs_reviews": 1528,
+        "discogs_rating": 4.29,
+        "cover_path": "covers/5f8c3b00-bdfe-38ea-8a5d-61dc7e50882e.jpeg"
+      },
+      {
+        "title": "Sweetheart of the Rodeo",
+        "year": 1968,
+        "mb_rgid": "2a02ea31-7a7f-3a46-8a46-aebfac434a81",
+        "match_strategy": "url_rel",
+        "discogs_id": 1081165,
+        "discogs_reviews": 2058,
+        "discogs_rating": 4.37,
+        "cover_path": "covers/2a02ea31-7a7f-3a46-8a46-aebfac434a81.jpeg"
+      },
+      {
+        "title": "Dr. Byrds & Mr. Hyde",
+        "year": 1969,
+        "mb_rgid": "3445830d-5cd8-3c91-9970-aa08591d50d1",
+        "match_strategy": "url_rel",
+        "discogs_id": 1202299,
+        "discogs_reviews": 766,
+        "discogs_rating": 3.88,
+        "cover_path": "covers/3445830d-5cd8-3c91-9970-aa08591d50d1.jpeg"
+      },
+      {
+        "title": "Ballad of Easy Rider",
+        "year": 1969,
+        "mb_rgid": "22c62cad-67d1-30a1-a4fc-73715b86361a",
+        "match_strategy": "url_rel",
+        "discogs_id": 509201,
+        "discogs_reviews": 814,
+        "discogs_rating": 3.85,
+        "cover_path": "covers/22c62cad-67d1-30a1-a4fc-73715b86361a.jpeg"
+      },
+      {
+        "title": "(Untitled)",
+        "year": 1970,
+        "mb_rgid": "b67d5581-1e93-3a96-a9ec-e4e8334a9c28",
+        "match_strategy": "url_rel",
+        "discogs_id": 1305476,
+        "discogs_reviews": 1325,
+        "discogs_rating": 3.97,
+        "cover_path": "covers/b67d5581-1e93-3a96-a9ec-e4e8334a9c28.jpeg"
+      },
+      {
+        "title": "Byrdmaniax",
+        "year": 1971,
+        "mb_rgid": "2c3ec437-8ddd-3e26-9fe0-744d98adcd25",
+        "match_strategy": "url_rel",
+        "discogs_id": 1449520,
+        "discogs_reviews": 461,
+        "discogs_rating": 3.54,
+        "cover_path": "covers/2c3ec437-8ddd-3e26-9fe0-744d98adcd25.jpeg"
+      },
+      {
+        "title": "Farther Along",
+        "year": 1971,
+        "mb_rgid": "84cfd878-876b-3b87-97c2-f3e8960066d1",
+        "match_strategy": "url_rel",
+        "discogs_id": 12721037,
+        "discogs_reviews": 458,
+        "discogs_rating": 3.67,
+        "cover_path": "covers/84cfd878-876b-3b87-97c2-f3e8960066d1.jpeg"
+      },
+      {
+        "title": "Byrds",
+        "year": 1973,
+        "mb_rgid": "bd02a045-055c-3b42-9898-cd0b697812a3",
+        "match_strategy": "url_rel",
+        "discogs_id": 1189386,
+        "discogs_reviews": 916,
+        "discogs_rating": 3.72,
+        "cover_path": "covers/bd02a045-055c-3b42-9898-cd0b697812a3.jpeg"
+      }
+    ]
+  },
+  {
+    "mbid": "05ec70a5-3858-4346-a649-fda0a297b8c1",
+    "name": "Shirley Bassey",
+    "genre": "pop",
+    "sub_genre": "pop",
+    "albums": [
+      {
+        "title": "Born to Sing the Blues",
+        "year": 1957,
+        "mb_rgid": "710f29e5-429f-4379-96ee-2486ee75bc5e",
+        "match_strategy": "search",
+        "discogs_id": 8370748,
+        "discogs_reviews": 2,
+        "discogs_rating": 4.5,
+        "cover_path": null
+      },
+      {
+        "title": "The Bewitching Miss Bassey",
+        "year": 1959,
+        "mb_rgid": "7ffb8486-0a23-3ad9-b422-6db6db2c09be",
+        "match_strategy": "url_rel",
+        "discogs_id": 5348557,
+        "discogs_reviews": 31,
+        "discogs_rating": 4.07,
+        "cover_path": "covers/7ffb8486-0a23-3ad9-b422-6db6db2c09be.jpeg"
+      },
+      {
+        "title": "The Fabulous Shirley Bassey",
+        "year": 1959,
+        "mb_rgid": "cf69b824-134c-3060-9e0f-9c6abf2a6e88",
+        "match_strategy": "url_rel",
+        "discogs_id": 1942891,
+        "discogs_reviews": 147,
+        "discogs_rating": 3.8,
+        "cover_path": "covers/cf69b824-134c-3060-9e0f-9c6abf2a6e88.jpeg"
+      },
+      {
+        "title": "Shirley Bassey",
+        "year": 1961,
+        "mb_rgid": "45c5b295-d798-342c-93f1-315b990134d2",
+        "match_strategy": "url_rel",
+        "discogs_id": 3195057,
+        "discogs_reviews": 66,
+        "discogs_rating": 4.03,
+        "cover_path": "covers/45c5b295-d798-342c-93f1-315b990134d2.jpeg"
+      },
+      {
+        "title": "Let's Face the Music",
+        "year": 1962,
+        "mb_rgid": "a8b28f63-7a11-31ec-a231-fdbf6b2dae48",
+        "match_strategy": "search",
+        "discogs_id": 4293060,
+        "discogs_reviews": 1,
+        "discogs_rating": 4.0,
+        "cover_path": null
+      },
+      {
+        "title": "Shirley Bassey Sings The Hit Song From Oliver Plus Other Popular Selections",
+        "year": 1962,
+        "mb_rgid": "186ca6d5-2a41-4694-b30c-ba2e4d17fa57",
+        "match_strategy": "url_rel",
+        "discogs_id": 3801394,
+        "discogs_reviews": 13,
+        "discogs_rating": 4.38,
+        "cover_path": "covers/186ca6d5-2a41-4694-b30c-ba2e4d17fa57.jpeg"
+      },
+      {
+        "title": "Shirley Stops the Shows",
+        "year": 1965,
+        "mb_rgid": "03fa5f9f-4ef2-41c5-9987-30d33f900dcf",
+        "match_strategy": "url_rel",
+        "discogs_id": 1215175,
+        "discogs_reviews": 34,
+        "discogs_rating": 3.77,
+        "cover_path": "covers/03fa5f9f-4ef2-41c5-9987-30d33f900dcf.jpeg"
+      },
+      {
+        "title": "I’ve Got a Song for You",
+        "year": 1966,
+        "mb_rgid": "605b7913-58fe-45b9-a2c3-ae62abe44e22",
+        "match_strategy": "url_rel",
+        "discogs_id": 4410396,
+        "discogs_reviews": 97,
+        "discogs_rating": 3.82,
+        "cover_path": "covers/605b7913-58fe-45b9-a2c3-ae62abe44e22.jpeg"
+      },
+      {
+        "title": "And We Were Lovers",
+        "year": 1967,
+        "mb_rgid": "24ed525c-332a-33da-8f5d-7e17eea77c0e",
+        "match_strategy": "url_rel",
+        "discogs_id": 1988759,
+        "discogs_reviews": 109,
+        "discogs_rating": 3.93,
+        "cover_path": "covers/24ed525c-332a-33da-8f5d-7e17eea77c0e.jpeg"
+      },
+      {
+        "title": "12 of Those Songs",
+        "year": 1968,
+        "mb_rgid": "e16a2548-d1ea-4b0f-8b4c-99989d3da101",
+        "match_strategy": "url_rel",
+        "discogs_id": 392994,
+        "discogs_reviews": 17,
+        "discogs_rating": 4.06,
+        "cover_path": "covers/e16a2548-d1ea-4b0f-8b4c-99989d3da101.jpeg"
+      },
+      {
+        "title": "This Is My Life",
+        "year": 1968,
+        "mb_rgid": "782ce224-fcf1-49ac-aaff-68376fbe6214",
+        "match_strategy": "url_rel",
+        "discogs_id": 393008,
+        "discogs_reviews": 67,
+        "discogs_rating": 4.04,
+        "cover_path": "covers/782ce224-fcf1-49ac-aaff-68376fbe6214.jpeg"
+      },
+      {
+        "title": "Shirley",
+        "year": 1969,
+        "mb_rgid": "5786cc6f-55e2-31b3-880a-fd41e2cbfe41",
+        "match_strategy": "search",
+        "discogs_id": 9027588,
+        "discogs_reviews": null,
+        "discogs_rating": null,
+        "cover_path": null
+      },
+      {
+        "title": "Does Anybody Miss Me",
+        "year": 1969,
+        "mb_rgid": "8b0626f1-26b9-40a2-afe6-0ee28d3fc644",
+        "match_strategy": "search",
+        "discogs_id": 10464259,
+        "discogs_reviews": null,
+        "discogs_rating": null,
+        "cover_path": null
+      },
+      {
+        "title": "Something",
+        "year": 1970,
+        "mb_rgid": "11514158-85ba-3428-8503-8b05b58e1fe2",
+        "match_strategy": "url_rel",
+        "discogs_id": 2089727,
+        "discogs_reviews": 427,
+        "discogs_rating": 4.07,
+        "cover_path": "covers/11514158-85ba-3428-8503-8b05b58e1fe2.jpeg"
+      },
+      {
+        "title": "Something Else",
+        "year": 1971,
+        "mb_rgid": "47aff56f-b516-350f-b5f6-80a41df3b981",
+        "match_strategy": "url_rel",
+        "discogs_id": 1476883,
+        "discogs_reviews": 257,
+        "discogs_rating": 3.97,
+        "cover_path": "covers/47aff56f-b516-350f-b5f6-80a41df3b981.jpeg"
+      },
+      {
+        "title": "I Capricorn",
+        "year": 1972,
+        "mb_rgid": "ce2018fb-00fb-30d2-8808-f5e0da4bb2b2",
+        "match_strategy": "url_rel",
+        "discogs_id": 964026,
+        "discogs_reviews": 175,
+        "discogs_rating": 3.98,
+        "cover_path": "covers/ce2018fb-00fb-30d2-8808-f5e0da4bb2b2.jpeg"
+      },
+      {
+        "title": "And I Love You So",
+        "year": 1972,
+        "mb_rgid": "8ef0f3db-b8aa-4343-857d-0082c98968ed",
+        "match_strategy": "url_rel",
+        "discogs_id": 2138729,
+        "discogs_reviews": 146,
+        "discogs_rating": 4.01,
+        "cover_path": "covers/8ef0f3db-b8aa-4343-857d-0082c98968ed.jpeg"
+      },
+      {
+        "title": "Never, Never, Never",
+        "year": 1973,
+        "mb_rgid": "bbe0aaeb-1ddd-3eb7-b7da-7d0d0b9f1b9d",
+        "match_strategy": "url_rel",
+        "discogs_id": 586039,
+        "discogs_reviews": 321,
+        "discogs_rating": 3.71,
+        "cover_path": "covers/bbe0aaeb-1ddd-3eb7-b7da-7d0d0b9f1b9d.jpeg"
+      },
+      {
+        "title": "Nobody Does It Like Me",
+        "year": 1974,
+        "mb_rgid": "56065598-14fb-3aba-82f0-f977e6c220dc",
+        "match_strategy": "url_rel",
+        "discogs_id": 3494297,
+        "discogs_reviews": 109,
+        "discogs_rating": 3.69,
+        "cover_path": "covers/56065598-14fb-3aba-82f0-f977e6c220dc.jpeg"
+      },
+      {
+        "title": "Good, Bad but Beautiful",
+        "year": 1975,
+        "mb_rgid": "f9977fca-f6ab-4a2f-9681-f5503aa5a268",
+        "match_strategy": "url_rel",
+        "discogs_id": 1034931,
+        "discogs_reviews": 144,
+        "discogs_rating": 3.95,
+        "cover_path": "covers/f9977fca-f6ab-4a2f-9681-f5503aa5a268.jpeg"
+      },
+      {
+        "title": "Love, Life and Feelings",
+        "year": 1976,
+        "mb_rgid": "f0ea0468-1b7c-4215-89ec-441b1e715d82",
+        "match_strategy": "url_rel",
+        "discogs_id": 1680226,
+        "discogs_reviews": 127,
+        "discogs_rating": 3.67,
+        "cover_path": "covers/f0ea0468-1b7c-4215-89ec-441b1e715d82.jpeg"
+      },
+      {
+        "title": "You Take My Heart Away",
+        "year": 1977,
+        "mb_rgid": "7c382303-03ca-4e14-8cfc-5282d8512754",
+        "match_strategy": "url_rel",
+        "discogs_id": 3903642,
+        "discogs_reviews": 59,
+        "discogs_rating": 3.83,
+        "cover_path": "covers/7c382303-03ca-4e14-8cfc-5282d8512754.jpeg"
+      },
+      {
+        "title": "Yesterdays",
+        "year": 1978,
+        "mb_rgid": "b44db693-f220-4ad8-b4a2-5b96425a4099",
+        "match_strategy": "url_rel",
+        "discogs_id": 2562496,
+        "discogs_reviews": 70,
+        "discogs_rating": 3.96,
+        "cover_path": "covers/b44db693-f220-4ad8-b4a2-5b96425a4099.jpeg"
+      },
+      {
+        "title": "All by Myself",
+        "year": 1982,
+        "mb_rgid": "c76ed0ae-d214-34d1-9d65-aa7fd1cdd514",
+        "match_strategy": "url_rel",
+        "discogs_id": 2750694,
+        "discogs_reviews": 104,
+        "discogs_rating": 4.03,
+        "cover_path": "covers/c76ed0ae-d214-34d1-9d65-aa7fd1cdd514.jpeg"
+      },
+      {
+        "title": "I Am What I Am",
+        "year": 1984,
+        "mb_rgid": "761328fd-3c72-3bab-b280-6769b8d661f1",
+        "match_strategy": "url_rel",
+        "discogs_id": 3560162,
+        "discogs_reviews": 133,
+        "discogs_rating": 3.91,
+        "cover_path": "covers/761328fd-3c72-3bab-b280-6769b8d661f1.jpeg"
+      }
+    ]
   }
 ]
