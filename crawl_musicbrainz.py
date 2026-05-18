@@ -258,7 +258,13 @@ def crawl(
                 break
 
             log_section(f"{genre} › {sub_tag}")
-            candidates = search_artists_by_tag(session, sub_tag)
+            try:
+                candidates = search_artists_by_tag(session, sub_tag)
+            except Exception as exc:
+                log(f"✗ tag search failed: {exc} — skipping", indent=1)
+                save_output(artists)
+                log_section_end()
+                continue
 
             if min_score:
                 before = len(candidates)

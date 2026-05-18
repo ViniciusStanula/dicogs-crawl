@@ -290,7 +290,7 @@ hr { border-color: var(--border) !important; margin: 1rem 0 !important; }
 
 # ── Data loading ─────────────────────────────────────────────────────────────
 
-@st.cache_data
+@st.cache_data(ttl=3600)
 def load_data() -> tuple[pd.DataFrame, pd.DataFrame]:
     if not DATA_FILE.exists():
         return pd.DataFrame(), pd.DataFrame()

@@ -27,8 +27,10 @@ jobs:
         uses: actions/cache@v4
         with:
           path: cache/
-          key: api-cache-${{ github.run_id }}
-          restore-keys: api-cache-
+          key: api-cache-crawl-${{ github.run_id }}
+          restore-keys: |
+            api-cache-crawl-
+            api-cache-
 
       - name: Restore crawl output
         uses: actions/cache@v4
@@ -81,8 +83,11 @@ jobs:
         uses: actions/cache@v4
         with:
           path: cache/
-          key: api-cache-${{ github.run_id }}
-          restore-keys: api-cache-
+          key: api-cache-enrich-${{ github.run_id }}
+          restore-keys: |
+            api-cache-enrich-
+            api-cache-crawl-
+            api-cache-
 
       - name: Restore enriched output
         uses: actions/cache@v4
