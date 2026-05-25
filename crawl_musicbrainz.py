@@ -27,6 +27,7 @@ _contact = os.environ.get("MB_CONTACT", "groovesandrecords@gmail.com")
 USER_AGENT = f"MusicGenreExplorer/1.0 ({_contact})"
 CACHE_DIR = Path("./cache")
 OUTPUT_FILE = Path("mb_data.json")
+STATE_FILE  = Path("crawl_state.json")
 SLEEP_INTERVAL = 1.1
 MAX_RETRIES = 3
 
@@ -204,6 +205,22 @@ def process_artist(
 # I/O
 # ---------------------------------------------------------------------------
 
+def load_state() -> set[str]:
+    if STATE_FILE.exists():
+        try:
+            return set(json.loads(STATE_FILE.read_text(encoding="utf-8")).get("completed_tags", []))
+        except (json.JSONDecodeError, AttributeError):
+            pass
+    return set()
+
+
+def save_state(completed_tags: set[str]) -> None:
+    STATE_FILE.write_text(
+        json.dumps({"completed_tags": sorted(completed_tags)}, indent=2),
+        encoding="utf-8",
+    )
+
+
 def load_output() -> dict[str, dict]:
     if OUTPUT_FILE.exists():
         try:
@@ -233,15 +250,17 @@ def crawl(
 ) -> None:
     session = make_session()
     artists = load_output()
+    completed_tags = load_state()
     stats = RunStats()
     deadline = time.time() + max_minutes * 60 if max_minutes else None
 
-    log(f"User-Agent  : {USER_AGENT}")
-    log(f"Genres      : {', '.join(genres)}")
-    log(f"Min score   : {min_score or 'off'}")
-    log(f"Limit       : {limit or 'none'}")
-    log(f"Max minutes : {max_minutes or 'unlimited'}")
-    log(f"Resuming    : {len(artists)} artists already saved")
+    log(f"User-Agent     : {USER_AGENT}")
+    log(f"Genres         : {', '.join(genres)}")
+    log(f"Min score      : {min_score or 'off'}")
+    log(f"Limit          : {limit or 'none'}")
+    log(f"Max minutes    : {max_minutes or 'unlimited'}")
+    log(f"Resuming       : {len(artists)} artists already saved")
+    log(f"Completed tags : {len(completed_tags)}")
 
     valid_subs: set[str] = set()
     for g in genres:
@@ -256,6 +275,10 @@ def crawl(
         for sub_tag in GENRE_MAP[genre]:
             if limit and new_count >= limit:
                 break
+
+            if sub_tag in completed_tags:
+                log(f"  ↷ {genre} › {sub_tag} — already completed, skipping")
+                continue
 
             log_section(f"{genre} › {sub_tag}")
             try:
@@ -322,7 +345,15 @@ def crawl(
                 if (idx + 1) % 10 == 0:
                     save_output(artists)
 
+            else:
+                # for-loop completed without break → all candidates processed
+                if not (limit and new_count >= limit):
+                    completed_tags.add(sub_tag)
+                    save_state(completed_tags)
+                    log(f"  ✓ tag '{sub_tag}' marked complete", indent=1)
+
     save_output(artists)
+    save_state(completed_tags)
     log(f"Finished. {stats.summary_line()}")
     log(f"Total artists in output: {len(artists)}")
 
